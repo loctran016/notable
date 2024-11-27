@@ -127,13 +127,9 @@ $pV=nRT$
 
 * R= 8,3145 J/(mol×K) ➜ p đo bằng pascal, V đo bằng m³
 
-
-
 ### CLS: Béo phì
 
 **Biết enthalpy phản ứng oxy hóa glucose là 2802 kJ/mol ở 25 oC, nếu leo lên cầu thang 3m của nhà 5 tầng với 2 lần mỗi ngày thì lượng gam glucose cần là bao nhiêu. Giả sử rằng 25% enthalpy chuyển thành công có ích?**
-
-
 
 * Công để leo cầu thang: A=F.s=m.g.s= 3x5x2x90,78x10 = 27234 (J)
 
@@ -143,24 +139,16 @@ $pV=nRT$
 
 * Khối lượng glucoso bị oxi hóa: 0,039x180 = 7(g)
 
-
-
 **Một người sau khi bơi bước lên bờ thì cần bao nhiêu năng lượng để nước bốc hơi hết ở 25 <sup>o</sup>C, giả sử lượng nước trên cơ thể sau bơi là 18g. Tính biến đổi nội năng của sự bay hơi?**
 
 Số mol nước bốc hơi: 18/18 = 1 (mol)
 $\Delta H = \Delta U + p \Delta V$
 
-
-
 $1*44,01*1000 = \Delta U + nRT \to \Delta U = 41,5 (kJ)$
-
-
 
 **Một người trong phòng ấm, ăn 100 g cheese (năng lượng từ cheese là 15,52 kJ/g), giả thiết các cơ quan không tiêu thụ năng lượng này. Hỏi cần bao nhiêu ml nước uống vào để bù lại lượng nước bay hơi làm giảm nhiệt độ cơ thể bằng nhiệt độ trước khi ăn cheese?**
 
-
 Số mol nước bốc hơi: 100.15,52/44,01 = 35,26 (mol)
-
 
 Khối lượng nước bốc hơi: 35,26 x18 = 634,8 (g)
 
@@ -174,26 +162,17 @@ Khối lượng nước bốc hơi: 35,26 x18 = 634,8 (g)
 
 Khi APTT  tăng > 320 mOsm/kg, nước từ khoảng kẽ và trong tế bào trong đó có các tế bào thần kinh trung ương bị kéo vào trong lòng mạch làm chức năng não suy giảm  gây ra tình trạng hôn mê và lơ mơ ở bệnh nhân.
 
-
-
 Đầu tiên chỉ truyền dung dịch đẳng trương, sau đó tuỳ mà có thể truyền dung dịch nhược trương
 
 ### CLS Điện hoá
 
-
-
 Sự khử cực và tăng phân cực tế bào phụ thuộc vào kali ngoại bào. Điện thế hoạt động được tạo ra khi tế bào khử cực từ điện thế nghỉ (RP) đến điện thế ngưỡng (TP). Tăng kali máu di chuyển RP đến gần TP và dẫn đến liệt cơ khử cực. Canxi làm tăng TP, cải thiện tác động của tăng kali máu.
 
-
     Tăng kali máu làm giảm điện thế nghỉ tức là tế bào trở nên kém âm hơn. Sau khi khử cực, tế bào không thể tái phân cực đầy đủ và trở nên ít bị kích động. Tăng kali máu nặng gây ra khối khử phân cực và liệt mềm. Các biểu hiện lâm sàng bao gồm mệt mỏi, đau cơ và yếu cơ (đặc biệt là chi dưới), giảm khả năng vận động, dị cảm, chuột rút cơ, thay đổi điện tâm đồ (ECG) và rối loạn nhịp tim. Yếu cơ có thể tiến triển đến liệt dần dần, giảm thông khí và suy hô hấp.
-
-
 
  Đối với bất kì bệnh nhân bị tăng kali máu, bước đầu tiên là phải xử trí cấp cứu Canxi gluconate để ổn định tế bào cơ tim. Sau đó, chúng ta cần sử dụng các phương pháp để thải kali ra máu (sử dụng thuốc để thải kali qua đường nước tiểu, đường phân, lọc máu,…)
 
 - Canxi làm tăng điện thế ngưỡng (threshold), di chuyển nó ra xa điện thế nghỉ  ổn định màng tế bào
-
-
 
 ## Chương I: Mở đầu hoá hữu cơ
 
@@ -211,19 +190,11 @@ Chiều đi từ nơi nhiều e đến nơi ít e hơn
 
 ngoại lệ halogen thì -I luôn mạnh hơn +R
 
-
-
 ### CLS: Case curcumin
 
 ## Chương II: Hoá học lập thể
 
-
-
-
-
 ### CLS: Vàng da ở trẻ sơ sinh
-
-
 
 Đầu tiên, các tế bào hồng cầu hemoglobin  phân  tách  thành 
 heme và globin. 
@@ -231,35 +202,23 @@ heme và globin.
 Các globin được bẻ gãy thành các amino acids, 
 Các heme  được  chia  nhỏ thành  Fe  và Protoporphyrin.  Protoporphyrin  $\to$ Bilirubin Z,Z tan trong lipid chứ không tan trong nước
 
-
-
 Albumin  trong  máu  gắn  với bilirubin Z,Z và vận chuyển nó đến gan và được liên  hợp  với  enzim UGT làm nó tan được trong nước.
-
-
 
 Nguyên nhân gây vàng da bệnh lý ở trẻ :
 
--  Tăng sản xuất bilirubin (do sự gia tăng phân hủy tế bào hồng cầu, đời sống hồng cầu ngắn)
--  Giảm hấp thu ở gan do hàm lượng enzim UGT không đủ
--  Giảm khả năng liên hợp của albumin với bilirubin không liên hợp, giảm khả năng vận chuyển bilirubin
--  Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB $\to$ kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
-
-
+- Tăng sản xuất bilirubin (do sự gia tăng phân hủy tế bào hồng cầu, đời sống hồng cầu ngắn)
+- Giảm hấp thu ở gan do hàm lượng enzim UGT không đủ
+- Giảm khả năng liên hợp của albumin với bilirubin không liên hợp, giảm khả năng vận chuyển bilirubin
+- Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB $\to$ kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
 
 Có đồng phân quang học không phải vì có C thủ tính, mà là do sự xuất hiện của liên kết hidro giữa các vòng A, B, C, D => làm quay mặt phẳng ánh sáng phân cực
 
-
 Chỉ có Z,Z mới có ĐPQH; 3 ĐPHH còn lại không có ĐPQH (vì số lượng liên kết hidro)
-
 
 Nito thủ tính trong trường  hợp  này không gây ra hiện tượng quang hoạt vì electron tự do của nito chịu ảnh hưởng của hiệu ứng cộng hưởng => electron không nằm yên một chỗ trên nito. 
 
-
-
 ĐPHH hình thành nhờ sự quay liên kết pi
 Các cacbon có cấu hình Z sẽ hình thành được liên kết hidro nội phân tử với nhóm -COOH, giảm sự hình thành liên kết hidro giữa bilirubin và nước  (Z,Z) – bilirubin là khó tan trong nước nhất  khó đào thải nhất trong các đồng phân của bilirubin
-
-
 
 Ánh sáng chuyển từ bilirubin Z,Z thành Z,E; E,Z; E,E
 
@@ -283,15 +242,11 @@ Cộng ái thân/thân hạch **A<sub>N</sub>**: Cộng vào $C=O$
 
 * Tác nhân ái nhân ưu tiên tấn công trung tâm dương điện
 
-
-
 ### Phản ứng thế
 
 Phản ứng thế ái điện tử **S<sub>E</sub>**: Thế trên *carbon thơm*
 
 Phản ứng thế ái nhân **S<sub>N</sub>**: Thế trên carbon bão hòa
-
-
 
 ### CLS: Ngộ độc Paracetemol
 
