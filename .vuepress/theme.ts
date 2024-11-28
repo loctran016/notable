@@ -1,7 +1,7 @@
 // import { dateSorter } from "@vuepress/helper";
-import { hopeTheme } from "vuepress-theme-hope";
+import { hopeTheme } from 'vuepress-theme-hope';
 
-import { enNavbar } from "./navbar.js";
+import { enNavbar } from './navbar.js';
 
 export default hopeTheme(
     {
@@ -9,47 +9,47 @@ export default hopeTheme(
         // sidebar: enSidebar,
         sidebar: false,
 
-        footer: "MIT License ©️ Tran Tan Loc",
+        footer: 'MIT License ©️ Tran Tan Loc',
 
         displayFooter: true,
 
         blogLocales: {
-            tutorial: "Tutorial",
+            tutorial: 'Tutorial',
         },
 
         metaLocales: {
-            editLink: "Edit this page on GitHub",
+            editLink: 'Edit this page on GitHub',
         },
 
-        hostname: "https://loctran016.github.io/notable",
+        hostname: 'https://loctran016.github.io/notable',
 
         author: {
-            name: "LocTran016",
+            name: 'LocTran016',
             //   url: "https://your.domain",
         },
 
-        favicon: "/favicon.ico",
+        favicon: '/favicon.ico',
 
-        iconAssets: "fontawesome-with-brands",
+        iconAssets: 'fontawesome-with-brands',
 
         // logo: "",
         // TODO: add logo
 
-        repo: "loctran016/notable",
+        repo: 'loctran016/notable',
         // docsDir: "blog",
 
         blog: {
-            description: "A YDS-er that enjoy Programming 🧑‍💻 <br> & Gym 💪",
-            intro: "/intro.html",
+            description: 'A YDS-er that enjoy Programming 🧑‍💻 <br> & Gym 💪',
+            intro: '/intro.html',
             avatar: 'logo.jpg',
             medias: {
-                Discord: "https://example.com",
+                Discord: 'https://example.com',
                 // Dribbble: "https://example.com",
-                Email: "mailto:ttloc.y24@ump.edu.vn",
+                Email: 'mailto:ttloc.y24@ump.edu.vn',
                 // Evernote: "https://example.com",
-                Facebook: "https://facebook.com/trantanloc016",
+                Facebook: 'https://facebook.com/trantanloc016',
                 // Flipboard: "https://example.com",
-                GitHub: "https://github.com/loctran016",
+                GitHub: 'https://github.com/loctran016',
                 // Gitlab: "https://example.com",
                 // Gmail: "mailto:info@example.com",
                 // Instagram: "https://example.com",
@@ -64,7 +64,6 @@ export default hopeTheme(
                 // },
             },
         },
-
 
         // fullscreen: true,
 
@@ -102,21 +101,25 @@ export default hopeTheme(
             // },
 
             components: {
-                components: ["Badge", "VPCard", "PDF", 'Share'],
+                components: ['Badge', 'VPCard', 'PDF', 'Share'],
                 componentOptions: {
-
                     share: {
 
                         //   colorful: true,
-                        services: ['email', 'facebook', 'messenger', 'telegram'],
-                        colorful: true,
-                        inline: true,
-                    }
-                }
+                        services: [
+                            'email',
+                            'facebook',
+                            'messenger',
+                            'telegram',
+                        ],
+                        // colorful: true,
+                        // inline: true,
+                    },
+                },
                 //   componentsOptions: {},
             },
             searchPro: {
-                autoSuggestions: false
+                autoSuggestions: false,
             },
 
             markdownImage: {
@@ -127,25 +130,24 @@ export default hopeTheme(
 
             // install katex or before enabling it
             markdownMath: {
-                type: "mathjax", // or "mathjax"
-                output: "chtml",
+                type: 'mathjax', // or "mathjax"
+                output: 'chtml',
             },
 
             markdownTab: true,
 
             // markdownMath: true,
             comment: {
-                provider: "Giscus",
+                provider: 'Giscus',
                 // repo: 'notable', repoId: '', category: '',categoryId:''
-                repo: "loctran016/notable",
-                repoId: "R_kgDONUFZ3A",
-                category: "Q&A",
-                categoryId: "DIC_kwDONUFZ3M4CklO9",
-                mapping: "title",
+                repo: 'loctran016/notable',
+                repoId: 'R_kgDONUFZ3A',
+                category: 'Q&A',
+                categoryId: 'DIC_kwDONUFZ3M4CklO9',
+                mapping: 'title',
                 lightTheme: 'light_protanopia',
                 darkTheme: 'dark_protanopia',
             },
-
 
             // All features are enabled for demo, only preserve features you need here
             mdEnhance: {
@@ -201,13 +203,13 @@ export default hopeTheme(
 
             // uncomment these if you want a PWA
             pwa: {
-                favicon: "/favicon.ico",
+                favicon: '/favicon.ico',
                 cacheHTML: true,
                 cacheImage: true,
                 appendBase: true,
                 apple: {
-                    icon: "/assets/apple-touch-icon.png",
-                    statusBarColor: "black",
+                    icon: '/assets/apple-touch-icon.png',
+                    statusBarColor: 'black',
                 },
                 // msTile: {
                 //   image: "/assets/ms-icon-144.png",
@@ -216,16 +218,16 @@ export default hopeTheme(
                 manifest: {
                     icons: [
                         {
-                            src: "/assets/web-app-manifest-512.png",
-                            sizes: "512x512",
-                            purpose: "maskable",
-                            type: "image/png",
+                            src: '/assets/web-app-manifest-512.png',
+                            sizes: '512x512',
+                            purpose: 'maskable',
+                            type: 'image/png',
                         },
                         {
-                            src: "/assets/web-app-manifest-192x192.png",
-                            sizes: "192x192",
-                            purpose: "maskable",
-                            type: "image/png",
+                            src: '/assets/web-app-manifest-192x192.png',
+                            sizes: '192x192',
+                            purpose: 'maskable',
+                            type: 'image/png',
                         },
                         // {
                         //   src: "/assets/icon/chrome-512.png",
@@ -262,5 +264,5 @@ export default hopeTheme(
             },
         },
     },
-  { custom: true },
+    { custom: true },
 );

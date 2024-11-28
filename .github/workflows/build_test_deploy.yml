@@ -25,21 +25,21 @@ jobs:
             - name: Setup pnpm
               uses: pnpm/action-setup@v4
               with:
-          # choose pnpm version to use
-                version: latest
-          # install deps with pnpm
-                run_install: true
+                  # choose pnpm version to use
+                  version: latest
+                  # install deps with pnpm
+                  run_install: true
             - name: Setup Node
               uses: actions/setup-node@v4
               with:
-                node-version: lts/*
-                cache: pnpm
+                  node-version: lts/*
+                  cache: pnpm
             - name: Build
               run: yarn run build
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
               with:
-                path: dist/
+                  path: dist/
 
     deploy:
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
@@ -62,15 +62,15 @@ jobs:
             - name: Setup pnpm
               uses: pnpm/action-setup@v4
               with:
-          # choose pnpm version to use
-                version: latest
-          # install deps with pnpm
-                run_install: true
+                  # choose pnpm version to use
+                  version: latest
+                  # install deps with pnpm
+                  run_install: true
             - name: Setup Node
               uses: actions/setup-node@v4
               with:
-                node-version: lts/*
-                cache: pnpm
+                  node-version: lts/*
+                  cache: pnpm
             - name: Install
               run: pnpm install
             - name: Lint

@@ -88,11 +88,11 @@ mtDNA chủ yếu ở não và tim (các cơ quan khác k rõ rệt)
 ### Tác dụng của môi trường
 
 - Kháng sinh ức chế sự tổng hợp protein của ti thể
-
+  
   - Dùng ***chloramphenicol liều cao & nhiều ngày*** ức chế tạo hồng cầu và bạch cầu ở tủy xương.
 
 - Tác nhân môi trường ảnh hưởng đến hình thái và sinh lý của ti thể
-
+  
   - Khi cơ thể đói → ti thể thay đổi hình dạng → ti thể bị tan rã
   - Trong dung dịch nhược trương, ưu trương, chất độc, phóng xạ,... → ti thể bị biến đổi
 

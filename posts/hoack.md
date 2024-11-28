@@ -154,7 +154,37 @@ Khối lượng nước bốc hơi: 35,26 x18 = 634,8 (g)
 
 ## Chương 4: Động hoá học
 
-<br>
+### Tốc độ phản ứng
+
+nồng độ, nhiệt độ, xúc tác $\to$ vận tốc phản ứng
+
+Thời gian bán huỷ của:
+
+* bậc 0: $t_{1/2}=\frac{[A_0]}{2k}$
+
+* bậc 1: $t_{1/2}=\frac{ln2}{k}$
+
+* bậc 2: $t_{1/2}=\frac{1}{A_0k}$
+
+Đơn vị của vận tốc phản ứng
+
+* bậc 0: $mol.L^{-1}.s^{-1}$
+
+* bậc 1: $s^{-1}$
+
+* bậc 2: $L.mol^{-1}.s^{-1}$
+
+Phương trình Arrhenius
+
+$ k = Ae^{(-\frac{E_a}{RT})}$
+
+$\Rightarrow E_A= R.(\frac{T_1-T_2}{T_1T_2}).ln(\frac{T_1}{T_2})$
+
+$K_{CB}$ phụ thuộc vào nhiệt độ và bản chất của phản ứng
+
+$\Delta G = \Delta G_0 + RT.lnQ$
+
+
 
 ## Chương 5: Dung dịch
 
@@ -259,3 +289,20 @@ Phản ứng thế ái nhân **S<sub>N</sub>**: Thế trên carbon bão hòa
 * Tuy  nhiên,  nếu  sử dụng  quá  liều paracetamol, cơ thể không có đủ glutathion để giải độc các chất chuyển hóa. Điều này gây ứ động NAPQI, tổn thương tế bào, đặc biệt là gan.
 
 ## Chương IV: Các hợp chất dị vòng
+
+### Tên thông thường
+
+```markmap
+#### Dị vòng 5 cạnh
+##### furan: có O
+##### thi:
+- thiophene: có mỗi S
+- thia**zole**: có S và N
+##### *role: chỉ NH
+##### *zole: N và N
+- **pyra**_: gần
+- **imida**_: xa
+##### *oxa:
+- oxazole: N **xa cách** O
+- **is**oxazole: N **xít lại** O
+```

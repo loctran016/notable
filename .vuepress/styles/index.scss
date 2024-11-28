@@ -1,8 +1,8 @@
 // place your custom styles here
-@use "vuepress-theme-hope/presets/bounce-icon";
-@use "vuepress-theme-hope/presets/hr-driving-car";
-@use "vuepress-theme-hope/presets/left-blog-info";
-@use "vuepress-theme-hope/presets/round-blogger-avatar.scss";
+@use 'vuepress-theme-hope/presets/bounce-icon';
+@use 'vuepress-theme-hope/presets/hr-driving-car';
+@use 'vuepress-theme-hope/presets/left-blog-info';
+@use 'vuepress-theme-hope/presets/round-blogger-avatar.scss';
 
 // @unocss;
 @font-face {
@@ -46,13 +46,12 @@
 }
 
 body {
-
-        h1 {
-        font-size: 2.7em
+    h1 {
+        font-size: 2.7em;
     }
 
     h2 {
-        font-size: 2.3em
+        font-size: 2.3em;
     }
 
     h3 {
@@ -61,7 +60,7 @@ body {
 
     thead {
         font-size: 1.5em;
-        padding: .6rem 1rem
+        padding: 0.6rem 1rem;
     }
 
     h5 {
@@ -81,34 +80,28 @@ body {
     }
 
     .vp-blogger-description {
-        font-size: .75em;
+        font-size: 0.75em;
     }
     @media screen and (min-width: 768px) {
-
-
-            font-size: 1.2rem;
-            letter-spacing: 1.2px;
-
+        font-size: 1.2rem;
+        letter-spacing: 1.2px;
     }
 }
 
-html[data-theme="dark"] .theme-hope-content {
-     h1,
+html[data-theme='dark'] .theme-hope-content {
+    h1,
     h2,
     h3,
     h4,
     h5,
     h6,
     thead {
-
         color: #efbf04;
         letter-spacing: 1px;
     }
 }
 
-
-
-html[data-theme="dark"][notebook='true'] .theme-hope-content {
+html[data-theme='dark'][notebook='true'] .theme-hope-content {
     @media screen and (min-width: 768px) {
         // *:not([class="markmap-wrapper"]) * {
         //   background: magenta;
@@ -117,19 +110,20 @@ html[data-theme="dark"][notebook='true'] .theme-hope-content {
         // }
     }
 
-    font-family: Be Cool,
-    'Segoe UI',
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family:
+        Be Cool,
+        'Segoe UI',
+        Tahoma,
+        Geneva,
+        Verdana,
+        sans-serif;
 
     h1 {
-        font-size: 2.7em
+        font-size: 2.7em;
     }
 
     h2 {
-        font-size: 2.3em
+        font-size: 2.3em;
     }
 
     h3 {
@@ -138,7 +132,7 @@ html[data-theme="dark"][notebook='true'] .theme-hope-content {
 
     thead {
         font-size: 1.5em;
-        padding: .6rem 1rem
+        padding: 0.6rem 1rem;
     }
 
     h5 {
@@ -159,7 +153,8 @@ html[data-theme="dark"][notebook='true'] .theme-hope-content {
         font-weight: bolder;
         color: #efbf04;
         // font-family: GrowingGarden;
-        font-family: Chicken, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-family: Chicken, Cambria, Cochin, Georgia, Times,
+            'Times New Roman', serif;
         letter-spacing: 1px;
     }
 
@@ -169,12 +164,12 @@ html[data-theme="dark"][notebook='true'] .theme-hope-content {
     }
 
     td {
-        font-size: 1.4rem
+        font-size: 1.4rem;
     }
 
     p {
         // color: hsl(	0.60,	1.00,	0.83);
-        color: #D4E5FF;
+        color: #d4e5ff;
         line-height: 3rem;
         font-size: 1.6rem;
     }
