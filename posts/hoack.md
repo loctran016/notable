@@ -184,8 +184,6 @@ $K_{CB}$ phụ thuộc vào nhiệt độ và bản chất của phản ứng
 
 $\Delta G = \Delta G_0 + RT.lnQ$
 
-
-
 ## Chương 5: Dung dịch
 
 ### CLS Dung dịch
@@ -306,3 +304,17 @@ Phản ứng thế ái nhân **S<sub>N</sub>**: Thế trên carbon bão hòa
 - oxazole: N **xa cách** O
 - **is**oxazole: N **xít lại** O
 ```
+
+```markmap
+#### Dị vòng 6 cạnh
+- Pyran: có O
+- Pyr**a**zine: N - N **xa nhất**
+- Pyridine: N only
+- Còn lại
+```
+
+### Danh pháp thay thế
+
+Oxa (O) - thia (S) - aza (N)
+
+1 - Oxa - 3 - azacyclopenta-2,4-điene

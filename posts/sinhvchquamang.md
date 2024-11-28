@@ -10,18 +10,16 @@ tags: ['Sinh Di Truyền']
 • Sự trao đổi chất được thực hiện qua màng màng sinh chất của tế bào và màng của các bào quan
 • Màng có tính thấm chọn lọc – Tính thấm của lớp phospholipid kép + Protein màng
 
-
-
 ## Các kiểu vận chuyển các phân tử nhỏ qua màng tế bào
 
 ```markmap
 ### Vận chuyển thụ động
-- Khuếch tán đơn thuần
-    - xuyên qua màng phospholipid
-    - thấm PT nhỏ, không phân cực
-    - ít thấm PT  nhỏ, phân cực, không mang điện
-    - Có thể diễn ra hai chiều
-- Khuếch tán trung gian: thông qua protein kênh
+#### Khuếch tán đơn thuần
+- xuyên màng
+- thấm PT nhỏ, ko phân cực
+- ít thấm PT  nhỏ, phân cực, không mang điện
+- Có thể diễn ra hai chiều
+#### Khuếch tán trung gian: thông qua protein kênh
 ### Vận chuyển chủ động
 ```
 
@@ -42,14 +40,16 @@ tags: ['Sinh Di Truyền']
 - tb TV co nguyên sinh, chết
 ```
 
+## Khuếch tán trung gian (Khuếch tán được làm dễ)
 
-
-## Protein kênh
+Giúp một phân tử qua màng dễ hơn, cơ chế thụ động nhờ protein màng
 
 Cho các phân tử có **kích thước** hay **điện tích** phù hợp qua
 
 ```markmap
-### Aquaporin
+### Protein kênh
+- **kích thước** hay **điện tích** (ion)
+#### Aquaporin
 - chỉ cho phép H<sub>2</sub>O
 - phù não, đái tháo nhạt
 
@@ -63,36 +63,42 @@ Cho các phân tử có **kích thước** hay **điện tích** phù hợp qua
 
 ## Vận chuyển tích cực
 
+```markmap
+### Đặc điểm
+#### protein vận chuyển tích cực
+#### ngược với gradient điện/hóa 
+#### Cần năng lượng
+ một hướng nhất định tùy tế bào
+#### Phân loại
+* nguyên phát: thủy phân ATP
+* thứ phát: gradient nồng độ ion
+```
 
+## Kênh ion & điện thế màng
 
 ```markmap
 ### Đặc điểm
-- protein vận chuyển tích cực
-- ngược với gradient điện/hóa 
-- Cần năng lượng
-- một hướng nhất định tùy tế bào.
-- Có 2 kiểu vận chuyển tích cực:
-    + “nguyên phát”: sự thủy phân ATP
-    + “thứ phát”:  chênh lệch nồng độ ion
+* Khuếch tán ion cực kỳ nhanh 
+* Chỉ theo gradient điện hóa
+* Chọn lọc ion (Na<sup>+</sup>, K<sup>+</sup>,...)
+* Lâu lâu mở cổng
+* Tạo xung thần kih
 ```
 
 
 
-## KÊNH ION & ĐIỆN THẾ MÀNG
+```markmap
+### Phân loại
+#### cổng điện thế ⚡
+#### cổng ligand: 
+* chất dẫn truyền thần kinh (kênh ion cổng phát),
+* ion (kênh cổng ion)
+* nucleotide (kênh cổng nucleotide) → kênh mở.
+#### cổng áp lực 🐳
+* lực cơ học → kênh mở
+```
 
-- Sự vận chuyển qua kênh ion cực kỳ nhanh
-  -Chọn lọc ion (Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>-</sup>, Ca<sup>2+</sup>)
-  -Cho Khuếch tán ion đặc biệt nhanh chóng theo gradient điện hóa
-  -Không mở thường xuyên: “cổng”.
-  -Ý nghĩa đối với tế bào thần kinh (neuron) trong việc nhận và truyền
-  tín hiệu.
-+ Kênh ion cổng điện thế:
-+ Kênh ion cổng ligand : chất dẫn
-  truyền thần kinh (kênh ion cổng phát),
-  ion (kênh cổng ion), nucleotide (kênh
-  cổng nucleotide) → kênh mở.
-+ Kênh ion cổng áp lực: lực cơ học →
-  kênh mở
+
 
 
 
