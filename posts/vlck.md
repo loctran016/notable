@@ -4,6 +4,7 @@ description: ''
 date: 2024-11-22
 heroImage: '/vlck-bg.avif'
 tags: ['VLLS']
+category: 'Y1'
 ---
 
 ## Mục tiêu

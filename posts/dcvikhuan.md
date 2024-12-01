@@ -3,6 +3,7 @@ title: 'Bài 4.1: Chuyển hoá Glucid'
 description: ''
 date: 2024-11-18
 tags: ['Hoá Sinh']
+category: 'Y1'
 ---
 
 ## Cấu tạo và Sinh lý vi khuẩn
@@ -53,9 +54,9 @@ Cách sắp xếp:
 * Cấu trúc phụ: nang, tiêm mao, tua
 
 * Vách tế bào: lớp vỏ cứng che chở, giữ vững hình dạng, giúp vi khuẩn khỏi sự ly giải do hiện tượng thẩm thấu
-  
+
   * Gram dương: 40 lớp peptidoglycan chiếm 80-90%, dày
-  
+
   * Gram âm: lớp peptidoglycan mỏng trong cùng 10%, lipoprotein, màng ngoài, lipopolysaccharide
 
 * Màng tế bào: điều tiết sự vận chuyển các chất đi vào và thoát ra khỏi tế bào
@@ -73,11 +74,11 @@ Cách sắp xếp:
 * Tiêm mao, lông (Flagella): giúp vi khuẩn di động
 
 * Nhung mao, tua (pili): giúp vi khuẩn bám vào ký chủ
-  
+
   * Pili giới tính: bắc cầu cho vi khuẩn tiếp hợp
 
 * Nha bào hay bào tử
 
 ## Yếu tố ảnh hưởng
 
-### 
+###

@@ -5,6 +5,7 @@ date: 2024-11-25
 excerpt: Thi CK 60 câu - 70 phút
 # cover: '/hoack-bg.avif'
 tags: ['Hoá Y']
+category: 'Y1'
 # draft: true
 ---
 

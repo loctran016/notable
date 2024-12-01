@@ -5,11 +5,41 @@ date: 2024-11-22
 excerpt: Thi CK 60 câu - 70 phút
 # cover: '/hoack-bg.avif'
 tags: ['Hoá Y']
+category: 'Y1'
 # draft: true
-sticky: 1
+# sticky: 1
 ---
 
 ## Chương 1: Cấu tạo nguyên tử - Định luật tuần hoàn
+
+\**Tính \( S \) cho electron lớp ngoài cùng:**
+
+* Đối với \( (ns, np) \):
+  * Mỗi electron cùng nhóm: \( 0.35 \)
+  * Mỗi electron ở lớp \( n-1 \): \( 0.85 \)
+  * Mỗi electron ở lớp \( n-2 \) trở đi: \( 1.00 \).
+
+* Đối với \( (d) \) hoặc \( (f) \):
+  * Mỗi electron cùng nhóm: \( 0.35 \).
+  * Các lớp còn lại: \( 1.00 \).
+
+---
+
+**Ví dụ tính toán hiệu ứng màn chắn:**
+Với Clo:
+
+* Cấu hình electron: $1s^2, 2s^2 2p^6, 3s^2 3p^5$.
+* Electron ngoài cùng thuộc \( 3s \) và \( 3p \).
+
+* Electron cùng lớp (\( 3s, 3p \)): \( (6 - 1) \cdot 0.35 = 1.75 \).
+* Electron lớp \( n-1 \) (\( 2s, 2p \)): \( 8 \cdot 0.85 = 6.8 \).
+* Electron lớp \( n-2 \) (\( 1s \)): \( 2 \cdot 1.00 = 2.00 \).
+
+
+S = 1.75 + 6.8 + 2.00 = 10.55
+
+
+---
 
 ### CLS: I<sub>131</sub> trị ung thư tuyến giáp
 
@@ -17,8 +47,8 @@ I 131 không bền, tự phân hủy thành Xe 131, đồng thời phát ra cả
 
 Sau khi phẫu thuật, bệnh nhân được cho uống I 131 để:
 
-+ Hủy mô giáp lành còn lại sau phẫu thuật, ổ di căn nhỏ
-+ Tăng độ nhạy, độ đặc hiệu của các xét nghiệm theo dõi sau điều trị: xạ hình toàn thân với I-131
+* Hủy mô giáp lành còn lại sau phẫu thuật, ổ di căn nhỏ
+* Tăng độ nhạy, độ đặc hiệu của các xét nghiệm theo dõi sau điều trị: xạ hình toàn thân với I-131
 
 Ít gây biến chứng (95% là tia $\beta$ tác động 1 - 2 mm)
 
@@ -62,11 +92,11 @@ Túi chườm lạnh ➜ NH₄NO₃
 ### ĐỊNH LUẬT HESS VÀ HỆ QUẢ
 
 1. Hiệu ứng nhiệt
-   
+
    $ΔH°pư = ΣΔH°(các \ quá \ trình \ trung \ gian)$
-   
+
    $= ΣnΔH°f_{(sản \ phẩm)} ‒ ΣmΔH°f_{(tác \ chất)}$
-   
+
    $= ΣnΔH°c_{(tác \ chất)} ‒ ΣmΔH°c_{(sản phẩm)}$
 
 2. NHIỆT PHÂN HỦY bằng giá trị của NHIỆT SINH nhưng NGƯỢC DẤU
@@ -133,9 +163,9 @@ $pV=nRT$
 
 * Công để leo cầu thang: A=F.s=m.g.s= 3x5x2x90,78x10 = 27234 (J)
 
-* Enthalpy để phản ứng oxi hóa glucoso: H = 27234x4 = 108936 (J) 
+* Enthalpy để phản ứng oxi hóa glucoso: H = 27234x4 = 108936 (J)
 
-* Số mol glucoso bị oxi hóa: 108936/2802000= 0,039 (mol) 
+* Số mol glucoso bị oxi hóa: 108936/2802000= 0,039 (mol)
 
 * Khối lượng glucoso bị oxi hóa: 0,039x180 = 7(g)
 
@@ -176,7 +206,7 @@ Thời gian bán huỷ của:
 
 Phương trình Arrhenius
 
-$ k = Ae^{(-\frac{E_a}{RT})}$
+$k = Ae^{(-\frac{E_a}{RT})}$
 
 $\Rightarrow E_A= R.(\frac{T_1-T_2}{T_1T_2}).ln(\frac{T_1}{T_2})$
 
@@ -200,7 +230,7 @@ Sự khử cực và tăng phân cực tế bào phụ thuộc vào kali ngoại
 
  Đối với bất kì bệnh nhân bị tăng kali máu, bước đầu tiên là phải xử trí cấp cứu Canxi gluconate để ổn định tế bào cơ tim. Sau đó, chúng ta cần sử dụng các phương pháp để thải kali ra máu (sử dụng thuốc để thải kali qua đường nước tiểu, đường phân, lọc máu,…)
 
-- Canxi làm tăng điện thế ngưỡng (threshold), di chuyển nó ra xa điện thế nghỉ  ổn định màng tế bào
+* Canxi làm tăng điện thế ngưỡng (threshold), di chuyển nó ra xa điện thế nghỉ  ổn định màng tế bào
 
 ## Chương I: Mở đầu hoá hữu cơ
 
@@ -224,26 +254,26 @@ ngoại lệ halogen thì -I luôn mạnh hơn +R
 
 ### CLS: Vàng da ở trẻ sơ sinh
 
-Đầu tiên, các tế bào hồng cầu hemoglobin  phân  tách  thành 
-heme và globin. 
+Đầu tiên, các tế bào hồng cầu hemoglobin  phân  tách  thành
+heme và globin.
 
-Các globin được bẻ gãy thành các amino acids, 
+Các globin được bẻ gãy thành các amino acids,
 Các heme  được  chia  nhỏ thành  Fe  và Protoporphyrin.  Protoporphyrin  $\to$ Bilirubin Z,Z tan trong lipid chứ không tan trong nước
 
 Albumin  trong  máu  gắn  với bilirubin Z,Z và vận chuyển nó đến gan và được liên  hợp  với  enzim UGT làm nó tan được trong nước.
 
 Nguyên nhân gây vàng da bệnh lý ở trẻ :
 
-- Tăng sản xuất bilirubin (do sự gia tăng phân hủy tế bào hồng cầu, đời sống hồng cầu ngắn)
-- Giảm hấp thu ở gan do hàm lượng enzim UGT không đủ
-- Giảm khả năng liên hợp của albumin với bilirubin không liên hợp, giảm khả năng vận chuyển bilirubin
-- Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB $\to$ kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
+* Tăng sản xuất bilirubin (do sự gia tăng phân hủy tế bào hồng cầu, đời sống hồng cầu ngắn)
+* Giảm hấp thu ở gan do hàm lượng enzim UGT không đủ
+* Giảm khả năng liên hợp của albumin với bilirubin không liên hợp, giảm khả năng vận chuyển bilirubin
+* Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB $\to$ kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
 
 Có đồng phân quang học không phải vì có C thủ tính, mà là do sự xuất hiện của liên kết hidro giữa các vòng A, B, C, D => làm quay mặt phẳng ánh sáng phân cực
 
 Chỉ có Z,Z mới có ĐPQH; 3 ĐPHH còn lại không có ĐPQH (vì số lượng liên kết hidro)
 
-Nito thủ tính trong trường  hợp  này không gây ra hiện tượng quang hoạt vì electron tự do của nito chịu ảnh hưởng của hiệu ứng cộng hưởng => electron không nằm yên một chỗ trên nito. 
+Nito thủ tính trong trường  hợp  này không gây ra hiện tượng quang hoạt vì electron tự do của nito chịu ảnh hưởng của hiệu ứng cộng hưởng => electron không nằm yên một chỗ trên nito.
 
 ĐPHH hình thành nhờ sự quay liên kết pi
 Các cacbon có cấu hình Z sẽ hình thành được liên kết hidro nội phân tử với nhóm -COOH, giảm sự hình thành liên kết hidro giữa bilirubin và nước  (Z,Z) – bilirubin là khó tan trong nước nhất  khó đào thải nhất trong các đồng phân của bilirubin

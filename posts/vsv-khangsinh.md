@@ -3,6 +3,7 @@ title: 'Thuốc kháng sinh'
 description: ''
 date: 2024-11-25
 tags: ['Vi Sinh']
+category: 'Y1'
 ---
 
 * Tập trung vào cơ chế tác động và ứng dụng (kiềm khuẩn hay diệt khuẩn)

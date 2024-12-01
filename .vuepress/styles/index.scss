@@ -4,14 +4,13 @@
 @use 'vuepress-theme-hope/presets/left-blog-info';
 @use 'vuepress-theme-hope/presets/round-blogger-avatar.scss';
 
-// @unocss;
-@font-face {
-    font-family: 'Be Cool';
-    src: url('/fonts/SVN-Be Cool.otf') format('opentype');
-    /* font-weight: 400; */
-    font-weight: 300;
-    font-display: swap;
-}
+// @font-face {
+//     font-family: 'Be Cool';
+//     src: url('/fonts/SVN-Be Cool.otf') format('opentype');
+//     /* font-weight: 400; */
+//     font-weight: 300;
+//     font-display: swap;
+// }
 
 @font-face {
     font-family: 'Chicken';
@@ -82,9 +81,24 @@ body {
     .vp-blogger-description {
         font-size: 0.75em;
     }
+
+    .vp-back-to-top-button {
+        bottom: 1rem;
+    }
+
     @media screen and (min-width: 768px) {
         font-size: 1.2rem;
         letter-spacing: 1.2px;
+
+        .vp-back-to-top-button {
+            bottom: 1.6rem;
+            right: 1.6rem;
+        }
+
+        .hint-container p {
+            font-size: 1.1rem;
+            letter-spacing: 1.2px;
+        }
     }
 }
 
@@ -153,8 +167,8 @@ html[data-theme='dark'][notebook='true'] .theme-hope-content {
         font-weight: bolder;
         color: #efbf04;
         // font-family: GrowingGarden;
-        font-family: Chicken, Cambria, Cochin, Georgia, Times,
-            'Times New Roman', serif;
+        font-family: Chicken, Cambria, Cochin, Georgia, Times, 'Times New Roman',
+            serif;
         letter-spacing: 1px;
     }
 

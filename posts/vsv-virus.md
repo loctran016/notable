@@ -5,6 +5,7 @@ description: ''
 date: 2024-11-19
 heroImage: '/blog-placeholder-3.jpg'
 tags: ['Vi Sinh']
+category: 'Y1'
 ---
 
 ## Giới thiệu

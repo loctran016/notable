@@ -91,7 +91,7 @@ export default hopeTheme(
                     //   },
                 ],
             },
-
+            // backToTop: true,
             // install @waline/client before enabling it
             // WARNING: This is a test server for demo only.
             // You should create and use your own comment service in production.
@@ -101,10 +101,9 @@ export default hopeTheme(
             // },
 
             components: {
-                components: ['Badge', 'VPCard', 'PDF', 'Share'],
+                components: ['Badge', 'VPCard', 'PDF', 'Share', 'VidStack'],
                 componentOptions: {
                     share: {
-
                         //   colorful: true,
                         services: [
                             'email',

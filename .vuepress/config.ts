@@ -30,7 +30,7 @@ export default defineUserConfig({
     plugins: [removeHtmlExtensionPlugin()],
 
     // enable it with pwa
-    // shouldPrefetch: false,
+    shouldPrefetch: false,
 
     alias: {
         '@theme-hope/modules/blog/components/BlogHero': path.resolve(

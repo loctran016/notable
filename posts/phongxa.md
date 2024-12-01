@@ -5,6 +5,7 @@ description: ''
 date: 2024-11-22
 # heroImage: '/blog-placeholder-3.jpg'
 tags: ['VLLS']
+category: 'Y1'
 ---
 
 ## Nguyên tử

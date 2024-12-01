@@ -4,6 +4,7 @@ description: ''
 date: 2024-11-13
 heroImage: '/blog-placeholder-3.jpg'
 tags: ['Sinh Di Truyền']
+category: 'Y1'
 ---
 
 ### Luận thuyết trung tâm

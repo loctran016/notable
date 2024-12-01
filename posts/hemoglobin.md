@@ -4,6 +4,7 @@ description: ''
 date: 2024-11-11
 heroImage: '/blog-placeholder-3.jpg'
 tags: ['Hoá Sinh']
+category: 'Y1'
 ---
 
 * Hb trong máu: ~ 15 g/dl (15g/100ml máu).

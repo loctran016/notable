@@ -3,8 +3,9 @@ title: 'Cấu trúc tế bào'
 description: ''
 # pubDate: 'Nov 13 2024'
 date: 2024-11-13
-heroImage: '/blog-placeholder-3.jpg'
+# heroImage: '/blog-placeholder-3.jpg'
 tags: ['Sinh Di Truyền']
+category: 'Y1'
 ---
 
 ## Màng sinh chất
@@ -88,11 +89,11 @@ mtDNA chủ yếu ở não và tim (các cơ quan khác k rõ rệt)
 ### Tác dụng của môi trường
 
 - Kháng sinh ức chế sự tổng hợp protein của ti thể
-  
+
   - Dùng ***chloramphenicol liều cao & nhiều ngày*** ức chế tạo hồng cầu và bạch cầu ở tủy xương.
 
 - Tác nhân môi trường ảnh hưởng đến hình thái và sinh lý của ti thể
-  
+
   - Khi cơ thể đói → ti thể thay đổi hình dạng → ti thể bị tan rã
   - Trong dung dịch nhược trương, ưu trương, chất độc, phóng xạ,... → ti thể bị biến đổi
 

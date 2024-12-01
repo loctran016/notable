@@ -11,8 +11,6 @@ category: 'Y1'
 ### Bài 1. Deoxyribonucleotide và DNA
 
 ```markmap
-
-
 1. Luận thuyết trung tâm
     - Nội dung: Thông tin di truyền hầu như chỉ di chuyển một chiều: DNA → RNA → Protein
     - Ý nghĩa:
@@ -46,7 +44,7 @@ Trình tự lặp lại tập trung- không mã hóa protein
 * tạo chuỗi dài 20 – 100 kb
 * là công cụ phân tử trong phân tích di truyền tế bào
 * Trình tự CEN ở tâm nhiễm sắc thể tham gia quá trình
-trượt của nhiễm sắc thể trên thoi phân bào
+  trượt của nhiễm sắc thể trên thoi phân bào
 
 Trình tự TEL ở đầu mút của nhiễm sắc thể (telomere)
 
@@ -59,7 +57,7 @@ DNA tiểu vệ tinh (minisatellite)
 * đơn vị lặp 14-100 bp ~ 20-50 lần
 * giàu GC
 * chiều dài 1-5 kb
-* >1,000 vị trí trong bộ gen người
+* > 1,000 vị trí trong bộ gen người
 * VD: VNTR
 
 DNA vi vệ tinh(microsatellite)
@@ -87,7 +85,6 @@ DNA ty thể (mtDNA)
 ### Bài 3. Sự phiên mã và sự trưởng thành của mRNA
 
 ```markmap
-
 1. Sơ lược về RNA
 2. Quá trình phiên mã
 3. Biến đổi sau phiên mã của premRNA ở eukaryote
@@ -96,7 +93,6 @@ DNA ty thể (mtDNA)
 ### Bài 4. Sinh tổng hợp protein
 
 ```markmap
-
 1. Amino acid
 2. Sự dịch mã tổng hợp protein
 3. Chất ức chế dịch mã
@@ -105,7 +101,6 @@ DNA ty thể (mtDNA)
 ### Bài 5. Sự gấp cuộn protein
 
 ```markmap
-
 1. Amino acid và các bậc cấu trúc của protein
 2. Chaperone
 3. Một số hình dạng của protein trong 3D
@@ -115,7 +110,6 @@ DNA ty thể (mtDNA)
 ### Bài 6. Đột biến gen và sửa chữa DNA
 
 ```markmap
-
 1. Các tác nhân gây đột biến
 2. Các loại đột biến gen
 3. Các cơ chế sửa chữa DNA
@@ -127,7 +121,6 @@ DNA ty thể (mtDNA)
 ### Bài 1. Cấu trúc và chức năng của tế bào Eukaryote
 
 ```markmap
-
 1. Màng sinh chất
 2. Bộ xương tế bào
 3. Các bào quan: Lục lạp, không bào
@@ -149,7 +142,6 @@ DNA ty thể (mtDNA)
 #### Bài 1. Sự vận chuyển chất qua màng tế bào
 
 ```markmap
-
 1. Vận chuyển thụ động
 2. Vận chuyển tích cực
 3. Kênh ion và điện thế màng
@@ -163,5 +155,4 @@ DNA ty thể (mtDNA)
 1. Các kiểu thông tin giữa các tế bào
 2. Một số chất truyền tin tế bào
 3. Các giai đoạn của sự truyền tín hiệu giữa các tế bào
-
 ```

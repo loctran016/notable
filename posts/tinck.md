@@ -5,6 +5,7 @@ description: ''
 date: 2024-11-14
 # heroImage: '/tinck-bg.avif'
 tags: ['Tin học']
+category: 'Y1'
 ---
 
 ## Box Plot
