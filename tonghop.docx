@@ -1,9 +1,10 @@
 ---
-title: 'Lí thuyết Sinh Di Truyền thi GK'
+title: 'Tổng ôn C1: Các đại phân tử sinh học'
 description: ''
-date: 2024-11-27
+date: 2024-12-02
 tags: ['Sinh Di Truyền']
 category: 'Y1'
+draft: true
 ---
 
 ## Chương I. CẤU TRÚC VÀ CHỨC NĂNG CỦA CÁC ĐẠI PHÂN TỬ SINH HỌC <!-- markmap: foldAll -->
@@ -38,41 +39,41 @@ tự do
 
 Trình tự lặp lại tập trung- không mã hóa protein
 
-* Dị nhiễm sắc
-* lặp liên tục thành từng đám
-* DNA vệ tinh: - 1 đơn vị lặp dài 14 – 500 bp
-* tạo chuỗi dài 20 – 100 kb
-* là công cụ phân tử trong phân tích di truyền tế bào
-* Trình tự CEN ở tâm nhiễm sắc thể tham gia quá trình
-  trượt của nhiễm sắc thể trên thoi phân bào
+-   Dị nhiễm sắc
+-   lặp liên tục thành từng đám
+-   DNA vệ tinh: - 1 đơn vị lặp dài 14 – 500 bp
+-   tạo chuỗi dài 20 – 100 kb
+-   là công cụ phân tử trong phân tích di truyền tế bào
+-   Trình tự CEN ở tâm nhiễm sắc thể tham gia quá trình
+    trượt của nhiễm sắc thể trên thoi phân bào
 
 Trình tự TEL ở đầu mút của nhiễm sắc thể (telomere)
 
-* 5'-TTAGGG-3’ ~ 2000 lần
-* Cấu trúc loop và các protein đặc hiệu $\to$ bảo vệ haiđầu telomere
-* Chiều dài của telomere ngắn dần theo tuổi, gay lão hóa/chết theo chu trình của tế bào/ung thư
+-   5'-TTAGGG-3’ ~ 2000 lần
+-   Cấu trúc loop và các protein đặc hiệu $\to$ bảo vệ haiđầu telomere
+-   Chiều dài của telomere ngắn dần theo tuổi, gay lão hóa/chết theo chu trình của tế bào/ung thư
 
 DNA tiểu vệ tinh (minisatellite)
 
-* đơn vị lặp 14-100 bp ~ 20-50 lần
-* giàu GC
-* chiều dài 1-5 kb
-* > 1,000 vị trí trong bộ gen người
-* VD: VNTR
+-   đơn vị lặp 14-100 bp ~ 20-50 lần
+-   giàu GC
+-   chiều dài 1-5 kb
+-   > 1,000 vị trí trong bộ gen người
+-   VD: VNTR
 
 DNA vi vệ tinh(microsatellite)
 
-* đơn vị lặp 1-13 bp ~ <150 lần
-* thường là chuỗi A-T
-* VD: STR, SSR
+-   đơn vị lặp 1-13 bp ~ <150 lần
+-   thường là chuỗi A-T
+-   VD: STR, SSR
 
 DNA ty thể (mtDNA)
 
-* ~ 16,500 bp, 13 gen mã hóa protein
-* Điện tử và tổng hợp ATP
-* không có intron
-* tính ổn định cao
-* Bệnh di truyền theo dòng mẹ
+-   ~ 16,500 bp, 13 gen mã hóa protein
+-   Điện tử và tổng hợp ATP
+-   không có intron
+-   tính ổn định cao
+-   Bệnh di truyền theo dòng mẹ
 
 ### Bài 2. Sự sao chép DNA
 
