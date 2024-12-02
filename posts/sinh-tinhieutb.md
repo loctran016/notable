@@ -96,13 +96,13 @@ Protein G gồm 3 tiểu đơn vị: $\alpha, \beta, \gamma$
 * Con đường cAMP (nguồn gốc từ ATP - thể hiện năng lượng của tb) - ptu truyền tin thứ 2 (thứ 1: andrenalin)
 
 * Con đường IP
-
+  
   * IP: inositol phospholipid tách ra thành IP3 và DAG
-
+  
   * IP<sub>3</sub>: inositol 1,4,5-triphosphate tan trong nước (di chuyển + kích hoạt trong bào tương)
-
+  
   * DAG: diacylglycerol ( không tan trong nước, kích hoạt protein màng)
-
+  
   * IP → IP3 + DAG
 
 ### Thụ thể - enzyme
