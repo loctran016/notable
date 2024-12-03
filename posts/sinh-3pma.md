@@ -19,7 +19,6 @@ category: 'Y1'
 * Đường ribose
 * Các monomer rNTP(A,G,U,C)
 
-
 ## Phiên mã
 <!-- ## Bài 4. Sinh tổng hợp protein
 

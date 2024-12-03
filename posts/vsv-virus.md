@@ -15,7 +15,7 @@ Kí sinh bắt buộc nội tế bào (TB) $\to$ *khó chữa, có thể tiêu d
 Chỉ nhân lên (sao chép) bên trong TB kí chủ vì:
 
 * Không thể tự tạo nguyên liệu.
-- Không thể tự tổng hợp protein
+* Không thể tự tổng hợp protein
 
 ## Đặc điểm cơ bản
 
@@ -39,9 +39,9 @@ Chỉ nhân lên (sao chép) bên trong TB kí chủ vì:
 
 * Prion (proteinaceous infective particle):
 
-  - Là 1 tác nhân protein gây bệnh (có thể sinh đôi).  – nucleic acid (-)  (-) là virus.
-  - Prion liên quan tới một số bệnh: BSE (bệnh bò điên), scrapie ở cừu, …
-  - Không có thuốc $\theta$ cho bất kì bệnh prion nào.
+  * Là 1 tác nhân protein gây bệnh (có thể sinh đôi).  – nucleic acid (-)  (-) là virus.
+  * Prion liên quan tới một số bệnh: BSE (bệnh bò điên), scrapie ở cừu, …
+  * Không có thuốc $\theta$ cho bất kì bệnh prion nào.
 
   ### Hình thể virus
 
@@ -51,26 +51,26 @@ Chỉ nhân lên (sao chép) bên trong TB kí chủ vì:
 
   Cách sắp xếp a. nucleic và capsid -> các dạng đối xứng:
 
-  - Đối xứng lập phương (Cubic / Icosahedral)
-  - Đối xứng xoắn ốc (Helical)
-  - Đối xứng phức hợp (Complex)
+  * Đối xứng lập phương (Cubic / Icosahedral)
+  * Đối xứng xoắn ốc (Helical)
+  * Đối xứng phức hợp (Complex)
 
   #### Đối xứng lập phương
 
-  - Hình khối 20 mặt - 12 đỉnh - bề mặt hình khối có 60 tiểu đơn vị protein
-  - có ở nhóm virus DNA và RNA
+  * Hình khối 20 mặt - 12 đỉnh - bề mặt hình khối có 60 tiểu đơn vị protein
+  * có ở nhóm virus DNA và RNA
 
   #### Đối xứng xoắn ốc
 
-  - Các tiểu đơn vị protein gắn với acid nucleic theo hình xoắn ốc
-  - Phức hợp protein - a. nucleic (nucleocapsid) cuộn bên trong màng bọc lipid.
+  * Các tiểu đơn vị protein gắn với acid nucleic theo hình xoắn ốc
+  * Phức hợp protein - a. nucleic (nucleocapsid) cuộn bên trong màng bọc lipid.
 
   #### Đối xứng phức hợp
 
-  - 1 đầu: hình khối cầu đối xứng có DNA
-  - 1 đuôi: cấu trúc xoắn đối xứng -> ống bơm DNA vào vi khuẩn
-  - Đầu nối với đuôi = cổ
-  - Phần dưới đuôi: cấu trúc đĩa nền có các chân -> bacteriophage gắn vào TB
+  * 1 đầu: hình khối cầu đối xứng có DNA
+  * 1 đuôi: cấu trúc xoắn đối xứng -> ống bơm DNA vào vi khuẩn
+  * Đầu nối với đuôi = cổ
+  * Phần dưới đuôi: cấu trúc đĩa nền có các chân -> bacteriophage gắn vào TB
 
 ### Kích thước
 
@@ -94,27 +94,25 @@ Phương pháp so sánh kích thước:
 <!-- Hình ảnh (so sánh giữa naked vs enveloped) -->
 
 3. Màng bọc lipid:
-- tạo ra khi nucleocapsid nẩy chồi qua màng TB.
-- phospholipid / màng bọc:
-+  màng TB có liên quan /nẩy chồi.
-+ VD: Herpes nẩy chồi qua màng nhân TB
+* tạo ra khi nucleocapsid nẩy chồi qua màng TB.
+* phospholipid / màng bọc:
+*  màng TB có liên quan /nẩy chồi.
+* VD: Herpes nẩy chồi qua màng nhân TB
    phospholipid màng bao virus  lipid màng nhânTB
-- Virus có màng bọc (enveloped virus)
-- Virus không có màng bọc hay virus trần                             (naked virus)
-
-
+* Virus có màng bọc (enveloped virus)
+* Virus không có màng bọc hay virus trần                             (naked virus)
 
 Glycoproteins của virus:
 
-- Màng bọc chứa glycoproteins do virus tổng hợp ( lipid từ TB ký chủ trên màng)
-- Các glycoproteins bề mặt:
-+ gắn virus với TB đích
-+ giúp virus hoà màng với TB ký chủ
-+ là những kháng nguyên (KN) quan trọng: hemaagglutinin,  neuramidase,...
+* Màng bọc chứa glycoproteins do virus tổng hợp ( lipid từ TB ký chủ trên màng)
+* Các glycoproteins bề mặt:
+* gắn virus với TB đích
+* giúp virus hoà màng với TB ký chủ
+* là những kháng nguyên (KN) quan trọng: hemaagglutinin,  neuramidase,...
 
 Gai protein bắt vô niêm mạc đường hô hấp trên (SAR COVID 2) => dễ lây, đột biến -> thay gai -> chủng khác
 
-## Phân loại virus.
+## Phân loại virus
 
 <!-- Phân loại Baltimore  -->
 
@@ -148,34 +146,31 @@ Gai protein bắt vô niêm mạc đường hô hấp trên (SAR COVID 2) => d�
 •  Không có bộ máy biến dưỡng riêng
 •  **Chỉ tăng trưởng trong TB sống** khác :jack_o_lantern:
 
-
-
 CD4 + thụ thể phụ mới hoà màn được -> Ức chế CXCR4, CCR5
 
 Ức chế cDNA. ức chế hình thành virion hoàn chỉnh
 
-## Hậu quả của sự tương tác virus và tế bào.
+## Hậu quả của sự tương tác virus và tế bào
 
 1. Hủy hoại TB KC
 2. Làm sai lệch nhiễm sắc thể của TB
-- Gây dị tật bẩm sinh, thai chết lưu - sinh khối u và ung thư
+* Gây dị tật bẩm sinh, thai chết lưu - sinh khối u và ung thư
+
 3. Tạo hạt virus không hoàn chỉnh
 4. Tạo các tiểu thể
 5. Tích hợp genom virus vào ADN TB KC
 6. Sản xuất interferon
 
-
-
 ### Các bệnh virus mới “trỗi dậy”
 
  Theo 3 kiểu:
 
-- xuất hiện một tác nhân mới
-- gia tăng đột ngột tỉ lệ mắc bệnh do 1 tác nhân gây dịch
-- sự xâm nhập của một quần thể ký chủ mới
+* xuất hiện một tác nhân mới
+* gia tăng đột ngột tỉ lệ mắc bệnh do 1 tác nhân gây dịch
+* sự xâm nhập của một quần thể ký chủ mới
    Ví dụ:
-- Bệnh Ebola (2014): sốt, tiêu chảy, ói mửa,                                xuất huyết  tử vong.
-- COVID-19 do SARS-CoV-2 (nCoV): sốt, viêm phổi nặng  dễ gây tử vong.
+* Bệnh Ebola (2014): sốt, tiêu chảy, ói mửa,                                xuất huyết  tử vong.
+* COVID-19 do SARS-CoV-2 (nCoV): sốt, viêm phổi nặng  dễ gây tử vong.
 
 ## VI/. Thuốc kháng virus
 

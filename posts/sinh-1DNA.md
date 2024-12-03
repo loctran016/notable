@@ -8,6 +8,7 @@ category: 'Y1'
 ---
 
 ## Luận thuyết trung tâm
+
 ```markmap
 1. Luận thuyết trung tâm <!-- markmap: foldAll -->
     - Nội dung: Thông tin di truyền hầu như chỉ di chuyển một chiều: DNA → RNA → Protein
@@ -22,16 +23,16 @@ category: 'Y1'
 
 ## Cấu trúc DNA
 
-- Đường deoxyribosenucleotide bền hơn đường ribose do __cắt đứt gốc 2'OH__
+* Đường deoxyribosenucleotide bền hơn đường ribose do __cắt đứt gốc 2'OH__
 
-- dNTP tự do có triphosphate, gắn vào vị trí 3'OH bỏ 2 phosphate
+* dNTP tự do có triphosphate, gắn vào vị trí 3'OH bỏ 2 phosphate
 
 <!-- - Khung xườn mạch đơn: đường - các góc phosphate -->
-- T<sub>m</sub>: G-C
-- Khả năng hồi tính: đoạn lặp lại
-
+* T<sub>m</sub>: G-C
+* Khả năng hồi tính: đoạn lặp lại
 
 ## DNA sinh vật
+
 ```markmap
 3. DNA tế bào prokaryote
     - monocistron/polycistron
@@ -48,7 +49,6 @@ Phân tử DNA có cấu trúc xoắn kép, ổn định, mang điện tích âm
 tự do
 
 ## Trình tự lặp lại
-
 
 ### Trình tự lặp lại tập trung - không mã hóa protein
 

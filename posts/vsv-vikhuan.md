@@ -22,9 +22,9 @@ Kích thước: hầu hết từ 0,5-2 µm
 • Hình dạng:
 
 – Hình cầu
-- Hình que
-- Hình phẩy
-- Hình xoắn
+* Hình que
+* Hình phẩy
+* Hình xoắn
 Cách sắp xếp
 – Thành đôi: song cầu
 Xếp thành đám, giống chùm nho: tụ cầu

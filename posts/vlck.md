@@ -427,7 +427,6 @@ $U_i=? \leftarrow U_{lưỡng \ cực \ dòng} \leftarrow U_{lưỡng \ cực \ 
 
 Điện thế hoạt động (Đáp ứng nhanh - cơ, đáp ứng chậm - ở đâu, các pha)
 
-
 ST chênh lên (nhồi máu cơ tim $\to$ thiếu ATP $\to$ K<sup>+</sup>, Na<sup>+</sup> ATPase $\downarrow$)
 
 Tâm thất và tâm nhĩ mất khả năng co
@@ -584,7 +583,6 @@ Góc trông vật: Điểm cực cận của mắt thì góc trông vật max, c
 
 * Năng suất phân ly: α<sub>min</sub> giữa A và B mà mắt còn phân biệt được 2 điểm đó. <br>α<sub>min</sub>$\approx \frac{1}{3500} \ (rad)$
 
-
 ```markmap
 ### Tật khúc xạ 👁️👁️
 #### Cận thị
@@ -614,6 +612,5 @@ Góc trông vật: Điểm cực cận của mắt thì góc trông vật max, c
 
 - **PHẪU THUẬT/ TK HỘI TỤ**
 ```
-
 
 ## Chương 8: Phóng xạ sinh học

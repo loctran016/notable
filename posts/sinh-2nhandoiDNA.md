@@ -34,6 +34,7 @@ category: 'Y1'
 - SSB protein giữ mạch đơn
 - DNA Primase tạo “mồi” RNA
 ```
+
 ![Khởi đầu nhân đôi](/sinh-2nhandoiDNA-khoidau.jpg)
 ![Tổng hợp đoạn mồi](/sinh-2nhandoiDNA-doanmoi.jpg)
 
@@ -48,25 +49,27 @@ category: 'Y1'
 - Mạch nhanh (leading) kéo dài liên tục
 - Mạch chậm (lagging) gián đoạn - đoạn Okazaki ngắn
 ```
+
 ![Kéo dài](/sinh-2nhandoiDNA-dnapolIII.jpg)
 ![Đoạn Okazaki](/sinh-2nhandoiDNA-okazaki.jpg)
 ![Mạch chậm được bẻ cong](/sinh-2nhandoiDNA-becong.png)
+
 #### Hoạt tính DNA pol III
 
 <!-- ```markmap -->
-- 5’-3’ polymerase
-- 3’-5’ exonuclease
+* 5’-3’ polymerase
+* 3’-5’ exonuclease
 
 $\Rightarrow$ Hoạt tính đọc sửa DNA pol III
-- 5’-3’ exonuclease
+* 5’-3’ exonuclease
 <!-- ``` -->
 
 ## Kết thúc
 
 <!-- ```markmap -->
-- Loại bỏ mồi và tổng hợp bù bởi DNA pol I
-- Nối đoạn Okazaki nhờ Ligase
-- Các nucleotide bắt cặp sai (mismatch) được nhận diện và sửa chữa
+* Loại bỏ mồi và tổng hợp bù bởi DNA pol I
+* Nối đoạn Okazaki nhờ Ligase
+* Các nucleotide bắt cặp sai (mismatch) được nhận diện và sửa chữa
 <!-- ``` -->
 ![Kết thúc](/sinh-2nhandoiDNA-ketthuc.jpg)
 

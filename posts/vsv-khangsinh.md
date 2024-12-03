@@ -15,11 +15,7 @@ category: 'Y1'
 Ức chế tổng hợp protein hay acid nucleic
 Ức chế con đường chuyển hoá
 
-
-
 ## Các nhóm kháng sinh
-
-
 
 ### NHÓM MACROLIDE - ADR
 
@@ -33,11 +29,7 @@ Tác dụng tốt trên cầu khuẩn Gram dương + *vi khuẩn kị khí*
 
 Vết thương mưng mủ (hôi thúi) $\Rightarrow$ nghi ngờ vi khuẩn kị khí $\to$ sử dụng kháng sinh này
 
-
-
 Dùng lindamisin nhiều thì có nguy cơ bị viêm đại tràng giả mạc do bùng phát Clostridium difficile - cùng họ uốn ván     (kị khí)
-
-
 
 ### NHÓM CYCLIN - ADR
 
@@ -51,8 +43,6 @@ Tetracycline từng được sử dụng phổ biến rộng rãi, gây ra hội
 
 Phổ kháng khuẩn rộng trên cả các vi khuẩn Gram-âm và Gram-dương, cả vi khuẩn hiếu khí và kỵ khí và vi khuẩn điển hình, xoắn khuẩn. Có tác dụng **kiềm khuẩn**
 
-
-
 ### NHÓM PEPTID
 
 Glycopeptid (Vancomycin, Teicoplanin, Telavancin, Dalbavancin và Oritavancin)
@@ -65,19 +55,11 @@ Lipopeptid (daptomycin)
 
 Vancomycin: tác động lên giữa các lớp peptydoglycan, chỉ ảnh hưởng Gram dương
 
-
-
 ADR:
 
 Hội chứng em bé đỏ (vanco) $\to$ giả dị ứng (biểu hiện giống dị ứng, không có cơ chế của dị ứng)
 
-
-
 Vi khuẩn Gram dương: Kháng Vanco $\to$ sài đến Teicoplanin
-
-
-
-
 
 ### Colistin
 
@@ -85,11 +67,7 @@ Dùng cho các ca phát đồ cứu cánh, chỉnh liều theo chức năng cầ
 
 Chủ yếu dành cho các vi khuẩn đa kháng + tác dụng phụ lớn
 
-
-
 ### DAPTOMYCIN
-
-
 
 •VK gram-dương hiếu khí
 và kỵ khí  staphylococci,
@@ -99,13 +77,9 @@ propionibacteria, clostridium perfringens…
 •Có tác dụng trên các
 chủng vi khuẩn kháng vancomycin
 
-
-
 ### ADR
 
 Surfactants là chất hoạt diện ở phổi, khuyến cáo không sử dụng kháng sinh này
-
-
 
 ### NHÓM QUINOLONE
 
@@ -131,8 +105,6 @@ Biến dạng sụn tiếp hợp, nguy cơ gây lùn
 
 Phình ĐM chủ ngực/Kéo dài khoảng QT trên ECG $\to$ bệnh lí tim mạch (nhất là bệnh tim mạch)
 
-
-
 ### NHÓM CO-TRIMOXAZOL (SULFONAMIDE)
 
 Ức chế tổng hợp acid folic
@@ -145,8 +117,6 @@ Thiếu acid folic gây dị tật thần kinh bẩm sinh
 
 Tác động hiệp đồng: $1+1>2$
 
-
-
 ### NHÓM OXAZOLIDINON
 
 Ức chế tổng hợp protein (50S)
@@ -155,29 +125,19 @@ Tác dụng trên vi khuẩn Gram-dương như staphylococci,
 streptococci, enterococci, E.faecium kháng Vancomycin, cầu khuẩn Gram-dương kỵ
 khí
 
-
-
 **ADR**:
 
 Giảm tiểu cầu (gây xuất huyết)
 
-
-
 khị khí: meta..,tetracyclin
-
-
 
 ### NHÓM 5-NITRO-IMIDAZOL
 
 Diệt –Đơn bào (trichomonas, chlamydia, giardia…), vi khuẩn kỵ khí $\to$ kỵ khí da best
 
-
-
 Uống chung với rượu: gây sảng rượu. disulfiram (ancol $\to$ acetandehit $\to$ acetat) gây tạo nhiều acetandehit
 
 ADR lên thần kinh ngoại biên
-
-
 
 ### FOSFOMYCIN
 
@@ -195,8 +155,6 @@ Nhiễm khuẩn đường tiết niệu
 
 Tác dụng phụ: gây suy tuỷ, sử dụng cho thú y hay tác dụng tại chỗ (nước nhỏ mắt)
 
-
-
 Nitrofurantoin
 
 Acid fusidic: nhiễm chàm
@@ -207,8 +165,6 @@ Rifaximin
 
 Thuốc kháng lao: S (Streptomycin), R (Rifampin), H (Isoniazid), Z (Pyrazinamide) và E (Ethambutol)
 
-
-
 ## Đề kháng kháng sinh
 
 Thay đổi đích tác động
@@ -218,8 +174,6 @@ Thay đổi tính thấm
 Bơm đẩy ra ngoài
 
 Tiết men kháng kháng sinh
-
-
 
 ## Nguyên tắc
 
@@ -236,8 +190,6 @@ Tiết men kháng kháng sinh
 •Phối hợp kháng sinh hợp lý
 
 •Dự phòng kháng sinh hợp lý
-
-
 
 PHỐI HỢP KHÁNG SINH
 
@@ -258,7 +210,5 @@ Mở rộng phổ kháng khuẩn:
 –Phối hợp một β-lactam với một Macrolide hoặc Doxycycline
 
 •
-
-
 
 Ocamatin: biệt dược (acid )

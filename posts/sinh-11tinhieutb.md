@@ -123,6 +123,6 @@ RTK hoạt hoá PI-3-kinase – Akt $\to$ hoạt hoá IP $\to$ hoạt hoá kinas
 
 ## Truyền tín hiệu qua thụ thể nội bào
 
-- Thụ thể bào tương/nhân $\to$ hành vi tế bào/biểu hiện gen
+* Thụ thể bào tương/nhân $\to$ hành vi tế bào/biểu hiện gen
 
-- testostreron, estrogen
+* testostreron, estrogen

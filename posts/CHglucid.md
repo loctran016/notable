@@ -94,6 +94,7 @@ Tân tạo glucose xảy ra chủ yếu ở gan, một phần rất nhỏ ở v�
 3. Enzyme cắt nhánh
    (hoạt động ít) cắt LK 1,6- glycoside  glucose tự do
    KẾT QUẢ:
+
 * 9/10 là G-1-P
 * 1/10 là glucose tự do
 

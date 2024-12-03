@@ -10,17 +10,17 @@ category: 'Y1'
 
 ## Nguyên tử
 
-- Tiên đề 1: Nguyên tử chỉ tồn tại ở trạng thái năng lượng xác định (trạng thái dừng)
+* Tiên đề 1: Nguyên tử chỉ tồn tại ở trạng thái năng lượng xác định (trạng thái dừng)
 
-- Tiên đề 2: $E_n - E_n' = \Delta E = hv = \frac{hc}{\lambda}$
+* Tiên đề 2: $E_n - E_n' = \Delta E = hv = \frac{hc}{\lambda}$
 
 ## Hạt nhân
 
-- Bán kính của hạt nhân
+* Bán kính của hạt nhân
 
 $R = r_o*sqrt(A,3)$ (m)
 
-- Năng lượng LK hạt nhân
+* Năng lượng LK hạt nhân
 
 $E = mc^2$
 
