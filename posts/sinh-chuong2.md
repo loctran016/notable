@@ -4,7 +4,6 @@ description: ''
 date: 2024-12-02
 tags: ['Sinh Di Truyền']
 category: 'Y1'
-
 ---
 
 <!-- markmap: foldAll -->

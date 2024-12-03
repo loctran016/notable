@@ -194,3 +194,5 @@ Hệ thống sửa lỗi ở: UvrA, UvrB, UvrC và UvrD
 :::info
 **Cơ chế đột biến gen gây bệnh Hemoglobin bất thường**
 :::
+
+<!-- CASE LÂM SÀNG -->
