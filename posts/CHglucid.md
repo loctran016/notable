@@ -10,6 +10,8 @@ tag:
 # star
 ---
 
+<!-- markdownlint-disable MD024 -->
+
 ### 1) Sự tiêu hoá và hấp thu glucid
 
 Các thức ăn là carbohydrate như tinh bột được amylase trong nước bọt thủy phân tạo thành maltose

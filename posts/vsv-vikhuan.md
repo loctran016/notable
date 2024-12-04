@@ -22,6 +22,7 @@ Kích thước: hầu hết từ 0,5-2 µm
 • Hình dạng:
 
 – Hình cầu
+
 * Hình que
 * Hình phẩy
 * Hình xoắn

@@ -77,7 +77,7 @@ propionibacteria, clostridium perfringens…
 •Có tác dụng trên các
 chủng vi khuẩn kháng vancomycin
 
-### ADR
+**ADR**
 
 Surfactants là chất hoạt diện ở phổi, khuyến cáo không sử dụng kháng sinh này
 
@@ -97,7 +97,7 @@ Có đến 4 thế hệ
 
 Thế hệ 3: sử dụng cho viêm phổi (quinolone hô hấp)
 
-#### ADR
+**ADR:**
 
 Phụ nữ có thai, trẻ em
 

@@ -54,13 +54,14 @@ category: 'Y1'
 ![Đoạn Okazaki](/sinh-2nhandoiDNA-okazaki.jpg)
 ![Mạch chậm được bẻ cong](/sinh-2nhandoiDNA-becong.png)
 
-#### Hoạt tính DNA pol III
+### Hoạt tính DNA pol III
 
 <!-- ```markmap -->
 * 5’-3’ polymerase
 * 3’-5’ exonuclease
 
 $\Rightarrow$ Hoạt tính đọc sửa DNA pol III
+
 * 5’-3’ exonuclease
 <!-- ``` -->
 

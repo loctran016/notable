@@ -7,7 +7,7 @@ heroImage: '/blog-placeholder-3.jpg'
 tags: ['Vi Sinh']
 category: 'Y1'
 ---
-
+<!-- TODO: Fix the headings -->
 ## Giới thiệu
 
 Virus (siêu vi, siêu vi trùng, siêu vi khuẩn), cực nhỏ (2R $\approx$ 20 - 300 nm $\to$ *liên tưởng tới khẩu trang*)
@@ -94,6 +94,7 @@ Phương pháp so sánh kích thước:
 <!-- Hình ảnh (so sánh giữa naked vs enveloped) -->
 
 3. Màng bọc lipid:
+
 * tạo ra khi nucleocapsid nẩy chồi qua màng TB.
 * phospholipid / màng bọc:
 *  màng TB có liên quan /nẩy chồi.
@@ -154,6 +155,7 @@ CD4 + thụ thể phụ mới hoà màn được -> Ức chế CXCR4, CCR5
 
 1. Hủy hoại TB KC
 2. Làm sai lệch nhiễm sắc thể của TB
+
 * Gây dị tật bẩm sinh, thai chết lưu - sinh khối u và ung thư
 
 3. Tạo hạt virus không hoàn chỉnh

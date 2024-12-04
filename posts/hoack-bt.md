@@ -8,6 +8,7 @@ tags: ['Hoá Y']
 category: 'Y1'
 # draft: true
 ---
+<!-- markdownlint-disable MD029 -->
 
 ## Lưu ý
 
@@ -37,9 +38,9 @@ ASTT: 2Na+ + 10(BUN/28 + glu/180)
 
 /Nhiệt tạo thành của N2O gì đó -> +82
 
-6. Bao nhiêu gam glucose để 1 người 70kg leo 3m hay gì đó
+5. Bao nhiêu gam glucose để 1 người 70kg leo 3m hay gì đó
 
-7. Cho thế điều kiện tiêu chuẩn của các cặp OXH sau:
+6. Cho thế điều kiện tiêu chuẩn của các cặp OXH sau:
 
 Fe<sup>3+</sup> + 1e -> Fe^{2+} E_0=0,771V$
 
