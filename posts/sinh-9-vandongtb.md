@@ -1,5 +1,5 @@
 ---
-title: 'Bài 10. Protein động cơ và sự vận động của tế bào'
+title: 'Bài 9. Protein động cơ và sự vận động của tế bào'
 description: ''
 # pubDate: 'Nov 13 2024'
 date: 2024-11-22

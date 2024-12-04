@@ -1,5 +1,5 @@
 ---
-title: 'Vận chuyển chất qua màng tế bào'
+title: 'Bài 10. Vận chuyển chất qua màng tế bào'
 description: ''
 date: 2024-11-28
 tags: ['Sinh Di Truyền']
