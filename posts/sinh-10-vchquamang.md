@@ -154,3 +154,12 @@ Bạch cầu trung tính + đại thực bào: tiêu hủy vi khuẩn + lọai t
 ```
 
 ### Nhập bào qua trung gian thụ thể (receptor – mediated endocytosis)
+
+![Nhập bào LDL](image-7.png)
+
+* Gen LDLR (NST 19) → LDL receptor
+* Gen APOB (NST 2) → apolipoprotein B-100
+
+### Bóng vận chuyển
+
+Có tính chọn lọc

@@ -69,6 +69,7 @@ $\Rightarrow$ Tb vượt qua điểm R → Giai đoạn S.
 ### Giai đoạn S
 
 Thời gian tương đối hằng định (≈ 8h) ở mọi loại tb.
+
 * Các protein vẫn được tổng hợp:
 • Histon H1 + sợi DNA → Sợi chromatin.
 • Cyclin A + CDK2 → Phức Cyclin A/CDK2.
@@ -91,6 +92,7 @@ Tế bào người nữ 46,XX có 2 NST X:
 Tb tiếp tục tổng hợp các protein cần cho thời kỳ M.
 Cyclin B + CDK1 → Phức Cyclin B/CDK1
 → Thúc đẩy nhanh quá trình phân bào (G2 → M)
+
 * Ngừng phiên mã các gen
 * Phá hủy vỏ nhân trong M
 * Giúp NST co ngắn (kỳ đầu)
