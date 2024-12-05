@@ -91,9 +91,17 @@ G – Protein – Coupled Receptor (GPCR)
 
 Protein G gồm 3 tiểu đơn vị: $\alpha, \beta, \gamma$
 
+![Hoạt hoá protein G](image.png)
+
+Chức năng:
+
 * Điều hoà trực tiếp kênh K<sup>+</sup>, mở kênh K<sup>+</sup> => giảm co cơ tim
 
+![Protein G điều hòa trực tiếp kênh ion](image-1.png)
+
 * Con đường cAMP (nguồn gốc từ ATP - thể hiện năng lượng của tb) - ptu truyền tin thứ 2 (thứ 1: andrenalin)
+
+![Protein G hoạt hóa enzyme màng - Con đường cAMP](image-2.png)
 
 * Con đường IP
 
@@ -105,21 +113,27 @@ Protein G gồm 3 tiểu đơn vị: $\alpha, \beta, \gamma$
 
   * IP → IP3 + DAG
 
+![Protein G hoạt hóa enzyme màng - Con đường truyền tín hiệu thông qua IP](image-3.png)
+
 ### Thụ thể - enzyme
 
 Thụ thể màng hoạt động như là enzyme, hay tạo phức với protein khác và phức này hoạt động như là enzyme.
 
 * Thụ thể + tín hiệu → mở phần nội bào của thụ thể hay enzyme liên quan
 
-Thụ thể gắn enzyme tyrosine kinase
+**Thụ thể gắn enzyme tyrosine kinase**
 
-* Receptor tyrosine kinase: RTK
+Receptor tyrosine kinase: RTK
 
 RTK hoạt hóa Ras nhờ Ras-GEF → hoạt hoá MAP kinase
 
-con đường tín hiệu PI-3-kinase – Akt
+![RTK hoạt hoá Ras](image-4.png)
+
+Con đường tín hiệu PI-3-kinase – Akt
 
 RTK hoạt hoá PI-3-kinase – Akt → hoạt hoá IP → hoạt hoá kinase 1 → hoạt hoá Akt
+
+![RTK hoạt hoá con đường tín hiệu PI-3-kinase – Akt](image-5.png)
 
 ## Truyền tín hiệu qua thụ thể nội bào
 
