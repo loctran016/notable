@@ -15,11 +15,11 @@ category: 'Y1'
 - Tích điện (+) vs (-)
 ```
 
-Chuỗi polypeptide: trình tự các aa **đặc trưng và chính xác**, từ đầu N - amino $\to$ đầu C - carboxyl, (trái $\to$ phải)
+Chuỗi polypeptide: trình tự các aa **đặc trưng và chính xác**, từ đầu N - amino → đầu C - carboxyl, (trái → phải)
 
 Sự gấp cuộn đúng phụ thuộc chủ yếu vào sự sắp xếp của các aa phân cực và không phân cực:
 
-* Các aa kỵ nước: kết tụ bên trong (lực kỵ nước) $\to$ tạo lk H với các aa tương tự/khung sườn của chuỗi.
+* Các aa kỵ nước: kết tụ bên trong (lực kỵ nước) → tạo lk H với các aa tương tự/khung sườn của chuỗi.
 * Các aa ưa nước: nằm ở mặt ngoài để dễ tạo lk H với các pt phân cực khác.
 
 Còn lệ thuộc vào các lk yếu: lk H, lực hút tĩnh điện, lực van der Waals, lực kị nước
@@ -54,7 +54,7 @@ Thường có ở các protein màng (protein vận chuyển/thụ thể - prote
 
 ![Cấu trúc xoắn cuộn](/sinh-7bdpro-xoancuon.png)
 
-**Cấu trúc xoắn cuộn**: dài, hình gậy, vững chắc. (cấu trúc khung $\to$ sợi kéo dài)
+**Cấu trúc xoắn cuộn**: dài, hình gậy, vững chắc. (cấu trúc khung → sợi kéo dài)
 
 $\Rightarrow$ Sợi keratin (da), myosin (co cơ)
 
@@ -68,16 +68,16 @@ Thùng tròn (8-22 phiến/thùng) → Có các lỗ lọc H2O/pt nhỏ ưa nư�
 
 Hiện diện ở màng ngoài ty thể, lục lạp và vi khuẩn.
 
-Các chuỗi bên kỵ nước xếp dọc bên ngoài thùng β $\to$ tương tác lớp lipid kép, bên trong được lót bằng những aa ưa nước
+Các chuỗi bên kỵ nước xếp dọc bên ngoài thùng β → tương tác lớp lipid kép, bên trong được lót bằng những aa ưa nước
 
 ## Bậc 3, 4 của protein
 
-* Bậc 3: Các xoắn α, phiến β, đoạn ngoặt β và vòng β  tự cuộn $\to$ cấu trúc bậc 3 (lập thể)
+* Bậc 3: Các xoắn α, phiến β, đoạn ngoặt β và vòng β  tự cuộn → cấu trúc bậc 3 (lập thể)
 * Bậc 4: nhiều chuỗi polypeptide bậc 3 có thể giống (khác) nhau kết hợp lại.
 
 Nếu 2 protein l.kết dạng “đối diện nhau” tại vị trí gắn kết → Phức hợp protein đối xứng có **2 tiểu phần (1 dimer)**
 
-Domain ($\approx 40 - 350aa) gấp thành từng cụm bậc 3 $\to$ **chức năng riêng biệt**
+Domain ($\approx 40 - 350aa) gấp thành từng cụm bậc 3 → **chức năng riêng biệt**
 
 ## Chaperone
 
@@ -91,13 +91,13 @@ Là các protein + ATP hỗ trợ các chuỗi polypeptide (**Giấu các gốc 
 Hỗ trợ lắp ráp các hạt nucleosome (Histon + DNA).
 
 Chaperone của Eukaryote có trong bào tương và ty thể, lục lạp và LNC hạt,...
-Một số chaperone là protein sốc nhiệt (Heat-shock protein) $\to$ chịu nhiệt
+Một số chaperone là protein sốc nhiệt (Heat-shock protein) → chịu nhiệt
 
 2 loại: Chaperone (Hsp70) và Chaperonin (Hsp60)
 
 * Hsp70: hoạt động sớm, gắn vào khoảng **7 aa kỵ nước** trước khi chuỗi polypeptide rời khỏi Ri.
 * Hsp60: là loại có thùng chứa, hoạt động sau khi chuỗi polypeptide mới được tổng hợp (chưa gấp cuộn)
-hoặc protein gấp cuộn sai → Cô lập trong **mt ưa H2O**
+  hoặc protein gấp cuộn sai → Cô lập trong **mt ưa H2O**
 
 <!-- ### Tác dụng -->
 
@@ -121,9 +121,9 @@ Hầu hết các chuỗi polypeptide gấp cuộn thành protein
 
 ### Dạng sợi xoắn ốc dài
 
-Nhiều protein tương đồng + có một điểm gắn phù hợp với một vùng $\to$ Chuỗi sợi xoắn ốc dài
+Nhiều protein tương đồng + có một điểm gắn phù hợp với một vùng → Chuỗi sợi xoắn ốc dài
 
-* Các actin hình cầu (**G**lobular **actin**) $\to$ Sợi actin (**F**illament **actin**) $\to$ Vi sợi
+* Các actin hình cầu (**G**lobular **actin**) → Sợi actin (**F**illament **actin**) → Vi sợi
 
 ### Dạng sợi dài
 
@@ -169,7 +169,7 @@ Sợi elastin:
 
 ### Cấu trúc bề mặt protein quyết định tính chất HH
 
-Giữa các phần kế nhau của chuỗi polypep $\to$ ngăn cản H<sub>2</sub>O cạnh tranh với ligand
+Giữa các phần kế nhau của chuỗi polypep → ngăn cản H<sub>2</sub>O cạnh tranh với ligand
 
 * Các aa phân cực gần nhau → Dễ đẩy lẫn nhau → Tăng ái lực với các ion điện trái dấu
 * aa này tạo lk H với aa khác → Tác động đến aa ở chỗ khác → Hình thành hoặc phá vỡ các l.kết CHT
@@ -205,7 +205,7 @@ Người nhiễm prion gây bệnh (PrP*; PrPsc) là do:
 
 * Ăn thịt: bò điên, người chết; dịch y tế,.... có PrP*
 * Các prion trong cơ thể bị ĐBG hay do di truyền.
-$\Rightarrow$ 2 xoắn α → 4 phiến β (gấp cuộn sai)
+  $\Rightarrow$ 2 xoắn α → 4 phiến β (gấp cuộn sai)
 
 Prion gây bệnh (PrP*; PrPsc) và có tính lây truyền (như VK, virút) → Va, đụng các prion bình thường khác → Gấp cuộn sai → tạo ra và
 tích luỹ nhiều prion bệnh → Thoái hoá tb TK → Teo não → Chết từ từ

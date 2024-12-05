@@ -27,7 +27,7 @@ category: 'Y1'
 * Bộ xương tb, cấu trúc lông/roi, tb cơ và cả trên DNA
 * Actin: thành viên họ myosin
 * Ống vi thể gồm: Kinesin + Dynein
-* Tạo lực: ATP $\to$ sự thay đổi cấu hình
+* Tạo lực: ATP → sự thay đổi cấu hình
 * Điều hòa sự vận chuyển nội bào của bào quan có màng
 * Ba nhóm gồm: myosin, kinesin, dynein
 ```
@@ -44,41 +44,59 @@ category: 'Y1'
 
 ### Kinesin
 
-* Chức năng
+Chức năng
+
 * V/c bóng màng, bào quan có màng, NST dọc OVT
 * V/c từ trung tâm tế bào ra tận cùng đầu cộng của OVT
-* Có vai trò đặc biệt trong sự hình thành thoi phân bào, phân ly NST
-* Chịu trách nhiệm v/c nhanh ty thể, túi tiết sơ cấp và các thành
-phần khác nhau của synap đến những tb thần kinh ở xa
+* Hình thành thoi phân bào → phân ly NST
+* V/c nhanh ty thể, túi tiết sơ cấp,... của synap đến những tb thần kinh ở xa
+
+
+:::tip
+
+* Liên quan chủ yếu đến OVT
+* (+)
+* Vận chuyển bảo quan
+
+:::
 
 ### Dynein
 
-Vị trí
+Đi về đầu (-) OVT, nhanh hơn Kinesin
+2 hoặc 3 chuỗi nặng với domain động cơ
+Nhiều chuỗi trung gian và nhẹ biến đổi
+Kích thước đầu Dynein > Myosin, Kinesin
+Có 2 nhóm chính: Dynein bào tương hoặc Dynein thuộc lông / sợi trục
 
-* Đi về đầu (-) OVT, nhanh hơn Kinesin
-* 2 hoặc 3 chuỗi nặng với domain động cơ
-* Nhiều chuỗi trung gian và nhẹ biến đổi
-* Kích thước đầu Dynein > Myosin, Kinesin
-* Có 2 nhóm chính: Dynein bào tương hoặc Dynein thuộc lông / sợi trục
+:::tip
 
-Dynein bào tương
+* Nặng
+* (-)
 
-* Homodimer chuỗi nặng với 2 domain động cơ lớn ở đầu
-* Vai trò:
+:::
+
+#### Dynein bào tương
+
+Homodimer chuỗi nặng với **2 domain động cơ** lớn ở đầu
+
+Vai trò:
+
 * Vận chuyển các bóng màng
 * Định vị bộ máy Golgi gần trung tâm tế bào
+* Phân ly NST (OVT/OVT sao)
 
-Dynein thuộc lông hay sợi trục
+#### Dynein thuộc lông hay sợi trục
 
-* Heterodimer với đầu 2 hay 3 vùng domain động cơ
-* Vai trò:
-* Gây nên sự trượt nhanh và hiệu quả của các OVT → lông / roi chuyển động
+Heterodimer với đầu **2/3 vùng domain** động cơ
+
+Vai trò:
+
+* **Sự trượt nhanh** và hiệu quả của các OVT → lông / roi chuyển động
 * Cơ chế vận động của lông và roi
 
-Cấu trúc Dynein thuộc cấu trúc lông / sợi trục
 
-* Heterodimer với đầu 2/3 vùng domain động cơ
-* Chức năng
+Chức năng
+
 * Gây nên sự trượt của các OVT
 * Cơ chế vận động của lông và roi
 
@@ -123,7 +141,7 @@ Protein vòng trên màng tb hoạt động chuyển động xoay như vòng bi
 Roi hoạt động xoay ngược chiều kim đồng hồ, hướng xoay đảo ngược định kỳ gây ra sự đổi hướng di chuyển của VK.
 
 * VK có roi xung quanh, khi roi không tụ lại 1 hướng → VK
-chuyển động kiểu nhào lộn
+  chuyển động kiểu nhào lộn
 
 ### Eukaryote
 
@@ -131,7 +149,7 @@ Di động kiểu amip:
 
 * TB sống tự do, không màng cứng
 
-* Thuyết sol-gel: nội sinh chất chuyển dạng Sol (lỏng) chảy vào chân giả $\to$ chuyển dạng Gel (đặc) $\to$ chuyển dạng Sol (lỏng) $\to$ tiếp tục chảy vào chân giả mới
+* Thuyết sol-gel: nội sinh chất chuyển dạng Sol (lỏng) chảy vào chân giả → chuyển dạng Gel (đặc) → chuyển dạng Sol (lỏng) → tiếp tục chảy vào chân giả mới
 
 * Sol: tiểu phần nhỏ actin phân tán
 
@@ -150,3 +168,34 @@ Troponin I đột biến $\Rightarrow$ dễ nhồi máu cơ tim
 Trôpnin T lớn nhất; C: vừa vừa
 
 video troponin
+
+
+
+
+
+
+
+Myosin Light Chain (MLC) kinase: phosphoryl hoá ML → ái lực sợi myosin vs actin $\top$ → co cơ (Ca^2+^ hoạt MLC kinase)
+
+Giản cơ: MLC Phosphatase
+
+
+
+kênh Ca^2+^ điện thế, kích thích Ca2+ trong Lưới cơ tương (sarcoplasmic reticulum - SR) đi ra ngoài
+
+
+
+Agonist là chất đồng vận, hoạt hoá Gq, hoạt hoá IP~3~ kích thích giải phóng Ca2+ trong SR
+
+
+
+Ca^2+^ kết hợp với CAM (Calmodulin) thành Ca^2+^ CAM hoạt hoá MLCK hoạt hoá MLC
+
+
+<!-- :::tip
+
+Kinesin
+
+Dyne
+
+::: -->

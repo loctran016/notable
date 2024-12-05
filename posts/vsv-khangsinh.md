@@ -19,7 +19,7 @@ category: 'Y1'
 
 ### NHÓM MACROLIDE - ADR
 
-Chuyển hoá quan gan $\to$ tăng hoạt tính (tác dụng phụ)/giảm hoạt tính $\Rightarrow$ **TRA TƯƠNG TÁC THUỐC**
+Chuyển hoá quan gan → tăng hoạt tính (tác dụng phụ)/giảm hoạt tính $\Rightarrow$ **TRA TƯƠNG TÁC THUỐC**
 
 ### NHÓM LINCOSAMID
 
@@ -27,7 +27,7 @@ Tương tác với 50S ribosome (orilinhda)
 
 Tác dụng tốt trên cầu khuẩn Gram dương + *vi khuẩn kị khí*
 
-Vết thương mưng mủ (hôi thúi) $\Rightarrow$ nghi ngờ vi khuẩn kị khí $\to$ sử dụng kháng sinh này
+Vết thương mưng mủ (hôi thúi) $\Rightarrow$ nghi ngờ vi khuẩn kị khí → sử dụng kháng sinh này
 
 Dùng lindamisin nhiều thì có nguy cơ bị viêm đại tràng giả mạc do bùng phát Clostridium difficile - cùng họ uốn ván     (kị khí)
 
@@ -57,9 +57,9 @@ Vancomycin: tác động lên giữa các lớp peptydoglycan, chỉ ảnh hư�
 
 ADR:
 
-Hội chứng em bé đỏ (vanco) $\to$ giả dị ứng (biểu hiện giống dị ứng, không có cơ chế của dị ứng)
+Hội chứng em bé đỏ (vanco) → giả dị ứng (biểu hiện giống dị ứng, không có cơ chế của dị ứng)
 
-Vi khuẩn Gram dương: Kháng Vanco $\to$ sài đến Teicoplanin
+Vi khuẩn Gram dương: Kháng Vanco → sài đến Teicoplanin
 
 ### Colistin
 
@@ -103,7 +103,7 @@ Phụ nữ có thai, trẻ em
 
 Biến dạng sụn tiếp hợp, nguy cơ gây lùn
 
-Phình ĐM chủ ngực/Kéo dài khoảng QT trên ECG $\to$ bệnh lí tim mạch (nhất là bệnh tim mạch)
+Phình ĐM chủ ngực/Kéo dài khoảng QT trên ECG → bệnh lí tim mạch (nhất là bệnh tim mạch)
 
 ### NHÓM CO-TRIMOXAZOL (SULFONAMIDE)
 
@@ -133,9 +133,9 @@ khị khí: meta..,tetracyclin
 
 ### NHÓM 5-NITRO-IMIDAZOL
 
-Diệt –Đơn bào (trichomonas, chlamydia, giardia…), vi khuẩn kỵ khí $\to$ kỵ khí da best
+Diệt –Đơn bào (trichomonas, chlamydia, giardia…), vi khuẩn kỵ khí → kỵ khí da best
 
-Uống chung với rượu: gây sảng rượu. disulfiram (ancol $\to$ acetandehit $\to$ acetat) gây tạo nhiều acetandehit
+Uống chung với rượu: gây sảng rượu. disulfiram (ancol → acetandehit → acetat) gây tạo nhiều acetandehit
 
 ADR lên thần kinh ngoại biên
 

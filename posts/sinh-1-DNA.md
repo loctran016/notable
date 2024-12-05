@@ -63,7 +63,7 @@ tự do
 Trình tự TEL ở đầu mút của nhiễm sắc thể (telomere)
 
 * 5'-TTAGGG-3’ ~ 2000 lần
-* Cấu trúc loop và các protein đặc hiệu $\to$ bảo vệ haiđầu telomere
+* Cấu trúc loop và các protein đặc hiệu → bảo vệ hai đầu telomere
 * Chiều dài của telomere ngắn dần theo tuổi, gay lão hóa/chết theo chu trình của tế bào/ung thư
 
 DNA tiểu vệ tinh (minisatellite)

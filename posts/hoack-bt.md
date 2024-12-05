@@ -18,7 +18,7 @@ Nhiệt động học (xem kĩ pretest, tính $\Delta H, \Delta G$)
 
 Học terpen, steroid, glucose, xác định liên kết $\alpha , \beta$ glycoside
 
-K+ máu tăng $\to$ ECG
+K+ máu tăng → ECG
 
 ASTT: 2Na+ + 10(BUN/28 + glu/180)
 

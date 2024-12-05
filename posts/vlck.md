@@ -399,13 +399,13 @@ màng tế bào (điện thế nghỉ)
 
 Giai đoạn khử cực: 2 kênh K<sup>+</sup> thường và IK1, 2 kênh Ca<sup>2+</sup> type L và type T, 2 kênh Na<sup>+</sup> nhanh và funny
 
-Trong tế bào cơ tim có một giai đoạn bình nguyên, điện thế tương đối không thay đổi. $\to$ Co cơ xảy ra
+Trong tế bào cơ tim có một giai đoạn bình nguyên, điện thế tương đối không thay đổi. → Co cơ xảy ra
 
 Đặc tính của cơ tim:
 
 * Tính tự động: nút xoang nhĩ là chủ nhịp
 
-* Tính dẫn truyền: nút xoang nhĩ (SA) $\to$ tâm nhĩ $\to$ nút nhĩ thất (AV) $\to$ bó His $\to$ mạng lưới Purkinje
+* Tính dẫn truyền: nút xoang nhĩ (SA) → tâm nhĩ → nút nhĩ thất (AV) → bó His → mạng lưới Purkinje
 
 * Tính hưng phấn
 
@@ -427,7 +427,7 @@ $U_i=? \leftarrow U_{lưỡng \ cực \ dòng} \leftarrow U_{lưỡng \ cực \ 
 
 Điện thế hoạt động (Đáp ứng nhanh - cơ, đáp ứng chậm - ở đâu, các pha)
 
-ST chênh lên (nhồi máu cơ tim $\to$ thiếu ATP $\to$ K<sup>+</sup>, Na<sup>+</sup> ATPase $\downarrow$)
+ST chênh lên (nhồi máu cơ tim → thiếu ATP → K<sup>+</sup>, Na<sup>+</sup> ATPase $\downarrow$)
 
 Tâm thất và tâm nhĩ mất khả năng co
 
@@ -567,7 +567,7 @@ Máy quang phổ có 3 bộ phận chính:
 
 ### MẮT
 
-Giác mạc $\to$ thủy dịch tiền phòng $\to$ đồng tử $\to$ thủy tinh thể $\to$ thủy dịch hậu phòng
+Giác mạc → thủy dịch tiền phòng → đồng tử → thủy tinh thể → thủy dịch hậu phòng
 
 Là sự thay đổi độ cong của thuỷ tinh thể để làm cho ảnh của vật cần quan
 sát hiện rõ trên võng mạc.

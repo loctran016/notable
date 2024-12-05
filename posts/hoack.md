@@ -60,7 +60,7 @@ Cách li vì I<sub>131</sub> đào thải ra ngoài + tia $\gamma$ tác động 
 
 ### CLS: Ngộ độc TETRODOTOXI - Độc cá nóc
 
-TTX lớn, bịt lỗ lọc của VGSC $\to$ Na+ không di chuyển qua được $\to$ hệ thống thần kinh, cơ, suy hô hấp bị tê liệt
+TTX lớn, bịt lỗ lọc của VGSC → Na+ không di chuyển qua được → hệ thống thần kinh, cơ, suy hô hấp bị tê liệt
 
 Nguyên lý điều trị ngộ độc tetrodotoxin: Phải có tác nhân dễ tạo liên kết với VGSC hơn TTX, liên kết hóa học phải đủ lớn để đẩy TTX ra khỏi lỗ kênh - Tác nhân có kích thước đủ nhỏ để không bít lỗ kênh, giúp ion Na+ dễ dàng đi qua
 
@@ -184,7 +184,7 @@ Khối lượng nước bốc hơi: 35,26 x18 = 634,8 (g)
 
 ### Tốc độ phản ứng
 
-nồng độ, nhiệt độ, xúc tác $\to$ vận tốc phản ứng
+nồng độ, nhiệt độ, xúc tác → vận tốc phản ứng
 
 Thời gian bán huỷ của:
 
@@ -256,7 +256,7 @@ ngoại lệ halogen thì -I luôn mạnh hơn +R
 heme và globin.
 
 Các globin được bẻ gãy thành các amino acids,
-Các heme  được  chia  nhỏ thành  Fe  và Protoporphyrin.  Protoporphyrin  $\to$ Bilirubin Z,Z tan trong lipid chứ không tan trong nước
+Các heme  được  chia  nhỏ thành  Fe  và Protoporphyrin.  Protoporphyrin  → Bilirubin Z,Z tan trong lipid chứ không tan trong nước
 
 Albumin  trong  máu  gắn  với bilirubin Z,Z và vận chuyển nó đến gan và được liên  hợp  với  enzim UGT làm nó tan được trong nước.
 
@@ -265,7 +265,7 @@ Nguyên nhân gây vàng da bệnh lý ở trẻ :
 * Tăng sản xuất bilirubin (do sự gia tăng phân hủy tế bào hồng cầu, đời sống hồng cầu ngắn)
 * Giảm hấp thu ở gan do hàm lượng enzim UGT không đủ
 * Giảm khả năng liên hợp của albumin với bilirubin không liên hợp, giảm khả năng vận chuyển bilirubin
-* Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB $\to$ kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
+* Bất đồng nhóm máu giữa mẹ và bé: Đây là tình trạng xảy ra khi mẹ có nhóm máu O và bé là A, B hoặc AB → kích hoạt hệ thống miễn dịch của mẹ, phản ứng miễn dịch, tấn công và tiêu hủy chúng.
 
 Có đồng phân quang học không phải vì có C thủ tính, mà là do sự xuất hiện của liên kết hidro giữa các vòng A, B, C, D => làm quay mặt phẳng ánh sáng phân cực
 
@@ -310,7 +310,7 @@ Phản ứng thế ái nhân **S<sub>N</sub>**: Thế trên carbon bão hòa
 
 * 95% chuyển thành bài tiết bởi thận.
 
-* 5% lượng paracetamol bị oxi hóa bởi hệ enzim cytochrome P450 ở gan, tạo ra NAPQI. Chất này dễ phản ứng với protein gây  tổn  thương  tế bào.  Tuy  nhiên, glutathion  sẽ phản ứng cộng nhân hạch vào một  imin  liên  hợp  tạo  ra  sản  phảm glutathione+paracetamol vô hại $\to$ đào thải qua thận.
+* 5% lượng paracetamol bị oxi hóa bởi hệ enzim cytochrome P450 ở gan, tạo ra NAPQI. Chất này dễ phản ứng với protein gây  tổn  thương  tế bào.  Tuy  nhiên, glutathion  sẽ phản ứng cộng nhân hạch vào một  imin  liên  hợp  tạo  ra  sản  phảm glutathione+paracetamol vô hại → đào thải qua thận.
 
 * Tuy  nhiên,  nếu  sử dụng  quá  liều paracetamol, cơ thể không có đủ glutathion để giải độc các chất chuyển hóa. Điều này gây ứ động NAPQI, tổn thương tế bào, đặc biệt là gan.
 

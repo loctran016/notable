@@ -133,7 +133,7 @@ Lưới nội sinh chất có hạt
 * Không có ribosome trên bề mặt.
 * Thông với lưới có hạt, không thông trực tiếp với khoảng quanh nhân,
 liên kết mật thiết với bộ Golgi.
-* Tổng hợp các phospholipid và cholesterol $\to$ tạo màng mới.
+* Tổng hợp các phospholipid và cholesterol → tạo màng mới.
 * Tổng hợp hormone steroid ở tinh hoàn, buồng trứng và tuyến thượng thận.
 * Giải độc thuốc/chất độc hại ở gan.
 * Dự trữ Ca<sup>2+</sup> ở tbào cơ
@@ -176,8 +176,8 @@ Bộ Golgi được hình thành từ nhiều nguồn.
 Hình thành insulin:
 
 * Pre-Proinsulin: chuỗi A + B + C + tín hiệu
-* Pre-Proinsulin $\to$ Proinsulin: cắt chuỗi trình tự tín hiệu
-* Proinsulin $\to$ Insulin + chuỗi C
+* Pre-Proinsulin → Proinsulin: cắt chuỗi trình tự tín hiệu
+* Proinsulin → Insulin + chuỗi C
 
 ### Tiêu thể (lysosome)
 
@@ -282,8 +282,8 @@ trị ung thư
 
 #### Vị trí
 
-* Vào gian kỳ: ống vi thể xuất phát từ trung tâm tbào toả ra khắp bào tương $\to$ ống vi thể bào tương
-* Vào thời kỳ phân chia ống vi thể bào tương giải thể $\to$ ống vi thể của thoi phân bào. Đến cuối kỳ phân chia thì hiện tượng xảy ra ngược lại
+* Vào gian kỳ: ống vi thể xuất phát từ trung tâm tbào toả ra khắp bào tương → ống vi thể bào tương
+* Vào thời kỳ phân chia ống vi thể bào tương giải thể → ống vi thể của thoi phân bào. Đến cuối kỳ phân chia thì hiện tượng xảy ra ngược lại
 
 ### Sợi Actin
 
@@ -327,5 +327,5 @@ Một số thuốc có thể ảnh hưởng đến sợi actin
 - Loại bỏ protein lỗi
 - Điều hòa chu trình tbào.
 - Đáp ứng stress: phân hủy protein điều hòa.
-- Tạo ra các peptide kháng nguyên $\to$ miễn dịch
+- Tạo ra các peptide kháng nguyên → miễn dịch
 ```

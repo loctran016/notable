@@ -25,8 +25,8 @@ category: 'Y1'
         - ảnh hưởng mRNA
         - mức độ biểu hiện gen
     - SNVs tần suất allele < 1%
-    - gen APOE $\to$ Alzheimer
-    - gen ADIPOQ $\to$ diabetes type 2
+    - gen APOE → Alzheimer
+    - gen ADIPOQ → diabetes type 2
 ```
 
 ## Đột biến ảnh hưởng cấu trúc protein
@@ -47,16 +47,16 @@ category: 'Y1'
 
 ```markmap
 #### Hỗ biến
-* Base $\to$ trạng thái hiếm
-* T và G: keto $\to$ enol
-* A và C: amino $\to$ imino
+* Base → trạng thái hiếm
+* T và G: keto → enol
+* A và C: amino → imino
 * C* - A hay A* - C
 * T* - G hay G* - T
-* Không bền $\to$ không lâu
+* Không bền → không lâu
 #### Khử purine <!-- markmap: foldAll -->
 - Sự khử purine ngẫu nhiên trong qt sao chép DNA
 - Base sai khác gắn vào điểm AP trên mạch mới
-- Điểm AP $\to$ thay thế cặp nu bất kì
+- Điểm AP → thay thế cặp nu bất kì
 #### Khử amin <!-- markmap: foldAll -->
 - Enzyme: C → U dễ bị loại bỏ.
 - 5 <sup>m</sup> cytosine mất amin thành T → cặp G.T (bị loại bỏ)
@@ -69,15 +69,15 @@ category: 'Y1'
 
 - Acid nitrous (HNO<sub>2</sub>)
     - Thay -NH<sub>2</sub> thành -OH/-O
-    - C $\to$ U: G.C $\to$ A.T
-    - A $\to$ Hy: A.T $\to$ Hy.C
+    - C → U: G.C → A.T
+    - A → Hy: A.T → Hy.C
 
 - Các hợp chất gây alkyl hóa (EMS, MMS)
     -  G.C $\Righteftarrow$ A.T
 
 ### Chất xen vào cấu trúc DNA <!-- markmap: foldAll -->
 
--  Có cấu trúc phẳng $\to$ xen vào, biến dạng DNA
+-  Có cấu trúc phẳng → xen vào, biến dạng DNA
 -  Đột biến **thêm** khi gắn vào **mạch khuôn**
 -  Đột biến **mất** khi gắn vào **mạch mới**
 -  Thường là chất gây đột biến nhóm Acridine
@@ -105,10 +105,10 @@ category: 'Y1'
 ```markmap
 ### Tia UV <!-- markmap: foldAll -->
 - Hình thành pyrimidine dimers (thymine) giữa 2 base liền kề
-- $\to$ thay thế 1 cặp nu khi sao chép DNA
+- → thay thế 1 cặp nu khi sao chép DNA
 - 260nm
 ### Tia X & gamma <!-- markmap: foldAll -->
--  Năng lượng cao, gây chết tế bào $\to$ điều trị ung thư
+-  Năng lượng cao, gây chết tế bào → điều trị ung thư
 -  Tia X xuyên mô, “knocking” electron khỏi quỹ đạo → tạo ion → làm gãy lk hóa trị giữa đường – nhóm phosphate pt DNA → gây mất base, khuyết đơn, đứt gãy NST…
 -  Hình thành ion tích điện làm thay đổi cấu trúc Nu, dẫn đến bắt cặp sai làm tăng tần suất đột biến
 ```
@@ -155,7 +155,7 @@ Hệ thống sửa lỗi ở: UvrA, UvrB, UvrC và UvrD
 
 ```markmap
 
-* Uvr2A.B nhận biết $\to$ tách UvrA
+* Uvr2A.B nhận biết → tách UvrA
 * UvrC + UvrB → UvrBC cắt
     * UvrB cắt 4 - 5 nu tại gốc 3’
     * UvrC cắt 8 nu tại gốc 5’
@@ -188,7 +188,7 @@ Hệ thống sửa lỗi ở: UvrA, UvrB, UvrC và UvrD
 #### Ung thư đại trực tràng (UTĐTT)
 - Ở người
 - Hệ thống sửa lỗi: MLH1, MSH2, MSH6 và PMS2.
-- Các đột biến liên quan $\to$ DNA sai hỏng $\to$ ung thư
+- Các đột biến liên quan → DNA sai hỏng → ung thư
 ```
 
 :::info

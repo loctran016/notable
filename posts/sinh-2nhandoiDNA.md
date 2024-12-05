@@ -1,5 +1,4 @@
 ---
-
 title: 'Bài 2. Sự sao chép DNA'
 description: ''
 date: 2024-10-17
@@ -43,7 +42,7 @@ category: 'Y1'
 ```markmap
 - DNA pol III: gắn dNTPs tạo mạch DNA mới chiều 5’-3’
 - DNA polymerase xúc tác gắn dNTP ở 3’-OH
-    - Loại 2 nhóm phosphate $\to$ năng lượng
+    - Loại 2 nhóm phosphate → năng lượng
     - E. coli: DNA pol III
     - Saccharomyces: DNA pol ε, δ, γ (ti thể)
 - Mạch nhanh (leading) kéo dài liên tục
@@ -57,22 +56,27 @@ category: 'Y1'
 ### Hoạt tính DNA pol III
 
 <!-- ```markmap -->
+
 * 5’-3’ polymerase
 * 3’-5’ exonuclease
 
 $\Rightarrow$ Hoạt tính đọc sửa DNA pol III
 
 * 5’-3’ exonuclease
-<!-- ``` -->
+
+  <!-- ``` -->
 
 ## Kết thúc
 
 <!-- ```markmap -->
+
 * Loại bỏ mồi và tổng hợp bù bởi DNA pol I
 * Nối đoạn Okazaki nhờ Ligase
 * Các nucleotide bắt cặp sai (mismatch) được nhận diện và sửa chữa
-<!-- ``` -->
-![Kết thúc](/sinh-2nhandoiDNA-ketthuc.jpg)
+
+  <!-- ``` -->
+
+  ![Kết thúc](/sinh-2nhandoiDNA-ketthuc.jpg)
 
 ## Sao chép ở Prokaryote vs Eukaryote
 

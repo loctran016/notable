@@ -55,7 +55,7 @@ Rb gồm 2 đơn vị của các protein quấn với rRNA
 Hoạt hoá tRNA (aminoacyl hóa):
 
 * Aminoacyl-tRNA **synthetase** phù hợp và **Mg^2+^**
-* Dùng 1 ATP $\to$ 2P + AMP
+* Dùng 1 ATP → 2P + AMP
 
 ## Dịch mã
 
@@ -79,7 +79,7 @@ Eukaryote có nhiều eIF
     * ngăn các đơn vị ribosome kết nối
 * eIF-4(A, B, E, F)
     * gắn mũ vào đầu 5’- mRNA
-    * tháo xoắn $\to$ ribosome gắn 5'AUG3'
+    * tháo xoắn → ribosome gắn 5'AUG3'
 ```
 
 ### Kéo dài dịch mã
@@ -106,9 +106,9 @@ Chuỗi polypeptide được loại bỏ methionine & gấp cuộn
 
 ```markmap
 * Tetracyclin: ngăn aminoacyl-tRNA vào vị trí A
-* Streptomycin: ngăn cản sự chuyển phức hợp mở đầu $\to$ kéo dài (bước 1)/gây đọc nhầm mã
+* Streptomycin: ngăn cản sự chuyển phức hợp mở đầu → kéo dài (bước 1)/gây đọc nhầm mã
 * Chloramphenicol: ngăn phản ứng peptidytransferase (bước 2)
-* Erythromycin: ngăn sự chuyển vị P $\to$ E (bước 3)
+* Erythromycin: ngăn sự chuyển vị P → E (bước 3)
 ```
 
 :::tip

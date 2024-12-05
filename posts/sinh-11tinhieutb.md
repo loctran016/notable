@@ -11,7 +11,7 @@ category: 'Y1'
 ```markmap
 ### Các kiểu truyền tín hiệu
 #### Nội tiết
-- Hormone: tb tiết $\to$ tbào đích
+- Hormone: tb tiết → tbào đích
 #### Cận tiết
 - Khuếch tán dịch ngoại bào
 #### Thần kinh
@@ -23,8 +23,8 @@ category: 'Y1'
 #### Không qua màng
 - Lớn/nhỏ mà ưa nước
 - Tiết nhận thụ thể
-- T.tin thứ 1 $\to$ thụ thể  (ngoại)
-- Thụ thể $\to$ T.tin thứ 2 (nội)
+- T.tin thứ 1 → thụ thể  (ngoại)
+- Thụ thể → T.tin thứ 2 (nội)
 #### Qua màng
 - Thụ thể nội bào
 - Nhỏ + kị nước
@@ -45,7 +45,7 @@ category: 'Y1'
 - Protein phosphatase bất hoạt (loại P)
 #### Gắn GTP
 - Gắn GTP: hoạt hoá
-- Loại P $\to$ gắn GDP: bất hoạt
+- Loại P → gắn GDP: bất hoạt
 #### Thác tín hiệu
 - Khuếch tán theo cấp số nhân
 - Thác phosphoryl hoá
@@ -115,14 +115,14 @@ Thụ thể gắn enzyme tyrosine kinase
 
 * Receptor tyrosine kinase: RTK
 
-RTK hoạt hóa Ras nhờ Ras-GEF $\to$ hoạt hoá MAP kinase
+RTK hoạt hóa Ras nhờ Ras-GEF → hoạt hoá MAP kinase
 
 con đường tín hiệu PI-3-kinase – Akt
 
-RTK hoạt hoá PI-3-kinase – Akt $\to$ hoạt hoá IP $\to$ hoạt hoá kinase 1 $\to$ hoạt hoá Akt
+RTK hoạt hoá PI-3-kinase – Akt → hoạt hoá IP → hoạt hoá kinase 1 → hoạt hoá Akt
 
 ## Truyền tín hiệu qua thụ thể nội bào
 
-* Thụ thể bào tương/nhân $\to$ hành vi tế bào/biểu hiện gen
+* Thụ thể bào tương/nhân → hành vi tế bào/biểu hiện gen
 
 * testostreron, estrogen

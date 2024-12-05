@@ -10,8 +10,8 @@ category: 'Y1'
 <!-- TODO: Fix the headings -->
 ## Giới thiệu
 
-Virus (siêu vi, siêu vi trùng, siêu vi khuẩn), cực nhỏ (2R $\approx$ 20 - 300 nm $\to$ *liên tưởng tới khẩu trang*)
-Kí sinh bắt buộc nội tế bào (TB) $\to$ *khó chữa, có thể tiêu diệt cả TB*
+Virus (siêu vi, siêu vi trùng, siêu vi khuẩn), cực nhỏ (2R $\approx$ 20 - 300 nm → *liên tưởng tới khẩu trang*)
+Kí sinh bắt buộc nội tế bào (TB) → *khó chữa, có thể tiêu diệt cả TB*
 Chỉ nhân lên (sao chép) bên trong TB kí chủ vì:
 
 * Không thể tự tạo nguyên liệu.
@@ -21,7 +21,7 @@ Chỉ nhân lên (sao chép) bên trong TB kí chủ vì:
 
 ### Thuật ngữ
 
-* Envelope: là màng bọc virus $\to$ *Virus có envelope dễ huỷ hơn, do thuốc làm phả huỷ envelope dễ hơn*
+* Envelope: là màng bọc virus → *Virus có envelope dễ huỷ hơn, do thuốc làm phả huỷ envelope dễ hơn*
 
 * Capsomere: là tiểu đơn vị protein (đơn vị hình thái học), cấu trúc hình khối / KHV e-.
 
