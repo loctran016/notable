@@ -1,7 +1,7 @@
 ---
 title: 'Bài 11. Thông tin tế bào'
 description: ''
-date: 2024-12-01
+date: 2024-12-05
 tags: ['Sinh Di Truyền']
 category: 'Y1'
 ---
@@ -99,7 +99,10 @@ Chức năng:
 
 ![Protein G điều hòa trực tiếp kênh ion](image-1.png)
 
-* Con đường cAMP (nguồn gốc từ ATP - thể hiện năng lượng của tb) - ptu truyền tin thứ 2 (thứ 1: andrenalin)
+* Con đường cAMP (nguồn gốc từ ATP - thể hiện năng lượng của tb)
+    * ptu truyền tin thứ 1: andrenalin
+    * ptu truyền tin thứ 2: cAMP
+    * Enzyme Adenylyl cyclase
 
 ![Protein G hoạt hóa enzyme màng - Con đường cAMP](image-2.png)
 

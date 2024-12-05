@@ -51,7 +51,6 @@ Chức năng
 * Hình thành thoi phân bào → phân ly NST
 * V/c nhanh ty thể, túi tiết sơ cấp,... của synap đến những tb thần kinh ở xa
 
-
 :::tip
 
 * Liên quan chủ yếu đến OVT
@@ -93,7 +92,6 @@ Vai trò:
 
 * **Sự trượt nhanh** và hiệu quả của các OVT → lông / roi chuyển động
 * Cơ chế vận động của lông và roi
-
 
 Chức năng
 
@@ -169,28 +167,15 @@ Trôpnin T lớn nhất; C: vừa vừa
 
 video troponin
 
-
-
-
-
-
-
 Myosin Light Chain (MLC) kinase: phosphoryl hoá ML → ái lực sợi myosin vs actin $\top$ → co cơ (Ca^2+^ hoạt MLC kinase)
 
 Giản cơ: MLC Phosphatase
 
-
-
 kênh Ca^2+^ điện thế, kích thích Ca2+ trong Lưới cơ tương (sarcoplasmic reticulum - SR) đi ra ngoài
-
-
 
 Agonist là chất đồng vận, hoạt hoá Gq, hoạt hoá IP~3~ kích thích giải phóng Ca2+ trong SR
 
-
-
 Ca^2+^ kết hợp với CAM (Calmodulin) thành Ca^2+^ CAM hoạt hoá MLCK hoạt hoá MLC
-
 
 <!-- :::tip
 

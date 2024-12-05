@@ -4,7 +4,19 @@ export const enNavbar = navbar([
     // "/",
 
     { text: 'Môn học', icon: 'tag', link: '/tag/' },
-    { text: 'Năm học', icon: 'calendar-week', link: '/category/' },
+    {
+        text: 'Năm học',
+        icon: 'calendar-week',
+        prefix: '/category/',
+        children: [
+            { text: 'Năm 1', link: 'y1/' },
+            // { text: 'Năm 2', link: 'y2/' },
+            // { text: 'Năm 3', link: 'y3/' },
+            // { text: 'Năm 4', link: 'y4/' },
+            // { text: 'Năm 5', link: 'y5/' },
+            // { text: 'Năm 6', link: 'y6/' },
+        ],
+    },
     //   "/demo/",
     //   {
     //     text: "Posts",
