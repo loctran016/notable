@@ -23,8 +23,8 @@ Dịch mã:
 
 Đột biến:
 
-* 5-BU: A.T $\Rightleftarrow$ G.C
-* 2-aminopurine: marker và bắt cặp với T/C nên A.T $\Rightleftarrow$ G.C
+* 5-BU: A.T $\Leftrightarrow$ G.C
+* 2-aminopurine: marker và bắt cặp với T/C nên A.T $\Leftrightarrow$ G.C
 
 
 ## Enzyme (+ Protein)
