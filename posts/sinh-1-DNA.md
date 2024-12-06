@@ -23,13 +23,16 @@ category: 'Y1'
 
 ## Cấu trúc DNA
 
-* Đường deoxyribosenucleotide bền hơn đường ribose do __cắt đứt gốc 2'OH__
+Cấu trúc xoắn phải (3,4nm)
 
-* dNTP tự do có triphosphate, gắn vào vị trí 3'OH bỏ 2 phosphate
+Đường deoxyribosenucleotide bền hơn đường ribose do __cắt đứt gốc 2'OH__
+
+dNTP tự do có triphosphate, gắn vào vị trí 3'OH bỏ 2 phosphate
 
 <!-- - Khung xườn mạch đơn: đường - các góc phosphate -->
-* T<sub>m</sub>: G-C
-* Khả năng hồi tính: đoạn lặp lại
+T<sub>m</sub>: tỉ lệ thuận với G-C và nồng độ ion
+
+Khả năng hồi tính: đoạn lặp lại
 
 ## DNA sinh vật
 
