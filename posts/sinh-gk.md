@@ -94,7 +94,7 @@ Các nhóm bơm (dùng ATP):
 * nhóm V: bơm proton H+
 * nhóm ABC: vận chuyển chất hữu cơ
 
-:::detail
+::: details ND phụ
 
 Nhân đôi:
 
@@ -141,7 +141,7 @@ SNP:
 * CFH: thái hoá điểm vàng
 * ADIPOQ: đái tháo đường type 2
 
-:::detail
+::: details ND phụ
 Ung thư võng mạc, hemophilia: chèn LINE
 
 Rối loạn dưỡng cơ Duchenne: gen Duchenne (X)
@@ -159,7 +159,7 @@ Protein:
 
 * Bệnh bò điên: PrP(PrP~c~) $\to$ PrP*(PrP~sc~)
 
-:::detail
+::: details ND phụ
 Ti thể:
 
 * Teo dây thần kinh thị gen trội: OPA1 hoặc MFN2
@@ -193,7 +193,7 @@ Dịch mã:
 * Shine - Dangarno (SD): 5'-GGAGGU-3'
 * Kozak: 5'-ACCAUG-3'
 
-:::detail
+::: details ND phụ
 
 :::
 
