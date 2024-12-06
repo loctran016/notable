@@ -26,7 +26,6 @@ Dịch mã:
 * 5-BU: A.T $\Leftrightarrow$ G.C
 * 2-aminopurine: marker và bắt cặp với T/C nên A.T $\Leftrightarrow$ G.C
 
-
 ## Enzyme (+ Protein)
 
 holoenzyme:
@@ -67,14 +66,13 @@ Sửa chữa đột biến:
 * DNA glycosylase: cắt base $\to$ điểm AP
 * endonuclease: cắt đường
 * NER của _E. coli_:
-    * Uvr2AB: tìm
-    * UvrBC: cắt với UvrB 4-5 nu ở 3'; UvrC 8 nu ở 5'
-    * UvrD: cắt bỏ đoạn đột biến ($\approx$ helicase)
+  * Uvr2AB: tìm
+  * UvrBC: cắt với UvrB 4-5 nu ở 3'; UvrC 8 nu ở 5'
+  * UvrD: cắt bỏ đoạn đột biến ($\approx$ helicase)
 * Sửa mismactch (MMR) - nhận biết đoạn mới nhờ sự methyl hoá:
-    * MutS nhận diện chỗ bắt cặp sai
-    * MutL và MutH đến vị trí GATC đóng vòng
-    * Exonuclease cắt bỏ đoạn DNA đột biến
-
+  * MutS nhận diện chỗ bắt cặp sai
+  * MutL và MutH đến vị trí GATC đóng vòng
+  * Exonuclease cắt bỏ đoạn DNA đột biến
 
 protein G hoạt hoá:
 
@@ -102,7 +100,6 @@ Nhân đôi:
 * DNA pol $\alpha và \beta$ ở nhân thực
 * DNA pol $\gamma$ ở ti thể
 
-
 Các loại RNA:
 
 * mRNA, tRNA, rRNA
@@ -111,7 +108,6 @@ Các loại RNA:
 * snRNA: cắt nối splicing pre-mRNA
 
 :::
-
 
 ## Bệnh liên quan đến gen
 
@@ -175,7 +171,6 @@ Ti thể:
 Telomere: 5'-TTAGGG-3'
 
 Phiên mã của Prokaryote
-
 
 * hộp TATA (Pribnow): 5'-TATAAAT-3' ở -10 ()
 * 5'-TTGACA-3' ở -35 (Prokaryote)

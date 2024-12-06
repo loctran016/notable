@@ -8,6 +8,7 @@ tags: ['Vi Sinh']
 category: 'Y1'
 ---
 <!-- TODO: Fix the headings -->
+<!-- markdownlint-disable MD029 -->
 ## Giới thiệu
 
 Virus (siêu vi, siêu vi trùng, siêu vi khuẩn), cực nhỏ (2R $\approx$ 20 - 300 nm → *liên tưởng tới khẩu trang*)
