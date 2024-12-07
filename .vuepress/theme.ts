@@ -13,9 +13,9 @@ export default hopeTheme(
 
         displayFooter: true,
 
-        blogLocales: {
-            tutorial: 'Tutorial',
-        },
+        // blogLocales: {
+        //     tutorial: 'Tutorial',
+        // },
 
         metaLocales: {
             editLink: 'Edit this page on GitHub',
@@ -77,7 +77,45 @@ export default hopeTheme(
         // enable it to preview all changes in time
         // hotReload: true,
 
+        markdown: {
+            math: {
+                type: 'mathjax', // or 'mathjax'
+            },
+
+            align: true,
+            attrs: true,
+            component: true,
+            mark: true,
+            spoiler: true,
+            markmap: true,
+            // stylize: [
+            //   {
+            //     matcher: "Recommended",
+            //     replacer: ({ tag }) => {
+            //       if (tag === "em")
+            //         return {
+            //           tag: "Badge",
+            //           attrs: { type: "tip" },
+            //           content: "Recommended",
+            //         };
+            //     },
+            //   },
+            // ],
+            // TODO: Check back on this later
+            sub: true,
+            sup: true,
+            tasklist: true,
+
+            imgLazyload: true,
+            // Enable image mark
+            imgMark: true,
+            // Enable image size
+            imgSize: true,
+            mermaid: true,
+        },
+
         plugins: {
+            slimsearch: true,
             blog: {
                 excerptLength: 0,
                 type: [
@@ -117,23 +155,8 @@ export default hopeTheme(
                 },
                 //   componentsOptions: {},
             },
-            searchPro: {
-                autoSuggestions: false,
-            },
 
-            markdownImage: {
-                figure: true,
-                lazyload: true,
-                size: true,
-            },
-
-            // install katex or before enabling it
-            markdownMath: {
-                type: 'mathjax', // or "mathjax"
-                output: 'chtml',
-            },
-
-            markdownTab: true,
+            // markdownTab: true,
 
             // markdownMath: true,
             comment: {
@@ -149,56 +172,24 @@ export default hopeTheme(
             },
 
             // All features are enabled for demo, only preserve features you need here
-            mdEnhance: {
-                align: true,
-                attrs: true,
-                component: true,
-                mark: true,
-                spoiler: true,
-                markmap: true,
-                // stylize: [
-                //   {
-                //     matcher: "Recommended",
-                //     replacer: ({ tag }) => {
-                //       if (tag === "em")
-                //         return {
-                //           tag: "Badge",
-                //           attrs: { type: "tip" },
-                //           content: "Recommended",
-                //         };
-                //     },
-                //   },
-                // ],
-                // TODO: Check back on this later
-                sub: true,
-                sup: true,
-                tasklist: true,
-                // vPre: true,
-
-                // install chart.js before enabling it
-                // chart: true,
-
-                // insert component easily
-
-                // install echarts before enabling it
-                // echarts: true,
-
-                // install flowchart.ts before enabling it
-                // flowchart: true,
-
-                // gfm requires mathjax-full to provide tex support
-                // gfm: true,
-
-                // install mermaid before enabling it
-                mermaid: true,
-
-                // playground: {
-                //   presets: ["ts", "vue"],
-                // },
-
-                // install @vue/repl before enabling it
-                // vuePlayground: true,
-            },
+            // mdEnhance: {
+            // vPre: true,
+            // install chart.js before enabling it
+            // chart: true,
+            // insert component easily
+            // install echarts before enabling it
+            // echarts: true,
+            // install flowchart.ts before enabling it
+            // flowchart: true,
+            // gfm requires mathjax-full to provide tex support
+            // gfm: true,
+            // install mermaid before enabling it
+            // playground: {
+            //   presets: ["ts", "vue"],
+            // },
+            // install @vue/repl before enabling it
+            // vuePlayground: true,
+            // },
 
             // uncomment these if you want a PWA
             pwa: {
