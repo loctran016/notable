@@ -5,7 +5,7 @@ date: 2024-12-23
 tags: ['Sinh Di Truyền']
 category: 'Y1'
 ---
-
+<!-- markdownlint-disable MD046 -->
 ## Di truyền đơn gen
 
 ```markmap
@@ -129,7 +129,7 @@ NST 19 (19q133)
 
 Kiểu hình O Bombay: hh I<sup>\_</sup>I~_~
 
-![Hh](sinh-14-hh.png)
+![Hh](/sinh-14-hh.png)
 
 ## Di truyền nhóm máu Rh
 
@@ -164,7 +164,7 @@ Con nhận được mtDNA từ mẹ ngẫu nhiên theo sự phân chia bào tư�
 
 Heteroplasmy và homoplasmy:
 
-![alt text](sinh-14-homoplasmy.png)
+![alt text](/sinh-14-homoplasmy.png)
 
 ## Độ thấm & Độ biểu hiện
 
@@ -225,25 +225,26 @@ Di truyền lặn trên nhiễm sắc thể thường.
 Gây thiểu năng trí tuệ.
 
 Nguyên nhân:
-- Rối loạn trong việc tạo enzyme phenylalanine hydroxylase → tích tụ phenylalanine và gây hại tế bào não ở trẻ.
+
+* Rối loạn trong việc tạo enzyme phenylalanine hydroxylase → tích tụ phenylalanine và gây hại tế bào não ở trẻ.
 
 ### Giới tính
 
 Tính trạng bị ảnh hưởng bởi giới tính:
 
-- Độ thấm ở một giới cao hơn giới còn lại
-- Tính trạng hói đầu (NST thường quy định A_ ở nam, AA ở nữ)
+* Độ thấm ở một giới cao hơn giới còn lại
+* Tính trạng hói đầu (NST thường quy định A_ ở nam, AA ở nữ)
 
 Tính trạng bị giới hạn bởi giới tính
 
-- Tính trạng tiết sữa chỉ thấy ở nữ giới
+* Tính trạng tiết sữa chỉ thấy ở nữ giới
 
 ### Không đồng nhất allele, locus, kiểu hình
 
 Nhiều đột biến khác nhau (allele khác nhau) ở một locus gây cùng kiểu hình bệnh → mức độ biểu hiện khác nhau.
 
-- Không đồng nhất locus: đột biến ở khác locus $\to$ bệnh tương tự nhau.
-- Không đồng nhất kiểu hình: đột biến khác nhau ở 1 gen $\to$ kiểu hình khác nhau.
+* Không đồng nhất locus: đột biến ở khác locus $\to$ bệnh tương tự nhau.
+* Không đồng nhất kiểu hình: đột biến khác nhau ở 1 gen $\to$ kiểu hình khác nhau.
 
 ## Khả năng biểu hiện tính trạng của gen
 
@@ -257,11 +258,10 @@ Gen hoạt động sớm trong quá trình phát triển sẽ có tác động n
 
 HỘI CHỨNG MARFAN
 
-- Do đột biến gen FBN1 (15q21.1), di truyền trội.
-- Thiếu fibrillin trong cấu trúc mô liên kết, thừa trong thủy tinh thể, động
+* Do đột biến gen FBN1 (15q21.1), di truyền trội.
+* Thiếu fibrillin trong cấu trúc mô liên kết, thừa trong thủy tinh thể, động
 mạch chủ ….
-- Triệu chứng: bất thường ở van tim, động mạch, mắt, xương, ….
-
+* Triệu chứng: bất thường ở van tim, động mạch, mắt, xương, ….
 
 ### Sao chép kiểu hình - BỆNH BƯỚU CỔ
 
@@ -269,13 +269,13 @@ Kiểu hình $\approx$ gen đột biến nhưng do tương tác giữa kiểu ge
 
 Tính chất:
 
-- Yếu tố môi trường tác động lên chức năng sinh lý của cơ quan và cơ thể.
-- Không di truyền cho thế hệ sau.
+* Yếu tố môi trường tác động lên chức năng sinh lý của cơ quan và cơ thể.
+* Không di truyền cho thế hệ sau.
 
 BỆNH BƯỚU CỔ
 
-- Do di truyền: đột biến gen xúc tác tổng hợp hormone tuyến giáp (locus 8q24.22)
-- Do ngoại cảnh: thiếu iod dẫn đến thiếu T3, T4
+* Do di truyền: đột biến gen xúc tác tổng hợp hormone tuyến giáp (locus 8q24.22)
+* Do ngoại cảnh: thiếu iod dẫn đến thiếu T3, T4
 
 ### Allele gây chết
 
@@ -332,33 +332,34 @@ Tính trạng chất lượng, tính trạng số lượng
 
 Nghiên cứu đánh giá ảnh hưởng của yếu tố di truyền và môi trường đối với bệnh di truyền đa nhân tố
 
-- Nghiên cứu trong gia đình
-- Cơ sở: giống nhau về gen và các yếu tố không di truyền.
-- VD: dựa vào tỷ lệ rủi ro
+* Nghiên cứu trong gia đình
+* Cơ sở: giống nhau về gen và các yếu tố không di truyền.
+* VD: dựa vào tỷ lệ rủi ro
 $\lamda_r = \frac{Tần \ suất \ mắc \ bệnh \ ở \ người \ thân \ bệnh \ nhân}{Tần \ suất \ mắc \ bệnh \ trong \ quần \ thể}$
-- Đánh giá đóng góp tương đối của kiểu gen và môi trường đối với kiểu hình.
+* Đánh giá đóng góp tương đối của kiểu gen và môi trường đối với kiểu hình.
 
 Nghiên cứu con sinh đôi
-- Đánh giá mức độ tác động của yếu tố di truyền và môi trường đối với bệnh/tính trạng.
-- Tương hợp: bệnh/tính trạng cùng xuất hiện ở hai cá thể của cặp sinh đôi.
-- Độ tương hợp: tỉ lệ phần trăm cặp sinh đôi “tương hợp” về bệnh/tính trạng.
 
-- CÔNG THỨC TÍNH HỆ SỐ DI TRUYỀN
+* Đánh giá mức độ tác động của yếu tố di truyền và môi trường đối với bệnh/tính trạng.
+* Tương hợp: bệnh/tính trạng cùng xuất hiện ở hai cá thể của cặp sinh đôi.
+* Độ tương hợp: tỉ lệ phần trăm cặp sinh đôi “tương hợp” về bệnh/tính trạng.
+
+* CÔNG THỨC TÍNH HỆ SỐ DI TRUYỀN
 
 $$
 H = \frac{\% \text{số cặp MZ tương hợp} - \% \text{số cặp DZ tương hợp}}{100 - \% \text{số cặp DZ tương hợp}}
 $$
-
-    - H: hệ số di truyền
-    - MZ: sinh đôi một hợp tử
-    - DZ: sinh đôi hai hợp tử
-    - H = 1 → bệnh do yếu tố di truyền quyết định
-    - H = 0 → bệnh do yếu tố môi trường quyết định
-    - Mức độ tác động của môi trường: C = 100% - H
+    * H: hệ số di truyền
+    * MZ: sinh đôi một hợp tử
+    * DZ: sinh đôi hai hợp tử
+    * H = 1 → bệnh do yếu tố di truyền quyết định
+    * H = 0 → bệnh do yếu tố môi trường quyết định
+    * Mức độ tác động của môi trường: C = 100% - H
 
 ## Đánh giá rủi ro và tư vấn di truyền
 
 ### GIA SỬ SỨC KHỎE
+
 Di truyền theo Mendel: xác định kiểu gen.
 
 Di truyền đa nhân tố: chỉ báo tính nhạy cảm di truyền,
@@ -368,6 +369,7 @@ chung có thể tương tác để gây ra bệnh.
 → Dự đoán nguy cơ mắc bệnh.
 
 ### TƯ VẤN DI TRUYỀN
+
 Hỗ trợ gia đình và cá nhân:
 •Hiểu biết các vấn đề y tế.
 •Hiểu nguy cơ tái mắc và phương án xử lý nguy cơ tái
@@ -376,17 +378,20 @@ mắc.
 nhân hỗ trợ khác.
 
 ### NGUY CƠ TÁI MẮC Ở THẾ HỆ SAU
+
 • Di truyền Mendel: xác suất di truyền.
 • Di truyền đa nhân tố: nguy cơ kinh nghiệm.
-- Tần suất tái mắc trong gia đình có người bệnh.
-- Nguy cơ tái mắc phụ thuộc: quan hệ họ hàng với người
+
+* Tần suất tái mắc trong gia đình có người bệnh.
+* Nguy cơ tái mắc phụ thuộc: quan hệ họ hàng với người
 bệnh, số lượng người mắc bệnh, độ trầm trọng của bệnh.
-- Vấn đề khác: số liệu thống kê lúc nào; nơi, đặc điểm của
+* Vấn đề khác: số liệu thống kê lúc nào; nơi, đặc điểm của
 mẫu thu thập số liệu, ….
 
 ## Tổng hợp
 
 :::important VẤN ĐỀ THEN CHỐT
+
 1. Di truyền đơn gen là di truyền do allele của một gen chi phối, gồm di truyền hai allele và di truyền đa allele. Di truyền hai allele gồm có: (1) Di truyền trội và lặn trên NST thường hoặc NST giới tính X. (2) Di truyền gen trên NST Y.
 2. “Độ thấm” là xác suất một cá thể mang một kiểu gen biểu hiện thànhtính trạng. “Độ biểu hiện” phản ánh mức độ nghiêm trọng của bệnhtrong cùng một kiểu gen. Độ thấm và độ biểu hiện được chi phối bởi:tuổi, giới, môi trường, không đồng nhất allele, locus, kiểu hình
 3. “Tính đa hiệu của gen” là: một kiểu gen có thể có nhiều kiểu hình, nhiều kiểu gen không allele có thể cùng quy định một kiểu hình. “Sao chép kiểu hình” là: bệnh do yếu tố môi trường gây ra nhưng có biểu hiện kiểu hình tương tự với do đột biến gen
