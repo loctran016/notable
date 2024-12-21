@@ -3,7 +3,7 @@ import { navbar } from 'vuepress-theme-hope';
 export const enNavbar = navbar([
     // "/",
 
-    { text: 'Môn học', icon: 'tag', link: '/tag/' },
+    { text: 'Môn học', icon: 'tag', link: '/tag/sinh-di-truyền/' },
     {
         text: 'Năm học',
         icon: 'calendar-week',

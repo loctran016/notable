@@ -7,7 +7,7 @@ date: 2024-11-22
 tags: ['Sinh Di Truyền']
 category: 'Y1'
 ---
-
+<!-- markdownlint-disable MD024 -->
 <!-- ## Mục tiêu
 
 1. Phân biệt cấu trúc, chức năng myosin, kinesin, dynein trong các hình thức
@@ -162,7 +162,7 @@ Cơ chế chuyển động: xoay vòng ở vùng gốc roi.
 
 ## Sự di động của tế bào Eukaryote
 
-### Di động kiểu amip:
+### Di động kiểu amip
 
 * TB sống tự do, không màng cứng
 
@@ -183,6 +183,7 @@ Tinh trùng: Roi đập kiểu lượn sóng hình sin → đi ngược dòng �
 ### Cấu trúc lông roi
 
 Thân roi (9+2):
+
 * 9 đôi OVT ngoại vi
 * 2 OVT trung tâm
 
@@ -214,7 +215,6 @@ Sự trượt theo những hướng đối nghịch nhau sẽ làm lông hay roi
 
 ## Sự co cơ của tế bào cơ xương (vân)
 
-
 Tế bào cơ xương dài, mỏng, lớn chứa nhiều nhân
 
 Nhân nằm phía dưới màng sinh chất
@@ -224,52 +224,55 @@ Phần lớn bào tương bên trong được làm bằng các sợi cơ
 Đốt cơ gồm một chuỗi dài lặp lại các đơn vị co cơ nhỏ
 
 Gồm sợi mỏng actin và sợi dày myosin xếp song song, chính xác và cài vào nhau một phần tạo dải tối và sáng xen kẽ:
+
 * Dải A: dải tối, vị trí sợi dày myosim
 * Dải I: dải sáng, chỉ chứa sợi mỏng actin
 
 ### Sợi dày myosin
 
 Gồm nhiều phân tử myosin II hợp lại với đuôi bó sát và đầu đưa ra ngoài
-*   Tương tác đuôi – đuôi → tạo cấu trúc lưỡng cực với hàng trăm đầu myosin
-*   Đầu myosin gắn kết và thủy phân ATP → di chuyển về đầu (+) sợi actin
+
+* Tương tác đuôi – đuôi → tạo cấu trúc lưỡng cực với hàng trăm đầu myosin
+* Đầu myosin gắn kết và thủy phân ATP → di chuyển về đầu (+) sợi actin
 ▪ Đầu myosin: gắn với actin, ATPase
-*   Mỗi phân tử myosin gồm có:
-*  2 đầu là 2 chuỗi nhẹ hình cầu
-*  đuôi là 2 chuỗi nặng xoắn thành sợi
+* Mỗi phân tử myosin gồm có:
+* 2 đầu là 2 chuỗi nhẹ hình cầu
+* đuôi là 2 chuỗi nặng xoắn thành sợi
 
 ### Protein phụ trợ
 
-*  Đầu (+) sợi actin gắn vào đĩa Z (Cap Z + α-actinin)
-*  Nebulin
-*   Là protein khuôn kéo dài từ đĩa Z đến đầu (-) sợi actin
-*   Vai trò “Phân tử thước đo” xác định chiều dài sợi mỏng actin
-*  Tropomodulin
-*   Là protein như mũ chụp, gắn vào đầu (-) sợi actin
-*   Vai trò ổn định đầu (-) sợi actin
-*  Tinin
-*   Protein khuôn đối diện, liên kết chặt myosin, đàn hồi như lò xo
-*   Vai trò định vị sợi dày ở giữa các đĩa Z
-*  Tropomyosin, troponin
-*   Bao bọc sợi actin
-
+* Đầu (+) sợi actin gắn vào đĩa Z (Cap Z + α-actinin)
+* Nebulin
+* Là protein khuôn kéo dài từ đĩa Z đến đầu (-) sợi actin
+* Vai trò “Phân tử thước đo” xác định chiều dài sợi mỏng actin
+* Tropomodulin
+* Là protein như mũ chụp, gắn vào đầu (-) sợi actin
+* Vai trò ổn định đầu (-) sợi actin
+* Tinin
+* Protein khuôn đối diện, liên kết chặt myosin, đàn hồi như lò xo
+* Vai trò định vị sợi dày ở giữa các đĩa Z
+* Tropomyosin, troponin
+* Bao bọc sợi actin
 
 ### Sợi mỏng actin
+
 * Actin: protein hình cầu, hai chuỗi xoắn
 ▪ Tropomyosin: gắn dọc rãnh chuỗi xoắn actin
 * Troponin:
-*  Troponin T: gắn với tropomyosin
-*  Troponin I: ngăn cản mối liên kết actin-myosin
-*  Troponin C: gắn kết với Ca2+
-*   Là một dạng đặc biệt của protein calmodulin
-*   Đáp ứng cực nhanh với sự gia tăng nồng độ Ca2+
+* Troponin T: gắn với tropomyosin
+* Troponin I: ngăn cản mối liên kết actin-myosin
+* Troponin C: gắn kết với Ca2+
+* Là một dạng đặc biệt của protein calmodulin
+* Đáp ứng cực nhanh với sự gia tăng nồng độ Ca2+
 
 ### Cơ chế co cơ
 
--  Khi cơ co, đốt cơ ngắn lại do sợi myosin trượt qua sợi actin về hướng đầu cộng (vạch Z)
+* Khi cơ co, đốt cơ ngắn lại do sợi myosin trượt qua sợi actin về hướng đầu cộng (vạch Z)
 
 ::: detail Cơ chế đầy đủ
 
 Chu kỳ cầu nối chéo
+
 * Là quá trình co cơ xảy ra khi có sự tương tác phụ thuộc Ca2+ của actin và myosin mang tính chu kỳ.
 * Khi có ion Ca2+
 → Ca2+ bám vào troponin C → dịch chuyển tropomyosin → để lộ vị trí liên kết giữa myosin và actin → với hoạt tính ATPase, đầu myosin phân giải ATP → biến đổi hình thái → liên kết với trung tâm actin → làm cơ co
@@ -278,14 +281,13 @@ Chu kỳ cầu nối chéo
 
 :::
 
-
 Các bước tóm lược của chu kỳ cầu nối chéo:
 
-1.  Bước 1: Gắn ATP
-2.  Bước 2:  Thủy phân ATP
+1. Bước 1: Gắn ATP
+2. Bước 2:  Thủy phân ATP
 3. Bước 3: Hình thành cầu nối
-4.  Bước 4: Giải phóng Pi
-5.  Bước 5: Giải phóng ADP
+4. Bước 4: Giải phóng Pi
+5. Bước 5: Giải phóng ADP
 
 Khi nồng độ Ca2+ tăng
 → Troponin C gắn với Ca2+
@@ -294,7 +296,6 @@ P
 → Tropomyosin trượt trở lại vị trí bình thường
 → Đầu myosin gắn vào được sợi actin
 → Di chuyển dọc theo sợi actin (ATPase)
-
 
 ## Sự co cơ của tế bào cơ trơn
 
@@ -311,12 +312,13 @@ Tế bào cơ trơn không có troponin
 ### Cơ chế
 
 Cơ chế co cơ được kích hoạt bởi Ca2+  ở cơ trơn khác cơ xương
-*  Ca2+ kích hoạt calmodulin - CaM
+
+* Ca2+ kích hoạt calmodulin - CaM
 → CaM kéo caldesmon ra khỏi sợi actin
 → Vị trí liên kết với actin được bộc lộ
-*  MLCK phosphoryl hóa chuỗi nhẹ myosin
+* MLCK phosphoryl hóa chuỗi nhẹ myosin
 → Đầu myosin có thể tiếp xúc với sợi actin và gây co cơ
-*  Khi đầu myosin được khử phosphoryl hóa
+* Khi đầu myosin được khử phosphoryl hóa
 → Đầu myosin tách khỏi sợi actin và trở nên bất hoạt
 
 ### Điều hoà
