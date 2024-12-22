@@ -13,13 +13,13 @@
 //     font-display: swap;
 // }
 
-@font-face {
-    font-family: 'Chicken';
-    src: url('/fonts/SVN-Chicken Noodle Soup.otf') format('opentype');
-    /* font-weight: 400; */
-    font-weight: 300;
-    font-display: swap;
-}
+// @font-face {
+//     font-family: 'Chicken';
+//     src: url('/fonts/SVN-Chicken Noodle Soup.otf') format('opentype');
+//     /* font-weight: 400; */
+//     font-weight: 300;
+//     font-display: swap;
+// }
 
 @font-face {
     font-family: 'Oscine';
@@ -47,28 +47,24 @@
 
 body {
     h1 {
-        font-size: 2.7em;
-    }
-
-    h2 {
         font-size: 2.3em;
     }
 
-    h3 {
+    h2 {
         font-size: 2em;
+    }
+
+    h3 {
+        font-size: 1.5em;
     }
 
     thead,
     h4 {
-        font-size: 1.5em;
+        font-size: 1.17em;
         padding: 0.6rem 1rem;
     }
 
     h5 {
-        font-size: 1.17em;
-    }
-
-    h6 {
         font-size: 1em;
     }
 
@@ -90,7 +86,18 @@ body {
 
     @media screen and (min-width: 768px) {
         font-size: 1.2rem;
-        letter-spacing: 1.2px;
+        --hint-font-size: 1.2rem;
+        p,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        span,
+        li {
+            letter-spacing: 1.3px;
+        }
+        // letter-spacing: 1.2px;
 
         .vp-back-to-top-button {
             bottom: 1.6rem;
@@ -98,14 +105,29 @@ body {
         }
 
         .hint-container p {
-            font-size: 1.1rem;
+            font-size: 1.3rem;
             letter-spacing: 1.2px;
+        }
+        .hint-container {
+            ul > * + *,
+            ol > * + * {
+                margin-top: 0.5rem;
+            }
         }
     }
 }
 
 .vp-article-title > span {
     letter-spacing: 1.4px;
+}
+
+#main-content {
+    p:has(> img) {
+        text-align: center;
+    }
+    img {
+        border-radius: 0.5rem;
+    }
 }
 
 html[data-theme='dark'] .theme-hope-content {
@@ -120,80 +142,6 @@ html[data-theme='dark'] .theme-hope-content {
         letter-spacing: 1px;
     }
 }
-
-// html[data-theme='dark'][notebook='true'] .theme-hope-content {
-//     @media screen and (min-width: 768px) {
-//         // *:not([class="markmap-wrapper"]) * {
-//         //   background: magenta;
-//         font-size: 1.5rem;
-//         letter-spacing: 1px;
-//         // }
-//     }
-
-//     font-family:
-//         Be Cool,
-//         'Segoe UI',
-//         Tahoma,
-//         Geneva,
-//         Verdana,
-//         sans-serif;
-
-//     h1 {
-//         font-size: 2.7em;
-//     }
-
-//     h2 {
-//         font-size: 2.3em;
-//     }
-
-//     h3 {
-//         font-size: 2em;
-//     }
-
-//     thead {
-//         font-size: 1.5em;
-//         padding: 0.6rem 1rem;
-//     }
-
-//     h5 {
-//         font-size: 1.17em;
-//     }
-
-//     h6 {
-//         font-size: 1em;
-//     }
-
-//     h1,
-//     h2,
-//     h3,
-//     h4,
-//     h5,
-//     h6,
-//     thead {
-//         font-weight: bolder;
-//         color: #efbf04;
-//         // font-family: GrowingGarden;
-//         font-family: Chicken, Cambria, Cochin, Georgia, Times,
-//             'Times New Roman', serif;
-//         letter-spacing: 1px;
-//     }
-
-//     table {
-//         margin-left: auto;
-//         margin-right: auto;
-//     }
-
-//     td {
-//         font-size: 1.4rem;
-//     }
-
-//     p {
-//         // color: hsl(	0.60,	1.00,	0.83);
-//         color: #d4e5ff;
-//         line-height: 3rem;
-//         font-size: 1.6rem;
-//     }
-// }
 
 #main-content .markmap-wrapper p {
     font-size: 1rem;
@@ -242,4 +190,10 @@ html[data-theme='dark'] .theme-hope-content {
 
 .vp-page .vp-blog-info-wrapper {
     margin-top: 0;
+}
+
+div.markmap-wrapper {
+    // font-size: 1.2rem;
+    // line-height: 1.6;
+    letter-spacing: 1;
 }

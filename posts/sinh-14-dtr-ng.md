@@ -1,5 +1,5 @@
 ---
-title: 'Bài 14 DI TRUYỀN ĐƠN GEN, ĐA GEN, ĐA NHÂN TỐ Ở NGƯỜI'
+title: 'Bài 14. DI TRUYỀN ĐƠN GEN, ĐA GEN, ĐA NHÂN TỐ Ở NGƯỜI'
 description: ''
 date: 2024-12-23
 tags: ['Sinh Di Truyền']
@@ -8,19 +8,17 @@ category: 'Y1'
 <!-- markdownlint-disable MD046 -->
 ## Di truyền đơn gen
 
-```markmap
-### Di truyền hai allele
-- 2 allele khác nhau
-### Di truyền đa allele
-- > 2 allele khác nhau
-```
+
+Di truyền hai allele: 2 allele khác nhau
+
+Di truyền đa allele: > 2 allele khác nhau
 
 ### Di truyền trên NST thường
 
-```markmap
-- Khả năng mắc bệnh nam = nữ
-- Khả năng truyền bệnh bố, mẹ $\to$ con trai = gái
-```
+Khả năng mắc bệnh nam = nữ
+
+Khả năng truyền bệnh bố, mẹ $\to$ con trai = gái
+
 
 ```markmap
 #### Lặn
@@ -30,9 +28,7 @@ category: 'Y1'
 
 - Quần thể:
     - Người mang gen lặn > rất nhiều số người bệnh
-```
 
-```markmap
 #### Trội
 - Phả hệ:
     - Bệnh >= 50%
@@ -58,9 +54,7 @@ Khả năng truyền gen bệnh của bố mẹ cho con:
 - Di truyền theo dòng họ ngoại (di truyền chéo)
 - Thường gặp ở nam, nữ thường hiếm gặp
 - Nữ dị hợp tử thường không bệnh
-```
 
-```markmap
 #### Trội
 - Nữ bệnh: A_
 - Nữ Aa bệnh: phụ thuộc NST X hoạt động
@@ -108,9 +102,11 @@ Kháng thể kháng hồng cầu
 
 Mã hóa **glycosyltransferase** tổng hợp kháng nguyên A/B trên bề mặt màng tế bào hồng cầu
 
-```
-- Tính đặc hiệu: carbohydrate
-- Phân tử mang kháng nguyên: glycoprotein & glycolipid
+```markmap
+- Tính đặc hiệu
+    - carbohydrate
+- Phân tử mang kháng nguyên
+    - glycoprotein & glycolipid
 - Cấu trúc
     - O: Glc - Gal - Glc - NAc - Gal(Fuc)
     - A: GalNAc transferase
@@ -121,13 +117,15 @@ Mã hóa **glycosyltransferase** tổng hợp kháng nguyên A/B trên bề mặ
 
 Dưới nhóm:
 
-* I~A1~ > I~A1~ và cả hai đồng trội với B
+* I~A1~ > I~A2~ và cả hai đồng trội với B
+* Nhóm máu A1:
+* Nhóm máu A2:
 
 ### Locus Hh
 
 NST 19 (19q133)
 
-Kiểu hình O Bombay: hh I<sup>\_</sup>I~_~
+Kiểu hình O Bombay: hh I<sup>-</sup>I<sup>-</sup> hay hh ii
 
 ![Hh](/sinh-14-hh.png)
 
@@ -194,7 +192,7 @@ Tần số xuất hiện bệnh < tỷ lệ Mendel
 
 ### Tuổi - BỆNH HUNTINGTON (HD)
 
-```markma
+```markmap
 - Nguyên nhân chung
     - Tích lũy chậm chất độc
     - Tăng dần mô chết
@@ -335,7 +333,7 @@ Nghiên cứu đánh giá ảnh hưởng của yếu tố di truyền và môi t
 * Nghiên cứu trong gia đình
 * Cơ sở: giống nhau về gen và các yếu tố không di truyền.
 * VD: dựa vào tỷ lệ rủi ro
-$\lamda_r = \frac{Tần \ suất \ mắc \ bệnh \ ở \ người \ thân \ bệnh \ nhân}{Tần \ suất \ mắc \ bệnh \ trong \ quần \ thể}$
+$$\lambda_r = \frac{Tần \ suất \ mắc \ bệnh \ ở \ người \ thân \ bệnh \ nhân}{Tần \ suất \ mắc \ bệnh \ trong \ quần \ thể}$$
 * Đánh giá đóng góp tương đối của kiểu gen và môi trường đối với kiểu hình.
 
 Nghiên cứu con sinh đôi
@@ -345,16 +343,18 @@ Nghiên cứu con sinh đôi
 * Độ tương hợp: tỉ lệ phần trăm cặp sinh đôi “tương hợp” về bệnh/tính trạng.
 
 * CÔNG THỨC TÍNH HỆ SỐ DI TRUYỀN
-
-$$
-H = \frac{\% \text{số cặp MZ tương hợp} - \% \text{số cặp DZ tương hợp}}{100 - \% \text{số cặp DZ tương hợp}}
-$$
     * H: hệ số di truyền
     * MZ: sinh đôi một hợp tử
     * DZ: sinh đôi hai hợp tử
     * H = 1 → bệnh do yếu tố di truyền quyết định
     * H = 0 → bệnh do yếu tố môi trường quyết định
     * Mức độ tác động của môi trường: C = 100% - H
+$$
+H = \frac{\% \text{số cặp MZ tương hợp} - \% \text{số cặp DZ tương hợp}}{100 - \% \text{số cặp DZ tương hợp}}
+$$
+<br>
+
+
 
 ## Đánh giá rủi ro và tư vấn di truyền
 
@@ -366,27 +366,28 @@ Di truyền đa nhân tố: chỉ báo tính nhạy cảm di truyền,
 thông tin về gen chung và các yếu tố môi trường
 chung có thể tương tác để gây ra bệnh.
 
-→ Dự đoán nguy cơ mắc bệnh.
+$\Rightarrow$ Dự đoán nguy cơ mắc bệnh.
 
 ### TƯ VẤN DI TRUYỀN
 
 Hỗ trợ gia đình và cá nhân:
-•Hiểu biết các vấn đề y tế.
-•Hiểu nguy cơ tái mắc và phương án xử lý nguy cơ tái
+* Hiểu biết các vấn đề y tế.
+* Hiểu nguy cơ tái mắc và phương án xử lý nguy cơ tái
 mắc.
-• Các vấn đề về xã hội và giới thiệu đến các tổ chức, cá
+*  Các vấn đề về xã hội và giới thiệu đến các tổ chức, cá
 nhân hỗ trợ khác.
 
 ### NGUY CƠ TÁI MẮC Ở THẾ HỆ SAU
 
-• Di truyền Mendel: xác suất di truyền.
-• Di truyền đa nhân tố: nguy cơ kinh nghiệm.
+Di truyền Mendel: xác suất di truyền
 
-* Tần suất tái mắc trong gia đình có người bệnh.
-* Nguy cơ tái mắc phụ thuộc: quan hệ họ hàng với người
-bệnh, số lượng người mắc bệnh, độ trầm trọng của bệnh.
-* Vấn đề khác: số liệu thống kê lúc nào; nơi, đặc điểm của
-mẫu thu thập số liệu, ….
+Di truyền đa nhân tố: nguy cơ kinh nghiệm
+
+Nguy cơ tái mắc phụ thuộc: quan hệ họ hàng với người
+bệnh, số lượng người mắc bệnh, độ trầm trọng của bệnh
+
+Vấn đề khác: số liệu thống kê lúc nào; nơi, đặc điểm của
+mẫu thu thập số liệu, …
 
 ## Tổng hợp
 
