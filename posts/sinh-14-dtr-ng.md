@@ -8,7 +8,6 @@ category: 'Y1'
 <!-- markdownlint-disable MD046 -->
 ## Di truyền đơn gen
 
-
 Di truyền hai allele: 2 allele khác nhau
 
 Di truyền đa allele: > 2 allele khác nhau
@@ -18,7 +17,6 @@ Di truyền đa allele: > 2 allele khác nhau
 Khả năng mắc bệnh nam = nữ
 
 Khả năng truyền bệnh bố, mẹ $\to$ con trai = gái
-
 
 ```markmap
 #### Lặn
@@ -343,12 +341,13 @@ Nghiên cứu con sinh đôi
 * Độ tương hợp: tỉ lệ phần trăm cặp sinh đôi “tương hợp” về bệnh/tính trạng.
 
 * CÔNG THỨC TÍNH HỆ SỐ DI TRUYỀN
-    * H: hệ số di truyền
-    * MZ: sinh đôi một hợp tử
-    * DZ: sinh đôi hai hợp tử
-    * H = 1 → bệnh do yếu tố di truyền quyết định
-    * H = 0 → bệnh do yếu tố môi trường quyết định
-    * Mức độ tác động của môi trường: C = 100% - H
+  * H: hệ số di truyền
+  * MZ: sinh đôi một hợp tử
+  * DZ: sinh đôi hai hợp tử
+  * H = 1 → bệnh do yếu tố di truyền quyết định
+  * H = 0 → bệnh do yếu tố môi trường quyết định
+  * Mức độ tác động của môi trường: C = 100% - H
+
 $$
 H = \frac{\% \text{số cặp MZ tương hợp} - \% \text{số cặp DZ tương hợp}}{100 - \% \text{số cặp DZ tương hợp}}
 $$
@@ -368,10 +367,11 @@ $\Rightarrow$ Dự đoán nguy cơ mắc bệnh.
 ### TƯ VẤN DI TRUYỀN
 
 Hỗ trợ gia đình và cá nhân:
+
 * Hiểu biết các vấn đề y tế.
 * Hiểu nguy cơ tái mắc và phương án xử lý nguy cơ tái
 mắc.
-*  Các vấn đề về xã hội và giới thiệu đến các tổ chức, cá
+* Các vấn đề về xã hội và giới thiệu đến các tổ chức, cá
 nhân hỗ trợ khác.
 
 ### NGUY CƠ TÁI MẮC Ở THẾ HỆ SAU
@@ -397,6 +397,7 @@ Bệnh Phenylketonuria (PKA): Lặn (NST số) - Thiếu enzyme phenylalanine hy
 :::
 
 :::important VẤN ĐỀ THEN CHỐT
+
 1. Di truyền đơn gen là di truyền do allele của một gen chi phối, gồm di truyền hai allele và di truyền đa allele. Di truyền hai allele gồm có: (1) Di truyền trội và lặn trên NST thường hoặc NST giới tính X. (2) Di truyền gen trên NST Y.
 2. “Độ thấm” là xác suất: kiểu gen biểu hiện tính trạng. “Độ biểu hiện”: độ nghiêm trọng của bệnh (cùng một kiểu gen) Độ thấm và độ biểu hiện được chi phối bởi: tuổi, giới, môi trường, không đồng nhất allele, locus, kiểu hình
 3. “Tính đa hiệu của gen” là: một kiểu gen có thể có nhiều kiểu hình, nhiều kiểu gen không allele có thể cùng quy định một kiểu hình. “Sao chép kiểu hình” là: bệnh do yếu tố môi trường gây ra nhưng có biểu hiện kiểu hình tương tự với do đột biến gen
