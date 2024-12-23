@@ -352,9 +352,6 @@ Nghiên cứu con sinh đôi
 $$
 H = \frac{\% \text{số cặp MZ tương hợp} - \% \text{số cặp DZ tương hợp}}{100 - \% \text{số cặp DZ tương hợp}}
 $$
-<br>
-
-
 
 ## Đánh giá rủi ro và tư vấn di truyền
 
@@ -391,16 +388,22 @@ mẫu thu thập số liệu, …
 
 ## Tổng hợp
 
-:::important VẤN ĐỀ THEN CHỐT
+:::tip Các bệnh được nhắc đến trong bài
 
+Bệnh Hungtington (HD): số lần lặp CAG - Tuổi - Trội (NST số)
+
+Bệnh Phenylketonuria (PKA): Lặn (NST số) - Thiếu enzyme phenylalanine hydroxylase
+
+:::
+
+:::important VẤN ĐỀ THEN CHỐT
 1. Di truyền đơn gen là di truyền do allele của một gen chi phối, gồm di truyền hai allele và di truyền đa allele. Di truyền hai allele gồm có: (1) Di truyền trội và lặn trên NST thường hoặc NST giới tính X. (2) Di truyền gen trên NST Y.
-2. “Độ thấm” là xác suất một cá thể mang một kiểu gen biểu hiện thànhtính trạng. “Độ biểu hiện” phản ánh mức độ nghiêm trọng của bệnhtrong cùng một kiểu gen. Độ thấm và độ biểu hiện được chi phối bởi:tuổi, giới, môi trường, không đồng nhất allele, locus, kiểu hình
+2. “Độ thấm” là xác suất: kiểu gen biểu hiện tính trạng. “Độ biểu hiện”: độ nghiêm trọng của bệnh (cùng một kiểu gen) Độ thấm và độ biểu hiện được chi phối bởi: tuổi, giới, môi trường, không đồng nhất allele, locus, kiểu hình
 3. “Tính đa hiệu của gen” là: một kiểu gen có thể có nhiều kiểu hình, nhiều kiểu gen không allele có thể cùng quy định một kiểu hình. “Sao chép kiểu hình” là: bệnh do yếu tố môi trường gây ra nhưng có biểu hiện kiểu hình tương tự với do đột biến gen
-4. Ở người có hai hệ nhóm máu quan trọng là ABO và Rh. Hai kháng nguyên của nhóm máu hệ ABO là A và B, do 3 gen khác locus gồm locus ABO, locus Hh và locus Sese. Kháng nguyên hồng cầu là do gen ở locus ABO và Hh quyết định. Nhóm máu Rh có năm kháng nguyên chính là D, C, E, c, e trong đó D có tính kháng nguyên mạnh nhất. Mất gen RHD, tạo gen RHD giả hay RHD lai sẽ gây ra kiểu hình Rh-
+4. Ở người có hai hệ nhóm máu quan trọng là ABO và Rh. Hai kháng nguyên của nhóm máu hệ ABO là A và B, do 3 gen khác locus gồm locus ABO, locus Hh và locus Sese. Kháng nguyên hồng cầu là do gen ở locus ABO và Hh (gen FTU-1) quyết định. Nhóm máu Rh có năm kháng nguyên chính là D, C, E, c, e trong đó D có tính kháng nguyên mạnh nhất. Mất gen RHD, tạo gen RHD giả hay RHD lai sẽ gây ra kiểu hình Rh-
 5. Những trường hợp hiếm trong hệ ABO: Nhóm máu A1, A2, O Bombay. O Bombay xảy ra ở người có gen I~A~A hoặc I~B~ nhưng đột biến gen FUT1 $\to$ không có chất H (tiền chất của kháng nguyên A và B).
-6. Trong di truyền đa gen, biểu hiện tính trạng là do tác động cộng gộp của
-nhiều gen không allele quy định. Di truyền đa nhân tố chịu sự chi phối của
-nhiều gen kết hợp với nhau và với môi trường. Tỷ lệ rủi ro và hệ số di
+6. Di truyền đa gen, tác động cộng gộp của nhiều gen không allele quy định. Di truyền đa nhân tố:
+**nhiều gen** kết hợp với nhau và với môi trường. Tỷ lệ rủi ro và hệ số di
 truyền giúp đánh giá ảnh hưởng của yếu tố di truyền và môi trường lên
 một bệnh hoặc tính trạng nào đó.
 7. Xem xét gia sử sức khỏe giúp dự báo nguy cơ tái mắc: tính xác suất di truyền ở bệnh di truyền Mendel; dựa vào nguy cơ kinh nghiệm ở bệnh di truyền đa nhân tố. Tư vấn di truyền giúp hỗ trợ gia đình và cá nhân có rối loạn di truyền.
