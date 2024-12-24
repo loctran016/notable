@@ -6,25 +6,7 @@ tags: ['Hoá Sinh']
 category: 'Y1'
 ---
 
-
-
-## Case Lâm Sàng: HbE
-
-### Câu hỏi
-
-Bé gái Trần thị M, 11 tuổi được gia đình đưa đến BV vì sốt cao, đau họng 3 ngày nay. Từ nhỏ bé đã ăn uống kém, chậm tăng cân, xanh xao, học mất tập trung, khó thở khi chạy chơi. Sau khi thăm khám, bác sĩ chẩn đoán bé bị viêm họng kèm nghi ngờ có **thiếu máu** và cho xét nghiệm máu để chẩn đoán và tìm nguyên nhân.
-
-Kết quả xét nghiệm máu cho thấy bé M bị thiếu máu, hồng cầu có kích thước nhỏ, nhược sắc. Kết quả đo lường nồng
-độ sắt trong máu và dự trữ sắt trong cơ thể bình thường. Tiếp theo bác sĩ cho điện di hemoglobin máu, kết quả cho thấy:
-
-* HbA = 78% (97%)
-* HbA2 =  2,3% (< 3,2%)
-* HbE = 19,7% (0%)
-Bác sĩ giải thích cho gia đình là cháu M mắc bệnh Hemoglobin E, hồng cầu có đời sống ngắn hơn bình thường nên bé bị thiếu máu.
-
-Bác sĩ đề nghị cho bé M làm xét nghiệm giải trình tự gen để chẩn đoán di truyền của bệnh. Ngoài ra bác sĩ khuyên cha mẹ, anh chị em của bé M nên đi làm xét nghiệm máu để phát hiện bệnh.
-
-### Khái niệm
+## Khái niệm
 
 ::: details Thiếu máu là gì ?
 Thiếu máu (anemia): $\downarrow$ số lượng tế bào hồng cầu hay $\downarrow$ nồng độ huyết sắc tố (Hemoglobin) → hạn chế khả năng vận oxy đi nuôi các cơ quan.
@@ -46,39 +28,64 @@ Phân loại thiếu máu: 3 loại (quy luật số 2)
 12-14 g/dL bình thường
 :::
 
-### Câu 1: Nhận xét về kết quả điện di hemoglobin, trình bày các dạng hemoglobin từ giai đoạn phôi đến trưởng thành
+## Case Lâm Sàng 1
 
-Giai đoạn phôi thai chủ yếu sản xuất 2 chuỗi ζ và ε tạo nên hemoglobin Gower I (ε2ζ2)
+Bệnh nhân nữ, 25 tuổi đến khám bác sĩ sản khoa vì đang mang thai tuần thứ 12. Đây là thai kỳ đầu tiên của cô ấy, do đó cô muốn tầm soát các bệnh lý di truyền về máu như những người thân khác trong gia đình cô. Cô có tiền căn thiếu máu mức độ nhẹ. Trong khi anh trai cô cần phải truyền máu thường xuyên và chết năm 10 tuổi. Khám lâm sàng không ghi nhận triệu chứng thiếu máu. Siêu âm ghi nhận thai 12 tuần trong lòng tử cung. Xét nghiệm máu mẹ ghi nhận thiếu máu hồng cầu nhỏ nhược sắc (hemoglobin 9 g/dl), điện di hemoglobin thấy tăng hemoglobin A2 (4%) và tăng hemoglobin F. Bệnh nhân được chọc lấy mẫu tế bào thai nhi.
 
-Khi đến tuần thứ 8 phôi thai: có sự thay đổi chuỗi ζ bằng γ và ε bằng α → tạo nên HbF (α2γ2)
+Thiếu β-globin $\to$ dư $\alpha$ nên đi ghép thêm tạo HbA2, HbF
 
-Đến 6 tuổi, trẻ sẽ có thành phần Hb $\approx$ người trưởng thành HbA(97%), HbA2(2-3%), HbF(1%)
+Nếu beta-globin bị đột biến vẫn không gây mất cân bằng
 
-Đến tháng thứ 3 của thai kỳ HbA (α2β2) bắt đầu xuất hiện, nồng độ HbF lúc này cao hơn và giảm dần sau vài
-tháng nhường chổ cho HbA
+### Câu 1: Bất thường nào sau đây gây thiếu máu trên bệnh nhân này: chọn một hoặc nhiều câu ĐÚNG
 
-Ngoài ra còn có 1 số loại Hb khác cũng được phát hiện nhưng ko quan trọng và biến mất trong thời kỳ sơ sinh như:
+<b class="hightlight--1">a) Sản xuất số lượng chuỗi peptide β-globin</b>
 
-Giai đoạn chuyển tiếp từ phôi thai → bào thai: Hb Portland (ζ2γ2), Hb Gower II (α2ε2)
+<b class="hightlight--2">b) Sản xuất trình tự chuỗi peptide β-globin</b>
 
-![Điện di hemoglobin](/hsinh-ch-hb-diendi.png)
+<b class="hightlight--3">c) Quá trình dịch mã (sinh tổng hợp protein)</b>
 
-Điện di Hb ở người bình thường: gồm có HbA(97%), HbA2(\<3,2%), HbF(1%)
+<b class="hightlight--4">d) Vùng promotor do đột biến gene.</b>
 
-Nhận xét kết quả của BN:
+### Câu 2: Kỹ thuật xét nghiệm nào có thể giúp phát hiện bất thường ở thai nhi: chọn một hoặc nhiều câu ĐÚNG
 
-* HbA giảm
-* Xuất hiện **HbE (19,7%)**
+<b class="hightlight--5">a) PCR</b>
 
-⇒ Có đột biến gen, làm thay đổi cấu trúc a.a của phần globin của Hb ⇒ kết quả điện di khác người bình thường
+<b class="hightlight--4">b) Giải trình tự gene</b>
 
-### Câu 2: Sự khác biệt về cấu trúc phân tử giữa hemoglobin A1 và HbE, HbS, HbC? Tại sao HbS hồng cầu hình liềm?
+<b class="hightlight--3">c) Mẫu dò oligonucleotide gắn trình tự đích phát hiện các bất thường DNA</b>
 
-HbA (hay HbA1) là loại Hemoglobin phổ biến nhất ở người trưởng thành (95-98%), tồn tại dưới dạng tetramer chứa hai tiểu đơn vị alpha và hai tiểu đơn vị beta (α2β2).
+<b class="hightlight--1">d) Làm FISH (lai tại chỗ phát huỳnh quang)</b>
 
-**Hemoglobin E (HbE) - đột biến chuỗi β**: Glu~26~ → lysine. Đây là bất thường hay gặp nhất → thay đổi điện tích của chuỗi β → giảm khả năng lk
+## Case Lâm Sàng 2
 
-**Hemoglobin C (HbC) - đột biến chuỗi β**: Glu~6~ → lysine → HbC gồm 2 chuỗi α bình thường và 2 chuỗi β đột biến → Hồng cầu có hình bia và giảm tính tan.
-    * Lysin kiềm ⇒ 2 NH3+ → tích điện dương → $\downarrow$ ái lực Hb-O~2~ → $\downarrow$ chức năng của Hb rất nhìu → hồng cầu dễ vỡ, huyết tán, ...
+Bệnh nhân Nam, 8 tuổi được mẹ đưa đi khám vì xanh xao. 2 tháng nay, mẹ bé thấy bé da xanh xao ngày càng tăng dần mặc dù ăn uống bình thường, đủ dinh dưỡng. Bác sĩ khám bệnh thấy bé da xanh, niêm nhạt, kết mạc mắt vàng nhẹ. Nghi ngờ bé có tình trạng thiếu máu, bác sĩ đã cho bé làm xét nghiệm công thức máu. Kết quả cho thấy dòng hồng cầu HGB 6,8 g/dL, MCV 53,7 fL, MCH 15,2 pg. Sau khi loại trừ các nguyên nhân khác gây ra tình trạng thiếu máu hồng cầu nhỏ nhược sắc như thiếu máu thiếu sắt, ngộ độc chì, bác sĩ đã cho bé điện di hemoglobin. Kết quả điện di: HbA: 6,7% ( 95,5-97,8%) HbA2: 5,9% (2,1-3,5%) HbF 34,2% (<2%) HbE 53,2%.
 
-**Hemoglobin S (HbS) - đột biến chuỗi β**: Glu~6~ → Val tạo thành HbS <FontIcon icon="droplet" color="red" /> <FontIcon icon="share" color="#3eaf7c" size="32" />
+### Câu 1. Dựa trên quá trình chuyển hoá Hb, giải thích tại sao* bé lại có triệu chứng vàng kết mạc mắt
+
+<b class="hightlight--1">a) Tăng bilirubin gián tiếp</b>
+
+<b class="hightlight--2">b) Tăng bilirubin trực tiếp</b>
+
+<b class="hightlight--3">c) Tăng urobilinogen</b>
+
+<b class="hightlight--4">d) Tăng stercobilin</b>
+
+### Câu 2. Dựa trên quá trình tổng hợp Hb, dự đoán kiểu gen trên các NST đột biến của bé
+
+<b class="hightlight--4">a) β0β+</b>
+
+<b class="hightlight--5">b) β0 β0</b>
+
+<b class="hightlight--3">c) β0/HbE</b>
+
+<b class="hightlight--1">d) HbE/HbE</b>
+
+### Câu 3. Hãy tư vấn nên làm xét nghiệm gì để chuẩn bị cho lần sinh con tiếp theo, chọn một hoặc nhiều câu ĐÚNG
+
+<b class="hightlight--3">a) PCR máu bố</b>
+
+<b class="hightlight--4">b) PCR máu mẹ</b>
+
+<b class="hightlight--5">c) MLPA máu bố mẹ</b>
+
+<b class="hightlight--2">d) Giải trình tự gene máu bố mẹ</b>
