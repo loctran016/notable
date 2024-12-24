@@ -104,7 +104,7 @@ export default hopeTheme(
             // TODO: Check back on this later
             sub: true,
             sup: true,
-            tasklist: true,
+            // tasklist: true,
 
             imgLazyload: true,
             // Enable image mark
@@ -139,8 +139,18 @@ export default hopeTheme(
             // },
 
             components: {
-                components: ['Badge', 'VPCard', 'PDF', 'Share', 'VidStack'],
+                components: [
+                    'Badge',
+                    'VPCard',
+                    'PDF',
+                    'Share',
+                    'VidStack',
+                    'FontIcon',
+                ],
                 componentOptions: {
+                    fontIcon: {
+                        assets: ['iconify', 'fontawesome'],
+                    },
                     share: {
                         //   colorful: true,
                         services: [
