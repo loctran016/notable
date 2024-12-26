@@ -89,3 +89,29 @@ mos 47,XX,+21[2]/46,XX[3]
 mos 45,X[1]/47,XXX[2]/ 46,XX[1]
 * Hiện tượng thất lạc NST: xảy ra trong quá trình NP từ
 đó tạo cơ thể khảm 2n/2n-1. Vd: 45,X[2]/46,XX[1]
+
+## Rối loạn cấu trúc NST
+
++ Là hậu quả của sự đứt gãy trên NST (gian kỳ). Nếu nối lại không đúng như cũ → Thay đổi cấu trúc NST.
+
+Đb tái cấu trúc không cân bằng:
+
+1. Mất đoạn (Deletion)
+2. Lặp đoạn (Duplication)
+3. NST đều (Isochromosome)
+4. NST 2 tâm (Dicentric)
+
+Đb tái cấu trúc cân bằng:
+
+5. Đảo đoạn (Inversion)
+6. Chuyển đoạn (Translocation)
+
+### Mất đoạn – del (Delections)
+
+NST bị đứt rời 1 hoặc nhiều đoạn. 1/7.000
+Đoạn bị đứt rời không có tâm → Tiêu biến.
+Đoạn còn lại có tâm ngắn hơn NST tương đồng.
+
++ Có 46 NST trong tb,1 NST ngắn hơn bình thường.
+→ Mất chất liệu di truyền → Hậu quả nặng nề.
++ Có 2 dạng: Mất đoạn cuối và Mất đoạn giữa.

@@ -56,6 +56,10 @@ Nếu beta-globin bị đột biến vẫn không gây mất cân bằng
 
 <b class="hightlight--1">d) Làm FISH (lai tại chỗ phát huỳnh quang)</b>
 
+- Có tác dụng dành cho các đột biến mất đoạn, trong khi các đột biến β-globin thường liên quan đến các đột biến điểm
+
+- Chủ yếu ứng dụng trong các đột biến $\alpha$-globin
+
 ## Case Lâm Sàng 2
 
 Bệnh nhân Nam, 8 tuổi được mẹ đưa đi khám vì xanh xao. 2 tháng nay, mẹ bé thấy bé da xanh xao ngày càng tăng dần mặc dù ăn uống bình thường, đủ dinh dưỡng. Bác sĩ khám bệnh thấy bé da xanh, niêm nhạt, kết mạc mắt vàng nhẹ. Nghi ngờ bé có tình trạng thiếu máu, bác sĩ đã cho bé làm xét nghiệm công thức máu. Kết quả cho thấy dòng hồng cầu HGB 6,8 g/dL, MCV 53,7 fL, MCH 15,2 pg. Sau khi loại trừ các nguyên nhân khác gây ra tình trạng thiếu máu hồng cầu nhỏ nhược sắc như thiếu máu thiếu sắt, ngộ độc chì, bác sĩ đã cho bé điện di hemoglobin. Kết quả điện di: HbA: 6,7% ( 95,5-97,8%) HbA2: 5,9% (2,1-3,5%) HbF 34,2% (<2%) HbE 53,2%.
