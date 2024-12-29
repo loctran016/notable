@@ -3,58 +3,14 @@
 @use 'vuepress-theme-hope/presets/hr-driving-car';
 @use 'vuepress-theme-hope/presets/left-blog-info';
 @use 'vuepress-theme-hope/presets/squircle-blogger-avatar.scss';
-
+@import './config.scss';
 // Define font-face in a consolidated block
-@font-face {
-    font-family: 'Oscine';
-    src: url('/fonts/SVN-Oscine.otf') format('opentype');
-    font-weight: 300;
-    font-display: swap;
-}
 
-@font-face {
-    font-family: 'Oscine';
-    src: url('/fonts/SVN-OscineBold.otf') format('opentype');
-    font-weight: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Ahkio';
-    src: url('/fonts/FS Ahkio-Black.otf') format('opentype');
-    font-weight: 900;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Ahkio';
-    src: url('/fonts/FS Ahkio-Bold.otf') format('opentype');
-    font-weight: bold;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Ahkio';
-    src: url('/fonts/FS Ahkio.otf') format('opentype');
-    // font-weight: bold;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Ahkio';
-    src: url('/fonts/FS Ahkio-Light.otf') format('opentype');
-    font-weight: 300;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Ahkio';
-    src: url('/fonts/FS Ahkio-Thin.otf') format('opentype');
-    font-weight: 100;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Honeyguide';
-    src: url('/fonts/SVN-Honeyguide Caps.otf') format('opentype');
-    font-weight: 300;
-    font-display: swap;
+.vp-article-title span {
+    text-transform: capitalize;
+    &:hover {
+        color: $theme-color;
+    }
 }
 
 // Global styles
@@ -62,38 +18,43 @@ body {
     font-size: 1rem;
     line-height: 1.5;
 
-    h1 {
-        font-size: 2.3em;
+    .vp-page-title h1 {
+        font-size: 2.5em;
     }
 
     h2 {
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     h3 {
-        font-size: 1.5em;
+        font-size: 2em;
     }
 
     thead,
     h4 {
-        font-size: 1.17em;
+        font-size: 1.5em;
         padding: 0.6rem 1rem;
     }
 
     h5 {
-        font-size: 1em;
+        font-size: 1.3em;
     }
 
     .vp-article-title {
-        font-size: 1.4rem;
+        font-size: 1.6rem;
     }
 
     .vp-blogger-name {
-        font-size: 1.4em;
+        font-size: 1.6em;
+        margin-bottom: 0.1rem;
     }
 
     .vp-blogger-description {
-        font-size: 0.75em;
+        font-size: 1em;
+        margin-left: min(0.7rem);
+        margin-right: min(0.7rem);
+        // margin: 1rem auto auto 1rem;
+        margin-top: 0.6rem;
     }
 
     .vp-back-to-top-button {
@@ -112,7 +73,7 @@ body {
         h5,
         span,
         li {
-            letter-spacing: 1.3px;
+            letter-spacing: 1.4px;
         }
 
         .vp-back-to-top-button {
@@ -221,7 +182,7 @@ html[data-theme='dark'] .theme-hope-content {
 }
 
 .vp-nav-links {
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 .route-link .vp-article-title {
@@ -237,4 +198,15 @@ html[data-theme='dark'] .theme-hope-content {
 
 div.markmap-wrapper {
     letter-spacing: 1;
+}
+
+.route-link.vp-blog-count {
+    margin-bottom: 0.9rem;
+
+    .count {
+        margin-bottom: 0.4rem;
+    }
+    > *:last-child {
+        font-size: 1rem;
+    }
 }

@@ -32,6 +32,29 @@ export default defineUserConfig({
     // enable it with pwa
     shouldPrefetch: false,
 
+    head: [
+        //...
+
+        // Import the corresponding link
+        ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+        [
+            'link',
+            {
+                rel: 'preconnect',
+                href: 'https://fonts.gstatic.com',
+                crossorigin: '',
+            },
+        ],
+        [
+            'link',
+            {
+                href: 'https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Patrick+Hand+SC&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet',
+                // href: 'https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Quicksand:wght@300..700&family=Caveat:wght@400..700&family=Patrick+Hand&display=swap',
+                rel: 'stylesheet',
+            },
+        ],
+    ],
+
     alias: {
         '@theme-hope/modules/blog/components/BlogHero': path.resolve(
             __dirname,
