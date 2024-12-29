@@ -1,30 +1,13 @@
-// place your custom styles here
+// Import necessary presets
 @use 'vuepress-theme-hope/presets/bounce-icon';
 @use 'vuepress-theme-hope/presets/hr-driving-car';
 @use 'vuepress-theme-hope/presets/left-blog-info';
-// @use 'vuepress-theme-hope/presets/me';
 @use 'vuepress-theme-hope/presets/squircle-blogger-avatar.scss';
 
-// @font-face {
-//     font-family: 'Be Cool';
-//     src: url('/fonts/SVN-Be Cool.otf') format('opentype');
-//     /* font-weight: 400; */
-//     font-weight: 300;
-//     font-display: swap;
-// }
-
-// @font-face {
-//     font-family: 'Chicken';
-//     src: url('/fonts/SVN-Chicken Noodle Soup.otf') format('opentype');
-//     /* font-weight: 400; */
-//     font-weight: 300;
-//     font-display: swap;
-// }
-
+// Define font-face in a consolidated block
 @font-face {
     font-family: 'Oscine';
     src: url('/fonts/SVN-Oscine.otf') format('opentype');
-    /* font-weight: 400; */
     font-weight: 300;
     font-display: swap;
 }
@@ -32,7 +15,6 @@
 @font-face {
     font-family: 'Oscine';
     src: url('/fonts/SVN-OscineBold.otf') format('opentype');
-    /* font-weight: 400; */
     font-weight: bold;
     font-display: swap;
 }
@@ -40,12 +22,15 @@
 @font-face {
     font-family: 'Honeyguide';
     src: url('/fonts/SVN-Honeyguide Caps.otf') format('opentype');
-    /* font-weight: 400; */
     font-weight: 300;
     font-display: swap;
 }
 
+// Global styles
 body {
+    font-size: 1rem;
+    line-height: 1.5;
+
     h1 {
         font-size: 2.3em;
     }
@@ -87,6 +72,7 @@ body {
     @media screen and (min-width: 768px) {
         font-size: 1.2rem;
         --hint-font-size: 1.2rem;
+
         p,
         h1,
         h2,
@@ -97,7 +83,6 @@ body {
         li {
             letter-spacing: 1.3px;
         }
-        // letter-spacing: 1.2px;
 
         .vp-back-to-top-button {
             bottom: 1.6rem;
@@ -108,6 +93,7 @@ body {
             font-size: 1.3rem;
             letter-spacing: 1.2px;
         }
+
         .hint-container {
             ul > * + *,
             ol > * + * {
@@ -117,68 +103,10 @@ body {
     }
 }
 
-.vp-article-title > span {
-    letter-spacing: 1.4px;
-}
-
-#main-content {
-    p:has(> img) {
-        text-align: center;
-    }
-    img {
-        border-radius: 0.5rem;
-    }
-
-    .markmap-wrapper p {
-        font-size: 1rem;
-        line-height: 1.6;
-        letter-spacing: normal;
-    }
-
-    u {
-        text-decoration: none;
-        border-bottom: 1px solid currentColor;
-        // border-color: currentColor;
-    }
-}
-
-html[data-theme='dark'] .theme-hope-content {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    thead {
-        color: #efbf04;
-        letter-spacing: 1px;
-    }
-
-    .hightlight {
-        &--1 {
-            // color: hsl(0, 100%, 49%);
-            color: hsl(0, 100%, 49%);
-            // color: hsl(0, 0, 0);
-        }
-        &--2 {
-            color: hsl(40, 100%, 49%);
-        }
-        &--3 {
-            color: hsl(90, 100%, 49%);
-        }
-        &--4 {
-            color: hsl(140, 100%, 49%);
-        }
-        &--5 {
-            color: hsl(170, 100%, 49%);
-        }
-    }
-}
-
+// Highlight classes
 .hightlight {
     &--1 {
         color: hsl(0, 100%, 60%);
-        // color: hsl(0, 100%, 49%);
     }
     &--2 {
         color: hsl(40, 100%, 49%);
@@ -193,24 +121,46 @@ html[data-theme='dark'] .theme-hope-content {
         color: hsl(170, 100%, 49%);
     }
 }
-// .hightlight {
-//     &--1 {
-//         color: hsl(0, 100%, 40%);
-//         // color: hsl(0, 100%, 49%);
-//     }
-//     &--2 {
-//         color: hsl(40, 100%, 40%);
-//     }
-//     &--3 {
-//         color: hsl(90, 100%, 40%);
-//     }
-//     &--4 {
-//         color: hsl(140, 100%, 40%);
-//     }
-//     &--5 {
-//         color: hsl(170, 100%, 40%);
-//     }
-// }
+
+// Dark theme overrides
+html[data-theme='dark'] .theme-hope-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    thead {
+        color: #efbf04;
+        letter-spacing: 1px;
+    }
+}
+
+// Additional styles
+.vp-article-title > span {
+    letter-spacing: 1.4px;
+}
+
+#main-content {
+    p:has(> img) {
+        text-align: center;
+    }
+
+    img {
+        border-radius: 0.5rem;
+    }
+
+    .markmap-wrapper p {
+        font-size: 1rem;
+        line-height: 1.6;
+        letter-spacing: normal;
+    }
+
+    u {
+        text-decoration: none;
+        border-bottom: 1px solid currentColor;
+    }
+}
 
 .vp-blog-hero.no-bg {
     height: 3rem;
@@ -241,7 +191,6 @@ html[data-theme='dark'] .theme-hope-content {
 
 .vp-nav-links {
     font-size: 0.9rem;
-    // letter-spacing: 1.2px;
 }
 
 .route-link .vp-article-title {
@@ -256,7 +205,5 @@ html[data-theme='dark'] .theme-hope-content {
 }
 
 div.markmap-wrapper {
-    // font-size: 1.2rem;
-    // line-height: 1.6;
     letter-spacing: 1;
 }
