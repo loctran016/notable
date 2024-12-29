@@ -20,6 +20,37 @@
 }
 
 @font-face {
+    font-family: 'Ahkio';
+    src: url('/fonts/FS Ahkio-Black.otf') format('opentype');
+    font-weight: 900;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ahkio';
+    src: url('/fonts/FS Ahkio-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ahkio';
+    src: url('/fonts/FS Ahkio.otf') format('opentype');
+    // font-weight: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ahkio';
+    src: url('/fonts/FS Ahkio-Light.otf') format('opentype');
+    font-weight: 300;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ahkio';
+    src: url('/fonts/FS Ahkio-Thin.otf') format('opentype');
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Honeyguide';
     src: url('/fonts/SVN-Honeyguide Caps.otf') format('opentype');
     font-weight: 300;
