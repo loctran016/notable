@@ -406,7 +406,7 @@ triển không hoàn toàn.
 cách xa nhau.
 5
 H/c Turner và các biến thể
-▪  50% dạng thuần: 45,X VT Barr (–)
+▪ $\approx$ 50% dạng thuần: 45,X VT Barr (–)
 ▪ 15% dạng NST X đều ở q: 46,X,i(X)(q10)
 ▪ Các dạng khảm: 5%: mos 45,X[2]/46,X,i(X)(q10)[3]
 15%: mos 45,X[1]/46,XX[2]
@@ -419,8 +419,8 @@ mos 45,X[3]/46,X,r(X)[2]
 + Hay gặp hơn hội chứng Turner.
 1/1.000 trẻ sơ sinh nữ.
 5-10 trẻ sinh ra / ngày có XXX (Mỹ).
-+ Không dị tật. Giới tính  bình thường. Có con  75%.
-Vô sinh  25%.
++ Không dị tật. Giới tính  bình thường. Có con $\approx$ 75%.
+Vô sinh $\approx$ 25%.
 + Dạng thuần: 47,XXX
 + mos 47,XXX[2]/46,XX[3]
 Hiếm: 48,XXXX; 49,XXXXX
@@ -930,59 +930,62 @@ Tetrasomy 12p (1/25.000)
 
 1/800
 
-a. Các đặc điểm nhận dạng
-Chiều cao bình thường.
-Dễ bị nhiễm trùng và thừa cân. Trán hẹp, gáy rộng, mắt
+Triệu chứng:
+
+* Chiều cao bình thường.
+* Thừa cân. Trán hẹp, gáy rộng, mắt
 xếch, dẹt, mũi ngắn và dẹt, tai nhỏ. Miệng thường mở,
 môi và lưỡi dày, hay thè lưỡi. Ngón chân cái tách ra.
-Trí tuệ kém phát triển, mặt dần độn, IQ thấp (<50).
-225 gen Các vùng gen trên NST 21
-Vùng DSCR1 (Down Syndrome Critical Region 1)
+* Trí tuệ kém phát triển, mặt dần độn, IQ thấp (<50).
 
-b. Tiến triển
-50% trẻ chết trước 5 tuổi.
- 8% trẻ sống trên 40 tuổi.
-Nếu người nữ mắc h.c Down sinh con:
-→ Một số con cũng mắc Down.
+NST 21 (225 gen) có vùng DSCR1 (Down Syndrome Critical Region 1) - 21q22.1
+
+Tiến triển:
+
+* 50% trẻ chết trước 5 tuổi.
+* 8% trẻ sống trên 40 tuổi.
+
+Nếu người nữ mắc h.c Down sinh con thì một số con cũng mắc Down.
 (vì 1/2 số giao tử của mẹ bị Down
 mang 2 NST 21)
 
-c. Di truyền học tế bào
+<b class="highlight-font highlight--3" >Di truyền học tế bào</b>
 
-* 95% Trisomi 21 thuần: 47,XX,+21 ; 47,XY,+21
-(88% g.tử từ mẹ và 8% g.tử từ bố)
-* Khảm: mos 47,XX,+21[2]/46,XX[4]
-* Downs do chuyển đoạn Robertson:
-46,XX,+21,rob(14;21)(q10;q10)
-46,XY,+21,rob(21;21)(q10;q10)
-❖ Thể ba 21 một phần (<1%): vùng DSCR1 (21q22.13)
+95% Trisomi 21 thuần: 47,XX,+21 ; 47,XY,+21
+(88% do mẹ và 8% do bố)
+
+Khảm: mos 47,XX,+21[2]/46,XX[4]
+
+Downs do chuyển đoạn Robertson:
+
+* 46,XX,+21,rob(14;21)(q10;q10)
+* 46,XY,+21,rob(21;21)(q10;q10)
+
+Thể ba 21 một phần (<1%): vùng DSCR1 (21q22.13)
+
 * 46,XX,idic(21)(q22.3) + 46,XX,i(21)(q10)
 * 46,XX,dup(21)(q22.1q22.3)
-60
-4/1960, Bs John H. Edwards phát hiện. 1 / 7.500
-Phôi bệnh thường chết lúc bào thai. (do g.tử mẹ).
-Tuổi người mẹ cao thường
-ảnh hưởng đến đời con.
-Tỷ lệ: 4 trẻ nữ : 1 trẻ nam.
 
 #### <span class="highlight--5">Trisomy 18 (Edwards syndrome)</span>
 
-Thường gặp sau hc Down
+1 / 7.500
 
-❖ Triệu chứng
-Chậm  trong tử cung và dừng  ở tháng thứ 7.
-Thái bé và cử động yếu, đa ối → Suy thai
-Rối loạn: bú, nuốt và thở. Thiểu năng.
-Nhẹ cân. Tai thấp và nhọn như tai chồn
-Dị tật nặng: tim, thận và cơ quan s.dục
-Trán và khe mắt hẹp. Miệng bé,
-Đầu nhỏ, hàm nhỏ, lưỡi thụt vào
-Bàn tay nắm bất thường
+Triệu chứng:
 
-❖ Tiến triển: Sẩy thai, tử vong sau sinh.
-Rất xấu. Sống  10 tuần (95% chết khi là bào thai; 50%
-trẻ sống  2 tháng đầu; 5 – 10% trẻ sống năm đầu).
-❖ Di truyền học tế bào (sống  10 tuổi, chiếm 1%)
+* Thường chết lúc bào thai. (do mẹ).
+* Tuổi người mẹ cao thường ảnh hưởng đến đời con.
+* Tỷ lệ: 4 trẻ nữ : 1 trẻ nam.
+* Thai chậm phát triển và dừng ở tháng 7,  <b class="highlight--2">suy thai</b>
+* <b class="highlight--3">Dị tật nặng:</b>  tim, thận và cơ quan s.dục
+* <b class="highlight--1">Bàn tay nắm bất thường</b>
+
+Tiến triển:
+
+* Sẩy thai, tử vong sau sinh.
+* Rất xấu. Sống $\approx$ 10 tuần (95% chết khi là bào thai; 50%
+trẻ sống $\approx$ 2 tháng đầu; 5 – 10% trẻ sống năm đầu)
+
+Di truyền học tế bào (sống $\approx$ 10 tuổi, chiếm 1%):
 
 * 95% Trisomi thuần: 47,XY,+18 ; 47,XX,+18
 * 5% cơ thể khảm: mos 47,XY,+18[2]/46,XY[2]
@@ -992,29 +995,26 @@ mos 47,XX,+18[1]/46,XX[2]
 
 #### <span class="highlight--4">Trisomy 13 (Patau syndrome)</span>
 
-(1/15.000 $\to$ 1/25.000)
-Đa số phôi thai bị sẩy.
-Tuổi mẹ có ảnh hưởng đến
-tần số con Trisomi 13.
-Thường
-gặp sau
-hc Down
-và Edward
+1/15.000 $\to$ 1/25.000
 
-* Triệu chứng
-Đầu nhỏ, mắt nhỏ hoặc không có mắt.
-Tại gắn thấp, điếc. Sứt môi, hở hàm ếch.
-Dị tật nặng: TK, tim, thận, hệ tiêu hóa và bp s.dục.
-Rảnh khỉ, t’’’. Bàn tay và chân: 6 ngón (thừa ngón út).
-* Tiến triển
-86% chết ở năm đầu. Rất hiếm 6 tuổi.
-28% chết ở tuần đầu. 44% chết tháng đầu.
+Triệu chứng:
 
-* Di truyền học tế bào
-* 80% Trisomi thuần: 47,XY,+13
-47,XX,+13
+* Đa số phôi thai bị sẩy.
+* Tuổi mẹ có ảnh hưởng đến tần số con Trisomi 13.
+* Sứt môi, hở hàm ếch.
+* <b class="highlight--3">Dị tật nặng:</b> TK, tim, thận, hệ tiêu hóa và bp s.dục.
+* <b class="highlight--2">Rảnh khỉ</b>, <b class="highlight--7">6 ngón (thừa ngón út)</b>
+
+
+Tiến triển:
+
+* 86% chết ở năm đầu. Rất hiếm 6 tuổi.
+* 28% chết ở tuần đầu. 44% chết tháng đầu.
+
+Di truyền học tế bào
+
+* 80% Trisomi thuần: 47,XY,+13 và 47,XX,+13
 * 15% chuyển đoạn Robertson (13;14):
 46,XX,+14,rob(13;14)(q10;q10)
 * 5% Trisomi khảm: mos 47,XY,+13[2]/46,XY[1]
 mos 47,XX,+13[3]/46,XX[2]
-Ngoài ra, có thể có trisomi 8, 9, 16, 22 ... rất hiếm.

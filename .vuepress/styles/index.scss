@@ -4,6 +4,7 @@
 @use 'vuepress-theme-hope/presets/left-blog-info';
 @use 'vuepress-theme-hope/presets/squircle-blogger-avatar.scss';
 @import './config.scss';
+@import './palette.scss';
 // Define font-face in a consolidated block
 
 .vp-article-title span {
@@ -165,6 +166,17 @@ html[data-theme='dark'] .theme-hope-content {
     u {
         text-decoration: none;
         border-bottom: 1px solid currentColor;
+    }
+
+    p:has(+ ul) {
+        margin-bottom: 0.5rem;
+        font-weight: bold;
+        font-size: 1.2em;
+        font-family: 'Patrick Hand', Cambria, Cochin, Georgia, Times,
+            'Times New Roman', serif;
+    }
+    p + ul {
+        margin-top: 0.5rem;
     }
 }
 

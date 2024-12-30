@@ -47,7 +47,7 @@ export default defineUserConfig({
         [
             'link',
             {
-                href: 'https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Patrick+Hand+SC&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet',
+                href: 'https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Patrick+Hand+SC&family=Roboto+Slab:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet',
                 // href: 'https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Quicksand:wght@300..700&family=Caveat:wght@400..700&family=Patrick+Hand&display=swap',
                 rel: 'stylesheet',
             },
