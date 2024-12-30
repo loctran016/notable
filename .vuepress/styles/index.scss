@@ -92,25 +92,39 @@ body {
                 margin-top: 0.5rem;
             }
         }
+
+        .highlight-font {
+            font-size: 1.6rem;
+        }
     }
 }
 
 // Highlight classes
-.hightlight {
+.highlight {
+    &-font {
+        font-family: 'Patrick Hand', Cambria, Cochin, Georgia, Times,
+            'Times New Roman', serif;
+    }
     &--1 {
         color: hsl(0, 100%, 60%);
     }
     &--2 {
-        color: hsl(40, 100%, 49%);
-    }
-    &--3 {
         color: hsl(90, 100%, 49%);
     }
-    &--4 {
+    &--3 {
         color: hsl(140, 100%, 49%);
     }
-    &--5 {
+    &--4 {
         color: hsl(170, 100%, 49%);
+    }
+    &--5 {
+        color: hsl(210, 100%, 49%);
+    }
+    &--6 {
+        color: hsl(270, 100%, 50%);
+    }
+    &--7 {
+        color: hsl(300, 100%, 49%);
     }
 }
 

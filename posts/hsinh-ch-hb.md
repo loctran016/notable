@@ -38,27 +38,27 @@ Nếu beta-globin bị đột biến vẫn không gây mất cân bằng
 
 ### Câu 1: Bất thường nào sau đây gây thiếu máu trên bệnh nhân này: chọn một hoặc nhiều câu ĐÚNG
 
-<b class="hightlight--1">a) Sản xuất số lượng chuỗi peptide β-globin</b>
+<b class="highlight--1">a) Sản xuất số lượng chuỗi peptide β-globin</b>
 
-<b class="hightlight--2">b) Sản xuất trình tự chuỗi peptide β-globin</b>
+<b class="highlight--2">b) Sản xuất trình tự chuỗi peptide β-globin</b>
 
-<b class="hightlight--3">c) Quá trình dịch mã (sinh tổng hợp protein)</b>
+<b class="highlight--3">c) Quá trình dịch mã (sinh tổng hợp protein)</b>
 
-<b class="hightlight--4">d) Vùng promotor do đột biến gene.</b>
+<b class="highlight--4">d) Vùng promotor do đột biến gene.</b>
 
 ### Câu 2: Kỹ thuật xét nghiệm nào có thể giúp phát hiện bất thường ở thai nhi: chọn một hoặc nhiều câu ĐÚNG
 
-<b class="hightlight--5">a) PCR</b>
+<b class="highlight--5">a) PCR</b>
 
-<b class="hightlight--4">b) Giải trình tự gene</b>
+<b class="highlight--4">b) Giải trình tự gene</b>
 
-<b class="hightlight--3">c) Mẫu dò oligonucleotide gắn trình tự đích phát hiện các bất thường DNA</b>
+<b class="highlight--3">c) Mẫu dò oligonucleotide gắn trình tự đích phát hiện các bất thường DNA</b>
 
-<b class="hightlight--1">d) Làm FISH (lai tại chỗ phát huỳnh quang)</b>
+<b class="highlight--1">d) Làm FISH (lai tại chỗ phát huỳnh quang)</b>
 
-- Có tác dụng dành cho các đột biến mất đoạn, trong khi các đột biến β-globin thường liên quan đến các đột biến điểm
+* Có tác dụng dành cho các đột biến mất đoạn, trong khi các đột biến β-globin thường liên quan đến các đột biến điểm
 
-- Chủ yếu ứng dụng trong các đột biến $\alpha$-globin
+* Chủ yếu ứng dụng trong các đột biến $\alpha$-globin
 
 ## Case Lâm Sàng 2
 
@@ -66,30 +66,30 @@ Bệnh nhân Nam, 8 tuổi được mẹ đưa đi khám vì xanh xao. 2 tháng 
 
 ### Câu 1. Dựa trên quá trình chuyển hoá Hb, giải thích tại sao* bé lại có triệu chứng vàng kết mạc mắt
 
-<b class="hightlight--1">a) Tăng bilirubin gián tiếp</b>
+<b class="highlight--1">a) Tăng bilirubin gián tiếp</b>
 
-<b class="hightlight--2">b) Tăng bilirubin trực tiếp</b>
+<b class="highlight--2">b) Tăng bilirubin trực tiếp</b>
 
-<b class="hightlight--3">c) Tăng urobilinogen</b>
+<b class="highlight--3">c) Tăng urobilinogen</b>
 
-<b class="hightlight--4">d) Tăng stercobilin</b>
+<b class="highlight--4">d) Tăng stercobilin</b>
 
 ### Câu 2. Dựa trên quá trình tổng hợp Hb, dự đoán kiểu gen trên các NST đột biến của bé
 
-<b class="hightlight--4">a) β0β+</b>
+<b class="highlight--4">a) β0β+</b>
 
-<b class="hightlight--5">b) β0 β0</b>
+<b class="highlight--5">b) β0 β0</b>
 
-<b class="hightlight--3">c) β0/HbE</b>
+<b class="highlight--3">c) β0/HbE</b>
 
-<b class="hightlight--1">d) HbE/HbE</b>
+<b class="highlight--1">d) HbE/HbE</b>
 
 ### Câu 3. Hãy tư vấn nên làm xét nghiệm gì để chuẩn bị cho lần sinh con tiếp theo, chọn một hoặc nhiều câu ĐÚNG
 
-<b class="hightlight--3">a) PCR máu bố</b>
+<b class="highlight--3">a) PCR máu bố</b>
 
-<b class="hightlight--4">b) PCR máu mẹ</b>
+<b class="highlight--4">b) PCR máu mẹ</b>
 
-<b class="hightlight--5">c) MLPA máu bố mẹ</b>
+<b class="highlight--5">c) MLPA máu bố mẹ</b>
 
-<b class="hightlight--2">d) Giải trình tự gene máu bố mẹ</b>
+<b class="highlight--2">d) Giải trình tự gene máu bố mẹ</b>

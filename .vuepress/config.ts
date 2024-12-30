@@ -5,7 +5,6 @@ import { getDirname, path } from 'vuepress/utils';
 
 // import viteImagemin from 'vite-plugin-imagemin';
 import theme from './theme.js';
-// import { comment } from "vuepress-theme-hope";
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension';
 const __dirname = getDirname(import.meta.url);
 
