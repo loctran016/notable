@@ -128,6 +128,27 @@ body {
         color: hsl(300, 100%, 49%);
     }
 }
+li:has(> .highlight--1)::marker {
+    color: hsl(0, 100%, 60%);
+}
+li:has(> .highlight--2)::marker {
+    color: hsl(90, 100%, 49%);
+}
+li:has(> .highlight--3)::marker {
+    color: hsl(140, 100%, 49%);
+}
+li:has(> .highlight--4)::marker {
+    color: hsl(170, 100%, 49%);
+}
+li:has(> .highlight--5)::marker {
+    color: hsl(210, 100%, 49%);
+}
+li:has(> .highlight--6)::marker {
+    color: hsl(270, 100%, 50%);
+}
+li:has(> .highlight--7)::marker {
+    color: hsl(300, 100%, 49%);
+}
 
 // Dark theme overrides
 html[data-theme='dark'] .theme-hope-content {
