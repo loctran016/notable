@@ -91,17 +91,19 @@ nhau trong cùng một cơ thể, do:
 
 * Là hậu quả của sự đứt gãy trên NST (gian kỳ). Nếu nối lại không đúng như cũ → Thay đổi cấu trúc NST.
 
-<b class="highlight--2">Đb tái cấu trúc không cân bằng:</b>
+```markmap
+### Đb tái cấu trúc không cân bằng:
 
-1. Mất đoạn (Deletion)
-2. Lặp đoạn (Duplication)
-3. NST đều (Isochromosome)
-4. NST 2 tâm (Dicentric)
+* Mất đoạn (Deletion)
+* Lặp đoạn (Duplication)
+* NST đều (Isochromosome)
+* NST 2 tâm (Dicentric)
 
-<b class="highlight--3">Đb tái cấu trúc cân bằng:</b>
+### Đb tái cấu trúc cân bằng:
 
-5. Đảo đoạn (Inversion)
-6. Chuyển đoạn (Translocation)
+* Đảo đoạn (Inversion)
+* Chuyển đoạn (Translocation)
+```
 
 ### Mất đoạn – del (Delections)
 
