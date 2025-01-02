@@ -627,9 +627,7 @@ Di truyền tế bào:
   * mos 47,XXY[1]/46,XX[1]
   * 48,XXXY; 48,XXYY; 49,XXXXY; 49,XXXYY
 
-## NST GIỚI TÍNH Ở NGƯỜI
-
-### VẬT THỂ NHIỄM SẮC GIỚI TÍNH
+## VẬT THỂ NHIỄM SẮC GIỚI TÍNH
 Quan sát dưới KHV NST X, Y. Nếu thấy X, Y có trong:
 Tb đang phân chia  NST GT
 Nhân tb ở gian kỳ  Vật thể nhiễm sắc GT
@@ -642,21 +640,14 @@ Có 2 loại dị nhiễm sắc chất:
 Vùng tâm và 2 đầu mút telomere → Cấu trúc vận động.
 * Dị nhiễm sắc chất nhất thời. → Vật thể Barr
 
-VẬT THỂ BARR
+### VẬT THỂ BARR
 
-* 1949, Barr thấy có 1 khối chất nhiễm sắc
-chỉ có ở nhân tế bào của các ĐV cái có vú.
 * Đa số tế bào ở nữ 46,XX đều có vật thể Barr.
-* Xảy ra trong nhân tế bào soma ở gian kỳ (G1
-).
+* Xảy ra trong nhân tế bào soma ở gian kỳ (G1).
 * Xuất xứ từ 1 trong 2 NST X bị ức chế, dị kết đặc và
 bất hoạt về di truyền (X bố hoặc X mẹ): Xi
-→ Nữ 46,XX chỉ có 1 NST X hoạt động: Xa
-Murray Liewellyn Barr, Canadian.
-20 June 1908 – 4 May 1995.
 
-Xảy ra ở nữ giới, phụ thuộc hoạt động sinh lý của:
-Tế bào và cơ thể.
+Xảy ra ở nữ giới, phụ thuộc hoạt động sinh lý của: Tế bào và cơ thể.
 
 Vật thể Barr – VT NS giới tính nữ
 
@@ -675,12 +666,12 @@ Vật thể Barr – Barr body
 48,XXXX 49,XXXXY
 49,XXXXX ➔ Chẩn đoán số NST X ở người bất kỳ
 
-Đặc điểm vật thể Barr
-➢ Sự bất hoạt X: Ngẫu nhiên và không thuận nghịch
+Đặc điểm vật thể Barr:
+* Sự bất hoạt X: Ngẫu nhiên và không thuận nghịch
 (Xảy ra lúc phôi bào chứa khoảng 20 tb)
 → Giúp cân bằng di truyền: 46,XX và 46,XY
-➢ Thừa NST X chỉ gây hậu quả tương đối nhỏ:
-47,XXY 47,XXX 48,XXXX và 47,XY,+18
+$\Rightarrow$ Thừa NST X chỉ gây hậu quả tương đối nhỏ
+
 
 Gen SHOX (Xp22.33 và Yp11.3) PAR1
 Mã hóa ra một yếu tố giúp điều hòa sự sao mã của các
@@ -712,20 +703,19 @@ Do đột biến gen HPRT (Xq26) làm thiếu hụt E. HPRT.
 (giúp chuyển hóa Guanine + Hypoxanthine trong TĐC)
 Thừa Guanine và Hypoxanthine → Xanthine → A.Uric
 ➔ Bệnh Gout và sỏi thận.
-+
-+
 
-❖ Rối loạn cấu trúc NST X:
-46,X,i(X)(q10) → VT Barr lớn hơn
-46,X,i(X)(p10) → ? →
-46,X,del(X)(p15) → VT Barr nhỏ hơn
+Rối loạn cấu trúc NST X:
+* 46,X,i(X)(q10) → VT Barr lớn hơn
+* 46,X,i(X)(p10) → ? →
+* 46,X,del(X)(p15) → VT Barr nhỏ hơn
+ 
 ❖ Các TH bất hoạt NST X không ngẫu nhiên:
 Nếu karyotype người bệnh có đột biến cấu trúc NST X
 dạng mất cân bằng (mất đoạn, lặp đoạn, NST đều)
 → X đột biến luôn được ưu tiên bất hoạt tạo VT Barr.
 → Tăng sức sống cho người bệnh
 
-4.2. HỆ SINH DỤC NGƯỜI
+## HỆ SINH DỤC NGƯỜI
 Hệ sinh dục: gồm 3 phần:
 
 * Tuyến s.dục: buồng trứng (nữ), tinh hoàn (nam).
@@ -773,6 +763,7 @@ Nam: có râu, dương vật và cơ bắp phát triển.
 * Khi không có NST Y:
 Hệ sd sơ khai → Buồng trứng → Hormon Estrogen
 → Âm đạo, tử cung, ống dẫn trứng (ống Muller ).
+
 * Khi có NST Y:
 Hệ sd sơ khai → Tinh hoàn → Hormon sd nam:
 AMH, Testosteron (ức chế đặc tính nữ) → Các đặc
@@ -781,8 +772,9 @@ Hệ sd sơ khai không hoạt động → K.H nữ xuất hiện.
 Mọi người từ lúc sinh ra sẽ có K.H nữ trừ khi có xuất
 hiện các hormon sd nam.
 
-4.3. NST GIỚI TÍNH Ở NGƯỜI
-a. Nhiễm sắc thể X – Gen DAX1 (NR0B1).
+## NST GIỚI TÍNH Ở NGƯỜI
+
+### Nhiễm sắc thể X – Gen DAX1 (NR0B1).
 NST X chứa > 150 triệu cặp base (> 1.400 gen).
 Gen DAX1 (Xp21.2) → 470 aa: kiểm soát tổng hợp
 các yếu tố quyết định: sự biệt hóa, sự trưởng thành và
@@ -792,7 +784,7 @@ Các gen khác có liên quan trên X:
 * Sự hình thành giới tính (b.trứng): WNT4 (1p35.1)
 * Các tính trạng thường: SHOX (Xp), ...
 
-b. Nhiễm sắc thể Y – Gen SRY
+### Nhiễm sắc thể Y – Gen SRY
 Bình thường: Nam 46,XY; Nữ: 46,XX
 Ngoại lệ (1/20.000):
 Nam: 46,XX Nữ: 46,XY.
@@ -814,9 +806,9 @@ SOX9 (17q24)
 Các rối loạn cấu trúc ở NST Y:
 46,X,del(Y)(q21) 46,X,i(Y)(q10) 46,X,del(Y)(p14)
 
-Tương tác giữa SRY và DAX1
-SRY hiện diện, ức chế DAX1→ Tinh hoàn (nam).
-Thiếu SRY, DAX1 biểu hiện → Buồng trứng (nữ).
+Tương tác giữa SRY và DAX1:
+* SRY hiện diện, ức chế DAX1→ Tinh hoàn (nam).
+* Thiếu SRY, DAX1 biểu hiện → Buồng trứng (nữ).
 
 CÁC GEN TÁC ĐỘNG LÊN HỆ SINH DỤC
 46,XX
@@ -834,8 +826,10 @@ Các yếu tố phát triển theo hướng nam
 Nếu thiếu Testosteron: đ.sd và bpsd ngoài → Nữ hóa.
 (Mặc dù có hay không có Estrogen và Progesteron)
 
-5. BỆNH LƯỠNG TÍNH
-Hermaphroditism
+## BỆNH LƯỠNG TÍNH
+
+```markmap
+### Hermaphroditism
 5.1. Lưỡng tính giả nam (3 dạng)
 Male Pseudohermaphroditism
 5.2. Lưỡng tính giả nữ
@@ -843,6 +837,7 @@ Female Pseudohermaphroditism
 5.3. Lưỡng tính thật (xem)
 True hermaphroditism
 5.4. Giới đảo nghịch (Sex reversal)
+```
 
 Người bệnh có tuyến sinh dục và bộ phận sd ngoài
 không đồng bộ. Phân loại dựa theo tuyến sinh dục:
@@ -853,7 +848,8 @@ không đồng bộ. Phân loại dựa theo tuyến sinh dục:
 Các trường hợp lưỡng tính giả (thường gặp) có:
 Karyotype phù hợp với tuyến sd (trừ lưỡng tính thật)
 
-5.1. Lưỡng tính giả nam
+### Lưỡng tính giả nam
+
 Đặc điểm chung: có tinh hoàn, 46,XY, VT Barr (–)
 Giới tính di truyền là nam, bpsd ngoài bị nữ hóa, do:
 Thiếu hụt Testosteron hoặc DHT
@@ -863,8 +859,8 @@ Thường có dị tật lỗ tiểu dưới
 → Có tuyến sd và đường sd là nam
 Nhưng bộ phận sd ngoài bị nữ hóa.
 
-5.1. Lưỡng tính giả nam
-do thiếu enzyme 5  reductase-2
+
+Do thiếu enzyme 5  reductase-2
 Enzyme này giúp chuyển Testosteron → DHT
 Do đột biến gen SRD5A2 (2p23) dạng p.Arg227Gln
 → Thiếu hụt enzyme 5  reductase-2
@@ -874,8 +870,8 @@ Tinh hoàn còn nằm trong ống bẹn hay môi lớn.
 Vẫn có AMH: ống Muller tiêu biến, ống Wolff phát triển
 do có Testosteron → Có đường sd nam
 
-5.1. Lưỡng tính giả nam
-do thiếu enzyme 5  reductase-2
+
+Do thiếu enzyme 5  reductase-2
 Khi dậy thì, lượng Testosteron tăng cao
 → Một số đặc điểm giới tính phụ: tăng lượng cơ, giọng
 trầm, lông mu nhiều, dương vật và bìu có lớn hơn, lông
@@ -885,8 +881,8 @@ và phẫu thuật kịp thời < 2t để có con (hỗ trợ sinh sản).
  Khám và làm XN các enzyme, siêu âm đường sd.
 Hoặc: mổ thăm dò, sinh thiết tuyến sd.
 
-5.1. Lưỡng tính giả nam
-do thiếu Testosteron
+
+Do thiếu Testosteron
 Đột biến gen 17 -HSD3 (9q22) làm thiếu hụt enzyme
 17  hydroxysteroid dehydrogenase-3
  Không có (rất ít) Testosteron → Ống Wolff không :
@@ -897,8 +893,7 @@ do thiếu Testosteron
 Do có AMH, ống Muller không phát triển. Khi dậy thì,
 Testosteron vẫn không có → Bpsd ngoài vẫn là nữ
 → Sự nữ hóa này không thể hồi phục (Ái nam ái nữ).
-42
-5.1. Lưỡng tính giả nam
+
 (do tăng CAG + GGC ở exon 1 ở gen AR)
 Gen tạo ra thụ quan Androgen (Androgen Receptor)
 bị đột biến → H.c thiếu hụt (kháng) Androgen (AIS).
@@ -907,7 +902,7 @@ Tinh hoàn vẫn tiết testosteron nhưng thiếu hụt thụ quan
 Androgen → Testosteron không thể tác động mô đích.
 ➔ Hội chứng nữ hóa tinh hoàn 46,XY (H/c Morris)
 Xq11-12
-43
+
 Hội chứng nữ hóa tinh hoàn 46,XY VT Barr (–)
 Tinh hoàn ẩn. H.dáng, bpsd ngoài giống Nữ.
 (không có tử cung + buồng trứng)
@@ -919,7 +914,7 @@ Tâm s.lý hướng nữ, không biết bị bệnh,
 tự cho là nữ. Luật pháp + XH: luôn coi là nữ.
 Phôi thai học: giống lưỡng tính giả nam .
 → Mổ lấy tinh hoàn ngay khi phát hiện bệnh.
-44
+
 Hội chứng nữ hóa tinh hoàn 46,XY
 Rất hiếm, tỷ lệ 1/50.000 trẻ sinh ra sống.
 Được phát hiện khi đi khám Bs vì:
@@ -929,8 +924,9 @@ Hay: Tình cờ được khám xác định
 giới tính khi thi đấu thể thao.
 VĐV: Caster Semenya (1’56”)
 Chung kết 800m nữ ở Berlin 2009.
-45
-5.2. Lưỡng tính giả nữ (ít gặp hơn)
+
+### Lưỡng tính giả nữ (ít gặp hơn)
+
 1/12.500. Có buồng trứng; 46,XX; VT Barr (+).
 ĐBG CYP21 (6p21.3) → Thiếu hụt enzyme steroid 21-
 hydroxylase → Cản trở corticoid tổng hợp bình thường
@@ -940,15 +936,16 @@ Nguyên nhân khác (hiếm), do: mẹ dùng androgen khi
 mang thai; mẹ bị u nang hóa buồng trứng tiết hormon
 nam hoặc tuyến thượng thận của bào thai bội tiết
 androgen (Tăng sản bẩm sinh → Có tính di truyền)
-46
+
 Lâm sàng: âm vật phì đại, môi lớn dính nhau.
 (biến dạng cấu trúc bpsd ngoài: nam hóa).
 Khi được điều trị thích hợp, bé gái có thể dậy thì bình
 thường và sinh con. Ngược lại, tình trạng nam hóa
 nặng tiếp tục đến trưởng thành (tạo 1 đoạn niệu đạo
 dương vật giống người nam có tinh hoàn ẩn).
-47
-5.4. Giới đảo nghịch (Sex Reversal)
+
+### Giới đảo nghịch (Sex Reversal)
+
 1 / 20.000 80%: Nam 46,XX VT Barr (+).
 1 / 50.000 20%: Nữ 46,XY
 ➔ Tuyến sinh dục khác hoàn toàn với karyotype
@@ -957,27 +954,28 @@ dương vật giống người nam có tinh hoàn ẩn).
 * Loạn sản tuyến sinh dục hoàn toàn (CGD)
 Có thể xảy ra trên NST giới tính hoặc NST thường.
 Nguyên nhân ??
-48
-5.4.1. Giới đảo nghịch trên NST giới tính
+
+<b class="highlight--2>Giới đảo nghịch trên NST giới tính</b>
+
 1966, Ferguson - Smith đưa ra giả thuyết phù hợp:
 * 80% nam 46,XX: do chuyển đoạn SRY sang NST X.
 * 20% nữ 46,XY: do đ.biến điểm hay mất đoạn SRY.
 Có SRY tạo hệ sd nam, không có sẽ tạo sd nữ.
 10 – 15% nữ 46,XY do mất đoạn SRY.
-(46,XY,SRY–
-)
+(46,XY,SRY–)
+
 10 – 15% do đột biến điểm.
-49
+
 Bệnh sinh giới đảo nghịch
-Nam: 46,XX(SRY+
-).
+Nam: 46,XX(SRY+)
+
 GP tạo tinh trùng: TĐC vùng PAR1 giữa Xp và Yp.
 Bất thường do đột biến chuyển đoạn:
 Yp sang Xp mang theo gen SRY.
 Trên Yq còn có ít nhất 3 gen khác:
 AZFa, AZFb và AZFc tạo tinh trùng.
 Nếu thiếu dẫn đến vô sinh.
-50
+
 Kiểu hình và diễn biến
 Nam: 46,XX(SRY+
 ) có các đặc điểm như TH: 47,XXY
@@ -990,7 +988,7 @@ thường, tỷ lệ xương và IQ bình thường, ít bị tâm thần.
 Nữ: 46,XY(SRY–
 ) cao bình thường, K.H như Turner,
 bị teo xơ tuyến sd nên không thể dậy thì tự nhiên.
-51
+
 Cơ sở di truyền
 Chẩn đoán xác định giới đảo nghịch phải dựa vào
 xét nghiệm FISH đối với gen SRY.
@@ -1004,8 +1002,9 @@ Các con: Nam: 46,XX(SRY+
 ) hoặc Nữ: 46,XY(SRY–
 ).
 * Chúng đều bị vô sinh không truyền cho đời sau.
-52
-5.4.2. Giới đảo nghịch trên NST thường
+
+<b class="highlight--5">Giới đảo nghịch trên NST thường</b>
+
 * Gen SOX9 (17q24) → 509 aa.
 Có vai trò quan trọng trong các gen biệt hóa tinh hoàn.
 SOX9 thường xuất hiện với mức độ nhỏ không đáng kể

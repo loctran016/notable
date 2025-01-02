@@ -25,6 +25,7 @@ category: 'Y1'
 - Acid uric, urea
 ```
 
+
 ### Tiền chất quan trọng
 
 1. PRPP = phosphoribosyl pyrophosphate
@@ -255,11 +256,7 @@ Tinh thể urate hình thành chủ yếu khi nồng độ acid uric trong máu 
 **Lưu ý:** Việc kiểm soát lối sống và chế độ ăn uống, tăng cường uống nước, hạn chế thực phẩm giàu purin, và điều trị y tế sớm là các biện pháp quan trọng để phòng ngừa và quản lý các biến chứng này.
 
 
-
-
-
-
-### 3. Theo bạn bác sĩ đã tham vắn chế độ ăn uống cho ông A như thể nào và tại sao khuyên ông A gặp bắc sĩ tim mạch để ngưng Hypothiazide?
+### 3. Theo bạn bác sĩ đã tham vấn chế độ ăn uống cho ông A như thể nào và tại sao khuyên ông A gặp bắc sĩ tim mạch để ngưng Hypothiazide?
 ### 4. Tại sao bác sĩ cho ông A uống Allopunnol sau khi ông A đã hết triệu chứng?
 ### 5. Dựa trên quá trình chuyển hóa purine, hãy cho biết các biện pháp giúp giảm nồng độ acid uric trong máu của ông A và tránh được sự hình thành sỏi thận.
 
