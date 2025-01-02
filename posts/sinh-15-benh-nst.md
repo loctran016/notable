@@ -955,7 +955,7 @@ dương vật giống người nam có tinh hoàn ẩn).
 Có thể xảy ra trên NST giới tính hoặc NST thường.
 Nguyên nhân ??
 
-<b class="highlight--2>Giới đảo nghịch trên NST giới tính</b>
+<b class="highlight--2">Giới đảo nghịch trên NST giới tính</b>
 
 1966, Ferguson - Smith đưa ra giả thuyết phù hợp:
 * 80% nam 46,XX: do chuyển đoạn SRY sang NST X.
