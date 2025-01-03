@@ -25,7 +25,6 @@ category: 'Y1'
 - Acid uric, urea
 ```
 
-
 ### Tiền chất quan trọng
 
 1. PRPP = phosphoribosyl pyrophosphate
@@ -76,50 +75,51 @@ Hypothiazide là tên thương mại của **hydrochlorothiazide**, một loại
 <b>Cơ chế chi tiết:</b>
 
 1. **Ức chế tái hấp thu natri và chloride (Na⁺/Cl⁻):**
-   - Hypothiazide ức chế hoạt động của hệ thống đồng vận chuyển **Na⁺/Cl⁻** tại **ống lượn xa**.
-   - Kết quả:
-     - Giảm tái hấp thu Na⁺ và Cl⁻ từ lòng ống thận vào máu.
-     - Tăng nồng độ Na⁺ và Cl⁻ trong lòng ống thận.
+   * Hypothiazide ức chế hoạt động của hệ thống đồng vận chuyển **Na⁺/Cl⁻** tại **ống lượn xa**.
+   * Kết quả:
+     * Giảm tái hấp thu Na⁺ và Cl⁻ từ lòng ống thận vào máu.
+     * Tăng nồng độ Na⁺ và Cl⁻ trong lòng ống thận.
 
 2. **Tăng đào thải nước:**
-   - Sự tăng nồng độ Na⁺ trong lòng ống thận làm tăng áp suất thẩm thấu, kéo nước từ máu vào lòng ống thận theo cơ chế **thẩm thấu**.
-   - Kết quả là tăng lượng nước tiểu được bài tiết.
+   * Sự tăng nồng độ Na⁺ trong lòng ống thận làm tăng áp suất thẩm thấu, kéo nước từ máu vào lòng ống thận theo cơ chế **thẩm thấu**.
+   * Kết quả là tăng lượng nước tiểu được bài tiết.
 
 3. **Ảnh hưởng đến ion khác:**
-   - Hypothiazide cũng làm tăng bài tiết các ion **K⁺** và **Mg²⁺**, dẫn đến nguy cơ hạ kali máu và hạ magiê máu.
-   - Đồng thời, thuốc làm giảm bài tiết **Ca²⁺**, dẫn đến giảm nguy cơ sỏi thận liên quan đến canxi.
+   * Hypothiazide cũng làm tăng bài tiết các ion **K⁺** và **Mg²⁺**, dẫn đến nguy cơ hạ kali máu và hạ magiê máu.
+   * Đồng thời, thuốc làm giảm bài tiết **Ca²⁺**, dẫn đến giảm nguy cơ sỏi thận liên quan đến canxi.
 
 4. **Tăng lọc nước tiểu:**
-   - Tổng lượng nước tiểu tăng do sự giảm tái hấp thu nước và muối ở ống lượn xa.
+   * Tổng lượng nước tiểu tăng do sự giảm tái hấp thu nước và muối ở ống lượn xa.
 
 ---
 
 <b>Hậu quả sinh lý:</b>
 
-- **Giảm thể tích dịch ngoại bào (giảm phù):**
-   - Giảm lượng natri trong máu dẫn đến giảm thể tích dịch ngoại bào và hạ huyết áp.
-   
-- **Tăng bài tiết nước tiểu:**
-   - Giảm thể tích huyết tương và giảm áp lực tại mao mạch cầu thận, gây lợi tiểu.
+* **Giảm thể tích dịch ngoại bào (giảm phù):**
+  * Giảm lượng natri trong máu dẫn đến giảm thể tích dịch ngoại bào và hạ huyết áp.
 
-- **Nguy cơ mất cân bằng điện giải:**
-   - Hạ kali máu (hypokalemia) là tác dụng phụ phổ biến, có thể gây yếu cơ, mệt mỏi, hoặc rối loạn nhịp tim.
+* **Tăng bài tiết nước tiểu:**
+  * Giảm thể tích huyết tương và giảm áp lực tại mao mạch cầu thận, gây lợi tiểu.
+
+* **Nguy cơ mất cân bằng điện giải:**
+  * Hạ kali máu (hypokalemia) là tác dụng phụ phổ biến, có thể gây yếu cơ, mệt mỏi, hoặc rối loạn nhịp tim.
 
 ---
 
 <b>Ứng dụng lâm sàng:</b>
 
-- Điều trị:
-  - **Tăng huyết áp:** Giảm thể tích tuần hoàn và giảm áp lực mạch máu.
-  - **Phù:** Do suy tim, suy thận, hoặc xơ gan.
-- Dự phòng:
-  - Giảm nguy cơ hình thành sỏi thận do canxi.
+* Điều trị:
+  * **Tăng huyết áp:** Giảm thể tích tuần hoàn và giảm áp lực mạch máu.
+  * **Phù:** Do suy tim, suy thận, hoặc xơ gan.
+* Dự phòng:
+  * Giảm nguy cơ hình thành sỏi thận do canxi.
 
 ---
 
 <b>Tóm tắt:</b>
 
 Hypothiazide làm tăng lượng nước tiểu bằng cách:
+
 1. Ức chế tái hấp thu Na⁺ và Cl⁻ tại ống lượn xa.
 2. Tăng đào thải nước theo cơ chế thẩm thấu.
 3. Gây mất một số ion (K⁺, Mg²⁺) và giữ lại ion Ca²⁺.
@@ -158,36 +158,35 @@ Thuốc này hiệu quả trong việc điều trị tăng huyết áp và phù,
 Nếu bạn đang có ý định sử dụng thuốc này, hãy tham khảo ý kiến bác sĩ để đảm bảo an toàn và hiệu quả nhé! 😊
 :::
 
-
 ::: details Tinh thể urate là gì?
 
 <b>Nồng độ acid uric bình thường trong cơ thể</b>
 
-- Nam giới: 3,5 - 7,2 mg/dL (210 - 430 µmol/L).  
-- Nữ giới: 2,6 - 6,0 mg/dL (155 - 360 µmol/L).  
-- Trẻ em: 2,0 - 5,5 mg/dL (120 - 330 µmol/L).  
+* Nam giới: 3,5 - 7,2 mg/dL (210 - 430 µmol/L).
+* Nữ giới: 2,6 - 6,0 mg/dL (155 - 360 µmol/L).
+* Trẻ em: 2,0 - 5,5 mg/dL (120 - 330 µmol/L).
 
 Ở mức này, acid uric tồn tại chủ yếu ở dạng hòa tan trong máu và được đào thải qua thận qua nước tiểu.
 
 <b>Khi nồng độ acid uric tăng cao (Hyperuricemia)</b>
 
-- Khi nồng độ acid uric trong máu vượt ngưỡng hòa tan (~6,8 mg/dL hoặc ~408 µmol/L), acid uric dễ kết tinh thành monosodium urate (MSU).
-- Sự hình thành tinh thể MSU thường xảy ra khi:
+* Khi nồng độ acid uric trong máu vượt ngưỡng hòa tan (~6,8 mg/dL hoặc ~408 µmol/L), acid uric dễ kết tinh thành monosodium urate (MSU).
+* Sự hình thành tinh thể MSU thường xảy ra khi:
   1. Nồng độ acid uric máu > 7,0 mg/dL đối với nam giới hoặc > 6,0 mg/dL đối với nữ giới.
   2. Các yếu tố thuận lợi khác như pH thấp, nhiệt độ thấp (khớp ngoại vi, ví dụ ngón chân cái, thường mát hơn).
 
 <b>Quá trình hình thành tinh thể monosodium urate trong bệnh gout</b>
 
 1. <b>Giai đoạn tăng acid uric máu</b>:
-   - Nồng độ acid uric máu tăng nhưng chưa có triệu chứng.
-   - Khi vượt ngưỡng hòa tan, acid uric kết hợp với ion natri (Na⁺) trong máu, tạo thành tinh thể monosodium urate.
+   * Nồng độ acid uric máu tăng nhưng chưa có triệu chứng.
+   * Khi vượt ngưỡng hòa tan, acid uric kết hợp với ion natri (Na⁺) trong máu, tạo thành tinh thể monosodium urate.
 
 2. <b>Lắng đọng tinh thể trong khớp</b>:
-   - Tinh thể monosodium urate tích tụ trong dịch khớp, mô liên kết hoặc mô mềm.
-   - Tinh thể này gây phản ứng viêm cấp tính, dẫn đến sưng, đỏ, đau khớp điển hình của bệnh gout.
+   * Tinh thể monosodium urate tích tụ trong dịch khớp, mô liên kết hoặc mô mềm.
+   * Tinh thể này gây phản ứng viêm cấp tính, dẫn đến sưng, đỏ, đau khớp điển hình của bệnh gout.
 
 3. <b>Giai đoạn mạn tính (Gout mạn)</b>:
-   - Nếu không điều trị, tinh thể MSU tiếp tục tích tụ, gây tổn thương khớp, xương, và mô mềm (hình thành các nốt tophi).
+   * Nếu không điều trị, tinh thể MSU tiếp tục tích tụ, gây tổn thương khớp, xương, và mô mềm (hình thành các nốt tophi).
 
 <b>Tóm tắt các mức nồng độ acid uric</b>
 
@@ -202,28 +201,33 @@ Kiểm soát nồng độ acid uric thông qua lối sống và thuốc men là 
 
 ## Case Lâm Sàng
 
-### 1. Phân tích các yếu tố ảnh hưởng đến việc hình thành tinh thể urate.
+### 1. Phân tích các yếu tố ảnh hưởng đến việc hình thành tinh thể urate
 
 Tinh thể ureat thường là monosodium ureat
 
 Tinh thể urate hình thành chủ yếu khi nồng độ acid uric trong máu và nước tiểu vượt ngưỡng hòa tan. Các yếu tố chính ảnh hưởng đến quá trình này bao gồm:
 
  a. Nồng độ acid uric:
-- **Tăng sản xuất acid uric:** Liên quan đến tiêu thụ thực phẩm giàu purin như thịt đỏ, hải sản, và rượu bia.
-- **Giảm đào thải acid uric:** Thường do bệnh lý thận, sử dụng thuốc lợi tiểu hoặc rối loạn di truyền.
+
+* **Tăng sản xuất acid uric:** Liên quan đến tiêu thụ thực phẩm giàu purin như thịt đỏ, hải sản, và rượu bia.
+* **Giảm đào thải acid uric:** Thường do bệnh lý thận, sử dụng thuốc lợi tiểu hoặc rối loạn di truyền.
 
  b. Độ pH nước tiểu:
-- Nước tiểu có pH thấp (<5.5) làm giảm khả năng hòa tan của acid uric, tạo điều kiện cho tinh thể urate hình thành.
+
+* Nước tiểu có pH thấp (<5.5) làm giảm khả năng hòa tan của acid uric, tạo điều kiện cho tinh thể urate hình thành.
 
  c. Nồng độ các ion và chất hòa tan khác:
-- Sự hiện diện của các ion natri và kali có thể thúc đẩy sự kết tinh của urate.
-- Cô đặc nước tiểu (do thiếu nước) làm tăng nguy cơ hình thành tinh thể.
+
+* Sự hiện diện của các ion natri và kali có thể thúc đẩy sự kết tinh của urate.
+* Cô đặc nước tiểu (do thiếu nước) làm tăng nguy cơ hình thành tinh thể.
 
  d. Yếu tố di truyền:
-- Một số đột biến gen liên quan đến enzyme xanthine oxidase có thể làm tăng nguy cơ hình thành acid uric và tinh thể urate.
+
+* Một số đột biến gen liên quan đến enzyme xanthine oxidase có thể làm tăng nguy cơ hình thành acid uric và tinh thể urate.
 
  e. Lối sống và chế độ ăn uống:
-- Chế độ ăn giàu purin và uống ít nước.
+
+* Chế độ ăn giàu purin và uống ít nước.
 
 1. **Thịt đỏ và nội tạng động vật**: Thịt bò, thịt cừu, thịt heo.
 2. **Hải sản**: Cá,Động vật có vỏ
@@ -233,30 +237,34 @@ Tinh thể urate hình thành chủ yếu khi nồng độ acid uric trong máu 
 6. **Đồ uống**:Rượu bia; Nước ngọt và đồ uống chứa fructose cao (không chứa purin trực tiếp nhưng kích thích sản xuất acid uric)
 
 Để giảm nguy cơ tăng acid uric, hãy lựa chọn các thực phẩm ít purin, ví dụ:
-- Rau củ: cà chua, cà rốt, dưa leo, bông cải trắng.
-- Trái cây: táo, lê, chuối, dưa hấu.
-- Thực phẩm protein ít purin: trứng, sữa, phô mai, đậu hũ.
-- Ngũ cốc: gạo, bánh mì, mì ống.
 
-### 2. Giải thích mỗi liền quan giữa lối sống và chế độ ăn của ông A với việc tăng acid uric máu, hình thành sỏi thận và nốt cục ở ngón chăn của ông A.
+* Rau củ: cà chua, cà rốt, dưa leo, bông cải trắng.
+* Trái cây: táo, lê, chuối, dưa hấu.
+* Thực phẩm protein ít purin: trứng, sữa, phô mai, đậu hũ.
+* Ngũ cốc: gạo, bánh mì, mì ống.
+
+### 2. Giải thích mỗi liền quan giữa lối sống và chế độ ăn của ông A với việc tăng acid uric máu, hình thành sỏi thận và nốt cục ở ngón chăn của ông A
 
  a. Tăng acid uric máu:
-- **Tiêu thụ thực phẩm giàu purin:** Nếu ông A ăn nhiều thịt đỏ, hải sản, hoặc uống bia, quá trình chuyển hóa purin sẽ dẫn đến tăng sản xuất acid uric.
-- **Ít vận động và béo phì:** Béo phì làm tăng khả năng kháng insulin, dẫn đến giảm đào thải acid uric qua thận.
-- **Uống ít nước:** Làm giảm lọc acid uric qua nước tiểu.
+
+* **Tiêu thụ thực phẩm giàu purin:** Nếu ông A ăn nhiều thịt đỏ, hải sản, hoặc uống bia, quá trình chuyển hóa purin sẽ dẫn đến tăng sản xuất acid uric.
+* **Ít vận động và béo phì:** Béo phì làm tăng khả năng kháng insulin, dẫn đến giảm đào thải acid uric qua thận.
+* **Uống ít nước:** Làm giảm lọc acid uric qua nước tiểu.
 
  b. Hình thành sỏi thận:
-- **Cô đặc nước tiểu:** Nếu ông A không uống đủ nước, nồng độ acid uric trong nước tiểu sẽ tăng, dễ hình thành sỏi urate.
-- **Độ pH nước tiểu thấp:** Thói quen ăn uống có thể làm giảm pH nước tiểu, tạo điều kiện thuận lợi cho sự kết tinh.
+
+* **Cô đặc nước tiểu:** Nếu ông A không uống đủ nước, nồng độ acid uric trong nước tiểu sẽ tăng, dễ hình thành sỏi urate.
+* **Độ pH nước tiểu thấp:** Thói quen ăn uống có thể làm giảm pH nước tiểu, tạo điều kiện thuận lợi cho sự kết tinh.
 
  c. Hình thành nốt cục ở ngón chân (Tophi):
-- **Tích tụ acid uric:** Nồng độ acid uric máu cao dẫn đến kết tinh tại các khớp và mô mềm, gây viêm và tạo nốt tophi, thường thấy ở ngón chân cái.
-- **Yếu tố cơ học:** Đi lại và áp lực lên khớp ngón chân có thể làm tăng khả năng lắng đọng tinh thể urate tại đây.
+
+* **Tích tụ acid uric:** Nồng độ acid uric máu cao dẫn đến kết tinh tại các khớp và mô mềm, gây viêm và tạo nốt tophi, thường thấy ở ngón chân cái.
+* **Yếu tố cơ học:** Đi lại và áp lực lên khớp ngón chân có thể làm tăng khả năng lắng đọng tinh thể urate tại đây.
 
 **Lưu ý:** Việc kiểm soát lối sống và chế độ ăn uống, tăng cường uống nước, hạn chế thực phẩm giàu purin, và điều trị y tế sớm là các biện pháp quan trọng để phòng ngừa và quản lý các biến chứng này.
 
-
 ### 3. Theo bạn bác sĩ đã tham vấn chế độ ăn uống cho ông A như thể nào và tại sao khuyên ông A gặp bắc sĩ tim mạch để ngưng Hypothiazide?
-### 4. Tại sao bác sĩ cho ông A uống Allopunnol sau khi ông A đã hết triệu chứng?
-### 5. Dựa trên quá trình chuyển hóa purine, hãy cho biết các biện pháp giúp giảm nồng độ acid uric trong máu của ông A và tránh được sự hình thành sỏi thận.
 
+### 4. Tại sao bác sĩ cho ông A uống Allopunnol sau khi ông A đã hết triệu chứng?
+
+### 5. Dựa trên quá trình chuyển hóa purine, hãy cho biết các biện pháp giúp giảm nồng độ acid uric trong máu của ông A và tránh được sự hình thành sỏi thận

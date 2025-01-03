@@ -628,6 +628,7 @@ Di truyền tế bào:
   * 48,XXXY; 48,XXYY; 49,XXXXY; 49,XXXYY
 
 ## VẬT THỂ NHIỄM SẮC GIỚI TÍNH
+
 Quan sát dưới KHV NST X, Y. Nếu thấy X, Y có trong:
 Tb đang phân chia  NST GT
 Nhân tb ở gian kỳ  Vật thể nhiễm sắc GT
@@ -667,11 +668,11 @@ Vật thể Barr – Barr body
 49,XXXXX ➔ Chẩn đoán số NST X ở người bất kỳ
 
 Đặc điểm vật thể Barr:
+
 * Sự bất hoạt X: Ngẫu nhiên và không thuận nghịch
 (Xảy ra lúc phôi bào chứa khoảng 20 tb)
 → Giúp cân bằng di truyền: 46,XX và 46,XY
 $\Rightarrow$ Thừa NST X chỉ gây hậu quả tương đối nhỏ
-
 
 Gen SHOX (Xp22.33 và Yp11.3) PAR1
 Mã hóa ra một yếu tố giúp điều hòa sự sao mã của các
@@ -705,10 +706,11 @@ Thừa Guanine và Hypoxanthine → Xanthine → A.Uric
 ➔ Bệnh Gout và sỏi thận.
 
 Rối loạn cấu trúc NST X:
+
 * 46,X,i(X)(q10) → VT Barr lớn hơn
 * 46,X,i(X)(p10) → ? →
 * 46,X,del(X)(p15) → VT Barr nhỏ hơn
- 
+
 ❖ Các TH bất hoạt NST X không ngẫu nhiên:
 Nếu karyotype người bệnh có đột biến cấu trúc NST X
 dạng mất cân bằng (mất đoạn, lặp đoạn, NST đều)
@@ -716,6 +718,7 @@ dạng mất cân bằng (mất đoạn, lặp đoạn, NST đều)
 → Tăng sức sống cho người bệnh
 
 ## HỆ SINH DỤC NGƯỜI
+
 Hệ sinh dục: gồm 3 phần:
 
 * Tuyến s.dục: buồng trứng (nữ), tinh hoàn (nam).
@@ -774,7 +777,8 @@ hiện các hormon sd nam.
 
 ## NST GIỚI TÍNH Ở NGƯỜI
 
-### Nhiễm sắc thể X – Gen DAX1 (NR0B1).
+### Nhiễm sắc thể X – Gen DAX1 (NR0B1)
+
 NST X chứa > 150 triệu cặp base (> 1.400 gen).
 Gen DAX1 (Xp21.2) → 470 aa: kiểm soát tổng hợp
 các yếu tố quyết định: sự biệt hóa, sự trưởng thành và
@@ -785,6 +789,7 @@ Các gen khác có liên quan trên X:
 * Các tính trạng thường: SHOX (Xp), ...
 
 ### Nhiễm sắc thể Y – Gen SRY
+
 Bình thường: Nam 46,XY; Nữ: 46,XX
 Ngoại lệ (1/20.000):
 Nam: 46,XX Nữ: 46,XY.
@@ -807,14 +812,11 @@ Các rối loạn cấu trúc ở NST Y:
 46,X,del(Y)(q21) 46,X,i(Y)(q10) 46,X,del(Y)(p14)
 
 Tương tác giữa SRY và DAX1:
+
 * SRY hiện diện, ức chế DAX1→ Tinh hoàn (nam).
 * Thiếu SRY, DAX1 biểu hiện → Buồng trứng (nữ).
 
-CÁC GEN TÁC ĐỘNG LÊN HỆ SINH DỤC
-46,XX
- =
-
-46,XY
+CÁC GEN TÁC ĐỘNG LÊN HỆ SINH DỤC 46,XX = 46,XY
 
 Các yếu tố phát triển theo hướng nam
 
@@ -859,7 +861,6 @@ Thường có dị tật lỗ tiểu dưới
 → Có tuyến sd và đường sd là nam
 Nhưng bộ phận sd ngoài bị nữ hóa.
 
-
 Do thiếu enzyme 5  reductase-2
 Enzyme này giúp chuyển Testosteron → DHT
 Do đột biến gen SRD5A2 (2p23) dạng p.Arg227Gln
@@ -870,7 +871,6 @@ Tinh hoàn còn nằm trong ống bẹn hay môi lớn.
 Vẫn có AMH: ống Muller tiêu biến, ống Wolff phát triển
 do có Testosteron → Có đường sd nam
 
-
 Do thiếu enzyme 5  reductase-2
 Khi dậy thì, lượng Testosteron tăng cao
 → Một số đặc điểm giới tính phụ: tăng lượng cơ, giọng
@@ -880,7 +880,6 @@ Người bệnh có tiên lượng tốt nếu được chẩn đoán sớm
 và phẫu thuật kịp thời < 2t để có con (hỗ trợ sinh sản).
  Khám và làm XN các enzyme, siêu âm đường sd.
 Hoặc: mổ thăm dò, sinh thiết tuyến sd.
-
 
 Do thiếu Testosteron
 Đột biến gen 17 -HSD3 (9q22) làm thiếu hụt enzyme
@@ -918,6 +917,7 @@ Phôi thai học: giống lưỡng tính giả nam .
 Hội chứng nữ hóa tinh hoàn 46,XY
 Rất hiếm, tỷ lệ 1/50.000 trẻ sinh ra sống.
 Được phát hiện khi đi khám Bs vì:
+
 * Đến tuổi dậy thì vẫn vô kinh.
 * Thoát vị bẹn (sa ruột).
 Hay: Tình cờ được khám xác định
@@ -950,6 +950,7 @@ dương vật giống người nam có tinh hoàn ẩn).
 1 / 50.000 20%: Nữ 46,XY
 ➔ Tuyến sinh dục khác hoàn toàn với karyotype
 (Bộ phận sinh dục ngoài phụ thuộc tuyến sinh dục)
+
 * Rối loạn phát triển giới tính (DSD)
 * Loạn sản tuyến sinh dục hoàn toàn (CGD)
 Có thể xảy ra trên NST giới tính hoặc NST thường.
@@ -958,6 +959,7 @@ Nguyên nhân ??
 <b class="highlight--2">Giới đảo nghịch trên NST giới tính</b>
 
 1966, Ferguson - Smith đưa ra giả thuyết phù hợp:
+
 * 80% nam 46,XX: do chuyển đoạn SRY sang NST X.
 * 20% nữ 46,XY: do đ.biến điểm hay mất đoạn SRY.
 Có SRY tạo hệ sd nam, không có sẽ tạo sd nữ.
@@ -996,6 +998,7 @@ Nam 46,XX(SRY+
 ) và Nữ 46,XY(SRY–
 )
 → Do tái tổ hợp mới.
+
 * Bố mẹ ít có nguy cơ sinh con tiếp theo bị bệnh.
 * Nếu bố mang chuyển đoạn cân bằng Xp với Yp, thì:
 Các con: Nam: 46,XX(SRY+
