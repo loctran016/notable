@@ -25,7 +25,7 @@ export default hopeTheme(
 
         author: {
             name: 'LocTran016',
-            //   url: "https://your.domain",
+            url: 'https://loctran016.github.io',
         },
 
         favicon: '/favicon.ico',
@@ -40,7 +40,7 @@ export default hopeTheme(
 
         blog: {
             description: 'A YDS-er that enjoy Programming 🧑‍💻 <br> & Gym 💪',
-            intro: '/intro.html',
+            intro: 'https://loctran016.github.io',
             avatar: 'logo.jpg',
             medias: {
                 Discord: 'https://example.com',
