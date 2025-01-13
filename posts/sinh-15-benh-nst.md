@@ -120,7 +120,7 @@ NST bị đứt rời 1 hoặc nhiều đoạn. 1/7.000
 
 #### Mất đoạn cuối
 
-Mất 1 đoạn ở phần cuối của NST: 46,XX,18p46,XX,del(18)(p21) hoặc 46,XX,del(18)(pter→p21:)
+Mất 1 đoạn ở phần cuối của NST: 46,XX,18p- hoặc 46,XX,del(18)(p21) hoặc 46,XX,del(18)(pter→p21:)
 
 Mất cả 2 đoạn ở phần cuối của 2 nhánh NST: 46,XX,r(X)(p22q36) hoặc 46,XX,r(X)(::p22 $\to$ q36:\:)
 → NST hình vòng (Ring). Hiếm khi xảy ra.
