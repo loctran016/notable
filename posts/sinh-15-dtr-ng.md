@@ -1,5 +1,5 @@
 ---
-title: 'Bài 14. Di Truyền Đơn Gen, Đa Gen, Đa Nhân Tố Ở Người'
+title: 'Bài 15. Di Truyền Đơn Gen, Đa Gen, Đa Nhân Tố Ở Người'
 description: ''
 date: 2024-12-23
 tags: ['Sinh Di Truyền']

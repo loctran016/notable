@@ -1,5 +1,5 @@
 ---
-title: 'Bài 12. Chu kỳ tế bào'
+title: 'Bài 12A. Chu kỳ tế bào'
 description: ''
 date: 2024-12-10
 tags: ['Sinh Di Truyền']

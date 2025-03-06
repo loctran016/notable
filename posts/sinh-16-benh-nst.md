@@ -1,5 +1,5 @@
 ---
-title: 'Bài 15. Bệnh Học Nhiễm Sắc Thể Người'
+title: 'Bài 16. Bệnh Học Nhiễm Sắc Thể Người'
 description: ''
 date: 2024-12-30
 tags: ['Sinh Di Truyền']

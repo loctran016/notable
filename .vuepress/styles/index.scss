@@ -125,10 +125,12 @@ body {
         color: hsl(210, 100%, 49%);
     }
     &--6 {
-        color: hsl(270, 100%, 50%);
+        color: hsl(285, 100%, 60%);
+        font-weight: bold;
     }
     &--7 {
-        color: hsl(300, 100%, 49%);
+        font-weight: bold;
+        color: hsl(300, 100%, 59%);
     }
 }
 li:has(> .highlight--1)::marker {

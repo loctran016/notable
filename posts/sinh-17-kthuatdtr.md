@@ -1,5 +1,5 @@
 ---
-title: 'Bài 16. Kĩ thuật SHPT'
+title: 'Bài 17. Kĩ thuật SHPT'
 description: ''
 date: 2025-01-02
 tags: ['Sinh Di Truyền']
