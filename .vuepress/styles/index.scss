@@ -262,3 +262,8 @@ div.markmap-wrapper {
         font-size: 1rem;
     }
 }
+
+mjx-container[jax='SVG'] {
+    color: hsl(170, 100%, 69%);
+    // color: white;
+}

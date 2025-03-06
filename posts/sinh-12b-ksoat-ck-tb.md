@@ -15,7 +15,7 @@ category: 'Y1'
 bệnh ung thư ở người.
 ```
 
-## CÁC PHÂN TỬ THAM GIA K.SOÁT CKTB
+## Các phân tử kiểm soát CKTB
 
 ```markmap
 ### Hai nhóm phân tử nội bào:
@@ -62,7 +62,7 @@ Tb bị stress  $\to$ p16 hoạt động $\to$ Không đi vào S, ngược lại
 
 * ĐBG p16 $\to$ Gen mã hóa Cdk4 hoặc G -cyclin tự khuyếch đại $\to$ Tb tăng sinh quá mức $\to$ U (U nguyên bào Tk, UT da, UT vú)
 
-## CƠ CHẾ PHÂN TỬ TẠI BA ĐIỂM K.SOÁT
+## Cơ chế phân tử tại 3 điểm kiểm soát
 
 ![alt text](image-13.png)
 
@@ -73,6 +73,8 @@ Là điểm k.soát mà tb cam kết không được đảo ngược q.trình ph
 <p class="highlight--2">Cần phải có: GF - Kích thước đủ lớn - Chất dự trữ - DNA toàn vẹn</p>
 
 Nếu điểm R phát hiện bất thường trong tb $\to$ CKIs hoạt động $\to$ CKTB dừng lại $\to$ G0 (sửa chữa / Apop.)
+
+$\Rightarrow$
 
 Cơ chế:
 
@@ -117,11 +119,12 @@ $\to$ Kích hoạt hệ thống <span class="highlight--2">Ubiquitin–proteasom
 
 ![alt text](image-15.png)
 
-## ĐIỀU HOÀ BỞI CÁC YẾU TỐ NGOẠI BÀO
+## Điều hoà bởi các yếu tố ngoại bào
 
 Các nhân tố ngoại bào (chủ yếu là các protein tín hiệu được tiết ra từ các tb lân cận,…).
-+ Các nhân tố ngoại bào thường l.kết các thụ thể trên bề mặt tb  Kích hoạt đường truyền tín hiệu nội bào
- Tb tồn tại, phát triển và phân chia hợp lý
+
+* Các nhân tố ngoại bào thường l.kết các thụ thể trên bề mặt tb $\to$ Kích hoạt đường truyền tín hiệu nội bào
+$\to$ Tb tồn tại, phát triển và phân chia hợp lý
 
 ```markmap
 ### 3 loại nhân tố ngoại bào (tích cực)
@@ -129,10 +132,57 @@ Các nhân tố ngoại bào (chủ yếu là các protein tín hiệu được 
 - Các nhân tố tăng trưởng (Growth factors)
 - Các nhân tố sinh tồn (Surviral factors)
 - Các nhân tố gây phân bào (Mitogen)
-
 ```
 
 ### Các nhân tố tăng trưởng kích thích tb phát triển
+
 (tăng kích thước và khối lượng tb)
-+ Các nhân tố Gf thúc đẩy tb tăng tổng hợp protein và ức chế các protein và đại phân tử khác phân hủy.
-+ Cơ thể muốn phát triển lệ thuộc: sự phát triển và sự phân bào. Nếu: tế bào có phân chia mà không phát triển  Kích thước tb nhỏ lại, khối lượng không tang. + Ở nấm men, sự phát triển và phân bào đều cần chất dinh dưỡng. Ở tb ĐV đều cần tín hiệu từ các tb khác.
+
+* Các nhân tố Gf thúc đẩy tb tăng tổng hợp protein và ức chế các protein và đại phân tử khác phân hủy.
+* Cơ thể muốn phát triển lệ thuộc: <span class="highlight--2">sự phát triển</span> và <span class="highlight--3">sự phân bào</span>. Nếu: tế bào có phân chia mà không phát triển $\to$ Kích thước tb nhỏ lại, khối lượng không tăng.
+* Ở nấm men, sự phát triển và phân bào đều cần chất dinh dưỡng. Ở tb ĐV đều cần tín hiệu từ các tb khác.
+
+![alt text](image-16.png)
+
+* Tb phát triển không lệ thuộc hệ thống k.soát CKTB, ngược với phân bào (hiểu biết khá rõ). Vd: <span class="highlight--4">tb TK, Cơ.</span>
+
+### Các nhân tố sinh tồn (Sf) ngăn cản quá trình apoptosis, thúc đẩy tb tồn tại
+
+* Mỗi tb đều cần nhân tố sinh tồn từ các tb khác để tồn tại (do tăng hoạt động nhóm anti-apoptotic Bcl-2). Nếu thiếu, tb tự kích hoạt apoptosis. <span class="highlight--3">Vd: Các tb TK</span>
+* <span class="highlight--2">Các tb TK</span> thường được tạo ra quá nhiều vào gđ sớm ở cơ thể đang phát triển $\to$ Giành nhau 1 lượng nhỏ nhân tố Sf $\to$ Tb nào nhận đủ thì sống, ngược lại. - Tb còn sống tự điều chỉnh $\to$ Các kết nối trong hệ TK
+$\to$ Kiểm soát số tb hợp lý $\to$ Cơ thể phát triển hài hoà.
+
+### Các nhân tố gây phân bào (M) bằng cách thúc đẩy tế bào vào S
+
+Tb cần tăng sinh phải có nhân tố M: PDGF, TGF-α, EGF,… đều có tính đặc hiệu rộng, trừ erythropoietin.
+
+Khi liên kết với thụ thể $\to$ Khởi tạo đường truyền tín hiệu nội bào (GTPase Ras nhỏ) $\to$  Kích hoạt tầng MAP kinase $\to$ Tăng sx c-myc (protein điều hoà gen):
+
+* Tăng phiên mã các gen $\to$ Tăng phát triển tb
+* Hoạt hoá G -cyclin $\to$ P/hợp G -Cdk hoạt động
+
+Có nh.tố M $\to$ Ức chế CKI $\to$ Kích thích phân bào
+
+* PDGF là protein tiết có trong các túi tiết của tiểu cầu. Khi cục máu đông hình thành tại vết thương, PDGF (được giải phóng từ các tiểu cầu trong cục máu đông) l.kết thụ thể Tyrosine kinase của các tb còn sống xung quanh $\to$ Kích thích tb tăng sinh $\to$ Lành vết thương.
+* Nếu 1 phần mô gan bị mất (phẫu thuật,…), PDGF ở cục máu đông kích thích các tb gan còn sống xung quanh đó tăng sinh $\to$ Tái tạo phần mô gan đã bị mất.
+233.3. Các nhân tố gây phân bào bằng cách
+
+Hầu hết các tb người đều ở G~0~ , nhưng khả năng đảo
+ngược gđ G~0~ thì khác nhau giữa các loại tb. Vd:
+
+* Các tb TK và tb cơ xương (tb biệt hóa cuối cùng) đều
+ở G~0~ mà gen mã hóa Cdk và cyclin luôn bị tắt vĩnh viễn $\to$ Hầu như không phân bào, ngược lại:
+* Các tb gan khi ở G~0~ , nếu bị tổn thương $\to$ Phân bào
+* Nguyên bào sợi và một số B.c lymphocytes có thể ra vào CKTB nhiều lần trong quá trình sống.
+
+### Một số nhân tố ngoại bào ức chế phân bào
+
+Các nhân tố này ức chế phân bào thay vì thúc đẩy như 3 loại nhân tố kể trên. Vd:
+
+* TGF-β ức chế 1 số loại tb tăng sinh bằng cách ngăn cản sự tiếp diễn CKTB ở G~1~ hoặc kích thích apoptosis
+$\to$ Ức chế các cơ quan phát triển quá đà trong cơ thể.
+* Myostatin là protein ức chế các tb cơ tiền thân (nguyên bào cơ) phát triển và tăng sinh.
+* Ở động vật, nếu thiếu myostatin hoặc được điều trị bằng các chất ức chế myostatin $\to$ Cơ bắp phát triển
+to lớn hơn bình thường.
+
+<!-- Trang 26 -->

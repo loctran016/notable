@@ -30,7 +30,7 @@ export default hopeTheme(
 
         favicon: '/favicon.ico',
 
-        iconAssets: 'fontawesome-with-brands',
+        // iconAssets: 'fontawesome-with-brands',
 
         // logo: "",
         // TODO: add logo
@@ -142,18 +142,12 @@ export default hopeTheme(
             // },
 
             components: {
-                components: [
-                    'Badge',
-                    'VPCard',
-                    'PDF',
-                    'Share',
-                    'VidStack',
-                    'FontIcon',
-                ],
+                components: ['Badge', 'VPCard', 'PDF', 'Share', 'VidStack'],
+                // 'FontIcon',
                 componentOptions: {
-                    fontIcon: {
-                        assets: ['iconify', 'fontawesome'],
-                    },
+                    // fontIcon: {
+                    //     assets: ['iconify', 'fontawesome'],
+                    // },
                     share: {
                         //   colorful: true,
                         services: [
