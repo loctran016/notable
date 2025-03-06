@@ -116,6 +116,9 @@ export default hopeTheme(
 
         plugins: {
             slimsearch: true,
+            icon: {
+                assets: 'fontawesome-with-brands',
+            },
             blog: {
                 excerptLength: 0,
                 type: [
