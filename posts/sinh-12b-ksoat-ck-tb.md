@@ -1,7 +1,7 @@
 ---
 title: 'Bài 12B. Kiểm soát chu kỳ tế bào'
 description: ''
-date: 2024-13-10
+date: 2024-12-13
 tags: ['Sinh Di Truyền']
 category: 'Y1'
 ---
